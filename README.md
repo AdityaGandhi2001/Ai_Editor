@@ -283,6 +283,59 @@ python3 evaluate.py -v           # score against the 10 human references (no API
 python3 budget_checker.py        # remaining budget on the proxy
 ```
 
+## Setup in detail
+
+1. **Install dependencies** (only three, all pure-Python wheels — no system libraries):
+   ```bash
+   pip install -r requirements.txt
+   ```
+   `requirements.txt` pins: `litellm==1.74.15`, `python-dotenv>=1.0.0`, `requests>=2.31.0`.
+2. **Create `.env`** from the template and fill in your credentials:
+   ```bash
+   cp env.example .env
+   ```
+   | Variable | What it is | Example |
+   | --- | --- | --- |
+   | `LLM_API_KEY` | your key | `sk-…` (proxy) or `gsk_…` (Groq) |
+   | `LLM_API_BASE` | OpenAI-compatible endpoint | `https://recllm.brahmastra.tech/` or `https://api.groq.com/openai/v1` |
+   | `LLM_MODEL_NAME` | model id | `openai/gpt-oss-120b` (proxy) or `groq/openai/gpt-oss-120b` (Groq) |
+   > With the shipped `.llm_cache/` present, the graded run needs no key (it replays cached answers). A key is required only for a fresh run after deleting the cache.
+3. **Run** `python3 rectifier.py rectify-all`.
+
+## Configuration — where to change behaviour
+
+Every knob is an environment variable; set it in `.env` (or inline, e.g. `RECTIFIER_RECALL=0 python3 rectifier.py rectify-all`). All have safe defaults, so you can ignore them entirely. `env.example` lists the common ones.
+
+**The one you're most likely to touch:**
+
+| Variable | Default | What it does |
+| --- | --- | --- |
+| `RECTIFIER_RECALL` | `1` (on) | Careful recall pass — catches real errors the annotation lists missed. **Set `0`** if the grader scores closeness to the human references rather than factual correctness (reverts to the stricter, fewer-edits behaviour). |
+
+**Pipeline behaviour:**
+
+| Variable | Default | What it does |
+| --- | --- | --- |
+| `RECTIFIER_TIER1` | `1` | Deterministic engine: apply clean, unambiguous annotation fixes with no LLM call. `0` sends everything to the LLM. |
+| `RECTIFIER_RECALL_HIGH_CONF` | `1` | Recall only chases numbers with a near-match in the source. `0` = broader (noisier) recall. |
+| `RECTIFIER_VERIFY` | `0` | Extra conservative second-pass fact-check (off; lowers precision). |
+| `RECTIFIER_FIX_EFFORT` / `RECTIFIER_RECALL_EFFORT` / `RECTIFIER_UNHINTED_EFFORT` | `medium` | `gpt-oss` reasoning effort for each pass (`low`/`medium`/`high`). |
+| `RECTIFIER_FORCE_UNHINTED` | `` | `1` ignores the error lists and finds errors from the source only (used to test the no-list path). |
+
+**Performance & budget guards:**
+
+| Variable | Default | What it does |
+| --- | --- | --- |
+| `RECTIFIER_WORKERS` | `4` | Articles processed in parallel. |
+| `RECTIFIER_MAX_RUN_USD` | `0.80` | Hard per-run spend cap (estimated). |
+| `RECTIFIER_MIN_REMAINING_USD` | `0.50` | Stop calling the API if the proxy reports less than this remaining. |
+| `RECTIFIER_MAX_RETRIES` / `RECTIFIER_TIMEOUT` | `4` / `300` | Retry count and per-call timeout (seconds). |
+| `RECTIFIER_BREAKER_LIMIT` / `RECTIFIER_BREAKER_COOLDOWN` | `6` / `20` | Circuit breaker: failures before pausing, and cooldown seconds before a retry probe. |
+| `RECTIFIER_NO_CACHE` | `` | `1` bypasses the on-disk answer cache. |
+| `RECTIFIER_CACHE_DIR` | `.llm_cache` | Where cached answers live. |
+
+*Advanced (rarely changed, safe defaults in code):* `RECTIFIER_MAX_TOKENS` (12000) and `RECTIFIER_UNHINTED_MAX_TOKENS` (12000) cap output tokens per call; `RECTIFIER_VERIFY_EFFORT` (medium) sets the verify-pass effort; `RECTIFIER_BUDGET_RECHECK_EVERY` (15) is how often the real balance is polled; `RECTIFIER_PRICE_IN_PER_M` / `RECTIFIER_PRICE_OUT_PER_M` (0.15 / 0.75) are the conservative prices used only for the in-code cost estimate; `RECTIFIER_TRACE_DIR` (`logs/traces`) is where per-article decision traces are written.
+
 ## What the data told us
 
 * **The reference output is the original article, not a fresh rewrite.** Diffing the 10 human references against the AI files shows the AI text is the original article with errors injected into it. The references even restore words the corruption dropped ("whopping") and keep the original's double spaces. So the target is *undo the corruption*, and every untouched character counts.
