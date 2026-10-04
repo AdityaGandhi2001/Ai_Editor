@@ -2,6 +2,7 @@ import json
 import argparse
 import logging
 import os
+import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from rectification_system import run
@@ -86,6 +87,11 @@ def rectify_article(article_id: str):
 
 def _process(articles):
     """Rectify the given mapping entries in parallel; every article gets a file."""
+    # Refuse to run degraded: no key AND no cache would silently emit low-quality output.
+    err = llm_client.preflight()
+    if err:
+        print("ERROR: " + err)
+        sys.exit(1)
     total = len(articles)
     done = 0
     rb = llm_client.remote_budget()
@@ -114,6 +120,14 @@ def _process(articles):
     if llm_client._budget["stopped"]:
         print(f"⚠ BUDGET GUARD STOPPED LLM CALLS: {llm_client._budget['stopped']}")
         print("  Articles after that point used the no-LLM hint fallback. Re-run later; cached results are reused for free.")
+    # Loud warning if the whole batch degraded (e.g. an invalid key with no cache):
+    # no LLM calls succeeded and nothing was served from cache.
+    if u['calls'] == 0 and u['cached'] == 0 and total > 0:
+        print("\n" + "=" * 60)
+        print("⚠ WARNING: output was produced by the DEGRADED hint-only fallback")
+        print("  (no successful LLM calls and no cache hits — likely a bad LLM_API_KEY).")
+        print("  This is NOT the full-quality result. Fix the key or restore .llm_cache/ and re-run.")
+        print("=" * 60)
 
 
 def test_rectifier(count: int):

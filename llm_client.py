@@ -77,6 +77,57 @@ BREAKER_COOLDOWN = env_num("RECTIFIER_BREAKER_COOLDOWN", 20, int)
 _breaker = {"consecutive_failures": 0, "opened_at": 0.0}
 
 
+def has_usable_cache():
+    """True if the on-disk cache exists and holds at least one cached answer."""
+    try:
+        return USE_CACHE and CACHE_DIR.is_dir() and any(CACHE_DIR.glob("*.json"))
+    except Exception:
+        return False
+
+
+def validate_key():
+    """One tiny call to confirm the key + endpoint actually work. (ok, message)."""
+    params = {"temperature": 0, "max_tokens": 1, "extra_body": {}}
+    try:
+        if _litellm_completion is not None:
+            _litellm_call([{"role": "user", "content": "ping"}], params)
+        else:
+            _http_completion([{"role": "user", "content": "ping"}], params)
+        return True, ""
+    except Exception as e:
+        return False, str(e)
+
+
+_NO_WORK_MSG = (
+    "  Do ONE of these, then re-run `python rectifier.py rectify-all`:\n"
+    "    1. Copy env.example to .env and set a WORKING LLM_API_KEY (the challenge-provided key); or\n"
+    "    2. Keep the shipped .llm_cache/ directory next to rectifier.py (reproduces results for $0).\n"
+    "  Aborting on purpose: with no cache and no working key, the pipeline cannot rectify,\n"
+    "  so it writes NOTHING rather than emit low-quality fallback output."
+)
+
+
+def preflight():
+    """
+    Return None only if the pipeline can do REAL rectification:
+      * a populated cache to replay (no key needed), or
+      * a key that passes a live test call.
+    Otherwise return a clear error message so the run aborts without writing any
+    degraded output. A non-empty but invalid key is caught by the test call.
+    """
+    if has_usable_cache():
+        return None  # cached answers replay without a key
+    if not API_KEY:
+        return f"No LLM_API_KEY is set and no cached answers were found in '{CACHE_DIR}/'.\n" + _NO_WORK_MSG
+    ok, msg = validate_key()
+    if ok:
+        return None
+    return (
+        f"LLM_API_KEY is set but a test call failed, and there is no cache in '{CACHE_DIR}/'.\n"
+        f"  Provider said: {msg}\n" + _NO_WORK_MSG
+    )
+
+
 def remote_budget():
     """(spend, max_budget) from the LiteLLM proxy /key/info, or None if unavailable."""
     if not API_KEY or not API_BASE:
