@@ -1,0 +1,49 @@
+## Bizarre: PhysicsWallah describes flying slipper as risk in IPO filing
+### Synopsis
+In a rather unusual turn of events, ed-tech start-up PhysicsWallah has flagged a bizarre incident in its Draft Red Herring Prospectus (DRHP). The document cites an incident from 2021 where a student allegedly threatened a teacher with a slipper during an offline class. The company considers this incident as an operational and reputational risk, especially with its expansion into offline centers.
+
+## Other incidents include staff pushing student
+### Student behavior
+The slipper incident is a stark reminder of the challenges that come with managing young students in an educational setting. The company has also cited other incidents, including a video of a staff member pushing a student at one of its offline centers. The staffer was later terminated after an internal investigation into the matter.
+
+## IPO to raise ₹38,200cr
+### IPO details
+Founded as a company in 2018, PhysicsWallah is planning to raise ₹38,200 crore through its initial public offering (IPO). The offer includes a fresh issue of equity shares worth ₹3,100 crore, and an offer for sale (OFS) of stocks aggregating up to ₹720 crore by promoters Alakh Pandey and Prateek Sharma. Both will offload shares worth ₹360 crore each through the OFS.
+
+## Backed by WestBridge Capital, Hornbill and GSV Ventures
+### Business strategy
+PhysicsWallah offers test preparation courses for competitive exams like JEE, NEET, GATE, and UPSC. The firm operates through online platforms (YouTube, website, apps), some tech-enabled offline centers, and hybrid centers that combine the online teaching with in-person support. Backed by WestBridge Capital, Hornbill and GSV Ventures, PhysicsWallah trimmed its losses to ₹243 crore in the year ending March 2025 from ₹1,131 crore a year ago.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 2 in paragraph 1 (Synopsis)",
+        "error": "The document cites an incident from 2021",
+        "correction": "The document cites an incident from 2023",
+        "error_type": "Numerical/Temporal error — incorrect year"
+    },
+    {
+        "location": "line 2 in paragraph 1 (Synopsis)",
+        "error": "student allegedly threatened a teacher with a slipper during an offline class",
+        "correction": "student allegedly threatened a teacher with a slipper during an online class",
+        "error_type": "Interpretation/Contextual error — misstates setting (online vs offline)"
+    },
+    {
+        "location": "line 1 in paragraph 3 (IPO details)",
+        "error": "Founded as a company in 2018",
+        "correction": "Founded as a company in 2020",
+        "error_type": "Numerical/Temporal error — incorrect founding year"
+    },
+    {
+        "location": "heading and line 1 in paragraph 3 (IPO to raise / IPO details)",
+        "error": "IPO to raise ₹38,200cr / planning to raise ₹38,200 crore",
+        "correction": "IPO to raise ₹3,820 crore / planning to raise ₹3,820 crore",
+        "error_type": "Magnitude/Scale error — incorrect order of magnitude for IPO amount"
+    },
+    {
+        "location": "line 2 in paragraph 3 (IPO details)",
+        "error": "offer for sale (OFS) of stocks aggregating up to ₹720 crore by promoters Alakh Pandey and Prateek Sharma",
+        "correction": "offer for sale (OFS) of stocks aggregating up to ₹720 crore by promoters Alakh Pandey and Prateek Maheshwari",
+        "error_type": "Named Entity error — incorrect promoter name"
+    }
+]

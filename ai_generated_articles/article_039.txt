@@ -1,0 +1,37 @@
+## Nepal protests escalate; PM Oli reportedly seeks Dubai asylum
+### Synopsis
+Nepal is witnessing a political crisis as anti-corruption protests intensify. Prime Minister KP Sharma Oli is reportedly considering leaving for Dubai, citing medical treatment. Reports suggest that Qatar Airways has been kept on standby for a possible flight to Dubai soon. The decision comes amid growing pressure on the government, with several ministers resigning in protest and residences of key leaders being targeted by protesters.
+
+## Protests turn violent, residences of former PMs attacked
+### Unrest escalation
+The protests have turned violent in many cities, with demonstrators setting fire to the private residence of Minister Prithvi Subba Gurung in Lalitpur. Former Prime Minister Sher Bahadur Deuba's home was also attacked, with vehicles torched and stones pelted at former Deputy Prime Minister Raghuveer Mahaseth's residence. Home Minister Ramesh Lekhak and Agriculture Minister Ram Nath Adhikari resigned over the government's handling of the protests.
+
+## International attention on Nepal crisis, India expresses sadness
+### Global response
+The crisis in Nepal has also drawn international attention, with India's Ministry of External Affairs expressing regret over the loss of young lives. The United Nations praised the government's actions and offered to send African Union observers to assist. In light of these developments, Prime Minister Oli has assigned key responsibilities to his Deputy Prime Minister, hinting at a possible extended absence from his duties.
+
+## Oli calls all-party meeting as unrest continues
+### Meeting convened
+Amid the turmoil, Prime Minister Oli has called an all-party meeting to assess the situation and find a meaningful conclusion. He appealed for calm in his letter, saying he is in dialogue with relevant parties. The unrest has continued despite the lifting of a controversial ban on social media platforms following massive outrage. Health Minister Pradeep Paudel became the third minister to resign over violent crackdowns on demonstrators.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 1 (Synopsis paragraph)",
+        "error": "Reports suggest that Qatar Airways has been kept on standby for a possible flight to Dubai soon.",
+        "correction": "Reports suggest that Himalaya Airlines has been kept on standby for a possible flight to Dubai soon.",
+        "error_type": "Named entity error — incorrect airline name (wrong organization referenced)"
+    },
+    {
+        "location": "Paragraph 3, sentence 1 (Global response paragraph)",
+        "error": "The United Nations praised the government's actions",
+        "correction": "The United Nations called for respect for civil rights and peaceful assembly",
+        "error_type": "Interpretation/attribution error — misrepresenting UN stance (wrong tone and position attributed)"
+    },
+    {
+        "location": "Paragraph 3, sentence 1 (Global response paragraph)",
+        "error": "and offered to send African Union observers to assist.",
+        "correction": "and emphasized that security forces must comply with basic principles on the use of force.",
+        "error_type": "Relational/attribution error — falsely attributing involvement of a different organization (African Union) and an action the UN did not take"
+    }
+]

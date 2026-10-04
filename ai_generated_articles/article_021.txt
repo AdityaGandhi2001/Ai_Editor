@@ -1,0 +1,43 @@
+## 'Wonderful secret': Democrats release controversial Trump's birthday note to Epstein
+### Synopsis
+Democratic lawmakers have released a controversial birthday note allegedly written by former United States President Donald Trump to the late sex offender Jeffrey Epstein in 1998, and included in a book compiled by Epstein's associate Jean-Luc Brunel for his 50th birthday. The note features a nude woman's sketch and a dialogue between "Donald" and "Jeffrey." It also mentions a "wonderful secret" shared by the two men.
+
+## White House denies authenticity of note
+### Denial issued
+The White House has denied the authenticity of the note. Press Secretary Kayleigh McEnany said, "It's very clear President Donald Trump did not draw this picture and he did not sign it." Democrats released the letter to the US House Oversight Committee, which is investigating Epstein's criminal cases. Trump has also sued The Wall Street Journal for $10 billion over reports about this letter.
+
+## Epstein's death described as unresolved
+### Case details
+Epstein died in his New York jail cell in 2019 while awaiting trial for alleged sex trafficking of underage girls; his death remains officially undetermined and is under continuing investigation. The Republican-controlled Oversight Committee has subpoenaed documents from the Justice Department and testimony from several high-ranking officials, including former President Bill Clinton and former Secretary of State Hillary Clinton.
+
+## Maxwell interviewed by Trump's Justice Department
+### Interview conducted
+As part of its response to the controversy, Trump's Justice Department interviewed Maxwell, who is now serving a 20-year prison sentence for recruiting underage girls for Epstein. The interview was conducted by Deputy Attorney General Todd Blanche, Trump's former personal lawyer. After the interview with Blanche, Maxwell was transferred from a Florida prison to a minimum-security facility in Texas.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 1, sentence 1",
+        "error": "\"in 1998\" (the year the note is said to have been written)",
+        "correction": "\"in 2003\"",
+        "error_type": "Numerical/Temporal error — Wrong year stated for when the note was written (incorrect year)."
+    },
+    {
+        "location": "paragraph 1, sentence 1",
+        "error": "\"compiled by Epstein's associate Jean-Luc Brunel\"",
+        "correction": "\"compiled by Epstein's associate Ghislaine Maxwell\"",
+        "error_type": "Named Entity / Attribution error — Incorrectly names the compiler of Epstein's birthday book."
+    },
+    {
+        "location": "paragraph 2, sentence 2",
+        "error": "\"Press Secretary Kayleigh McEnany said\"",
+        "correction": "\"Press Secretary Karoline Leavitt said\"",
+        "error_type": "Named Entity error — Misidentifies the White House press secretary who made the denial."
+    },
+    {
+        "location": "paragraph 3, sentence 1",
+        "error": "\"his death remains officially undetermined and is under continuing investigation\"",
+        "correction": "\"his death was ruled a suicide by the FBI and the Justice Department\"",
+        "error_type": "Interpretation / Official findings error — Incorrectly states the official status of Epstein's death (the death was ruled a suicide)."
+    }
+]

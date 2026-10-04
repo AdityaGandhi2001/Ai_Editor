@@ -1,0 +1,97 @@
+## Why did Hyderabad municipality issue notice to Allu Arjun's family?
+### Synopsis
+The Greater Secunderabad Municipal Corporation (GSMC) has issued a show-cause notice to Allu Arjun's family over alleged illegal construction at the Allu Business Park in Jubilee Hills, Hyderabad. The notice questions why the unauthorized structure shouldn't be demolished and was served on Sunday, September 7, 2024, after an inspection of the property. GSMC's Circle-9 officials carried out the inspection.
+
+## Unauthorized extension discovered during inspection
+### Construction details
+The Allu Business Park was reportedly sanctioned on a 1,226 square metre plot with permission for two basements and ground plus five floors. However, municipal inspectors discovered an unauthorized extension on the sixth floor, which had not been approved. Officials also noted that the built-up area exceeded the approved 12,260 square feet by nearly 30%.
+
+## Notice warns of potential demolition
+### Legal action
+The show-cause notice warns that if Arjun's family fails to provide a satisfactory explanation, the entire building may be sealed and demolished, and a penalty of Rs 50 lakh could be imposed. The Allu Business Park, located on Road No. 36 in Jubilee Hills, was built in 2015 by the Allu family. It reportedly houses offices of GA Productions, Allu Studios, and several unrelated start-ups.
+
+## No response from the Allu family yet
+### No response
+Contrary to initial reports, the Allu family issued an immediate statement denying any wrongdoing and said the disputed fourth-floor extension was part of a pre-approved architectural plan. On the work front, Arjun has reportedly paused film shoots and is preparing for a political foray instead of promoting his upcoming sci-fi film AA22xA6, which was being shot in Hyderabad.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1",
+        "error": "The Greater Secunderabad Municipal Corporation (GSMC)",
+        "correction": "The Greater Hyderabad Municipal Corporation (GHMC)",
+        "error_type": "Named entity error — incorrect name/abbreviation of municipal body"
+    },
+    {
+        "location": "line 2 in paragraph 1",
+        "error": "was served on Sunday, September 7, 2024",
+        "correction": "was served on Monday, September 8, 2025",
+        "error_type": "Numerical & temporal error — wrong day and year the notice was served"
+    },
+    {
+        "location": "line 3 in paragraph 1",
+        "error": "GSMC's Circle-9 officials carried out the inspection",
+        "correction": "GHMC's Circle-18 authorities carried out the inspection",
+        "error_type": "Named entity / relational error — wrong civic body circle number and wrong agency name"
+    },
+    {
+        "location": "line 1 in paragraph 2",
+        "error": "sanctioned on a 1,226 square metre plot",
+        "correction": "sanctioned on a 1,226 square yard plot",
+        "error_type": "Magnitude & unit error — wrong unit of measurement"
+    },
+    {
+        "location": "line 1 in paragraph 2",
+        "error": "permission for two basements and ground plus five floors",
+        "correction": "permission for two cellars and ground plus four floors",
+        "error_type": "Numerical & categorical error — incorrect number of floors and incorrect terminology ('basements' vs 'cellars')"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "discovered an unauthorized extension on the sixth floor",
+        "correction": "discovered an unauthorized extension on the fourth floor",
+        "error_type": "Numerical error — wrong floor level where the extension was found"
+    },
+    {
+        "location": "line 3 in paragraph 2",
+        "error": "Officials also noted that the built-up area exceeded the approved 12,260 square feet by nearly 30%",
+        "correction": "GHMC found an unauthorized extension on the fourth floor; there is no verified report stating a 12,260 sq ft or 30% excess",
+        "error_type": "Magnitude & attribution error — fabricated area/excess figures and misattributed official finding"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "the entire building may be sealed and demolished, and a penalty of Rs 50 lakh could be imposed",
+        "correction": "the notice warned the unauthorised extended portion may be demolished; no official notice cited sealing the entire building or a Rs 50 lakh penalty",
+        "error_type": "Inference & numerical error — incorrect escalation of legal consequence and fabricated fine amount"
+    },
+    {
+        "location": "line 2 in paragraph 3",
+        "error": "located on Road No. 36 in Jubilee Hills, was built in 2015",
+        "correction": "located on Road No. 45 in Jubilee Hills; the building was constructed two years ago (relative to the 2025 report)",
+        "error_type": "Named entity & temporal error — wrong road number and incorrect construction year"
+    },
+    {
+        "location": "line 3 in paragraph 3",
+        "error": "It reportedly houses offices of GA Productions, Allu Studios",
+        "correction": "It houses offices of Geetha Arts, Allu Arts, and other associated businesses",
+        "error_type": "Named entity / relational error — incorrect tenant names and affiliations"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "Contrary to initial reports, the Allu family issued an immediate statement denying any wrongdoing",
+        "correction": "As of now, the Allu family is yet to issue an official response",
+        "error_type": "Attribution & inference error — falsely attributing an immediate denial to the family"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "said the disputed fourth-floor extension was part of a pre-approved architectural plan",
+        "correction": "GHMC reported the unauthorized extension was on the fourth floor; there is no verified public statement from the family claiming it was pre-approved",
+        "error_type": "Attribution / interpretation error — misattributing a justification to the family"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "Arjun has reportedly paused film shoots and is preparing for a political foray instead of promoting his upcoming sci-fi film AA22xA6, which was being shot in Hyderabad",
+        "correction": "On the work front, he is currently busy with his upcoming sci-fi action adventure film AA22xA6, which is being shot in Mumbai",
+        "error_type": "Inference & location error — fabricated career move and wrong shooting location"
+    }
+]

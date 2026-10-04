@@ -1,0 +1,39 @@
+## LG Electronics to PhysicsWallah: 80+ firms waiting to launch IPOs
+### Synopsis
+The Initial Public Offering (IPO) market is witnessing a surge, with 84 companies having received approval from the Securities and Exchange Board of India (SEBI) to launch their IPOs. The trend is driven by strong domestic liquidity and regulatory support. Analysts expect this heightened activity in the primary market to continue through FY26.
+
+## Urban Company, Dev Accelerator eye IPOs
+### Information
+Despite a slow start to the year, the primary market has gained momentum as 53 mainboard IPOs have already been listed on Dalal Street. Urban Company, Dev Accelerator, and Shrinagar House of Mangalsutra are set to open their IPOs this week.
+
+## Surge in primary market activity
+### Upcoming listings
+The optimism in the IPO market is further bolstered by the fact that 84 companies have already received SEBI approval to launch their public issues. Some of these firms plan to raise as much as ₹15,000 crore through an initial share sale. This includes big names like LG Electronics, Credila Financial Services, and Dorf-Ketal Chemicals, among others.
+
+## LG Electronics eyes ₹15,000 crore IPO
+### Major offerings
+Among the 84 companies with SEBI approval for their IPOs, LG Electronics is eyeing the largest offering. The company hopes to raise ₹150 crore through a fresh issue by promoters and selling shareholders. Credila Financial Services and Dorf-Ketal Chemicals are also planning to raise ₹5,000 crore each via their public offers.
+
+## Other companies set to launch IPOs
+### Notable listings
+Other notable companies looking to launch their IPOs include PhysicsWallah, Hero FinCorp, and WeWork India. PhysicsWallah recently filed an updated draft red herring prospectus (DRHP) with SEBI for a ₹3,820 crore public offer. Imagine Marketing (boAt), Anand Rathi Share and Stockbrokers, Avanse Financial Services, and Greave Electric Mobility are also on the verge of launching their respective IPOs.
+
+## Analysts expect continued momentum in primary market
+### Future outlook
+Analysts believe the momentum in India's IPO market is likely to continue. "With more than 80 firms holding SEBI approval and several high-profile filings in the pipeline across sectors like technology, healthcare, and renewables, the deal flow remains healthy," said Harshal Dasani, Business Head at INVAsset PMS. He added that regulatory clearances have accelerated and issuers are lining up to raise funds amid an accommodative policy backdrop.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 'LG Electronics eyes ₹15,000 crore IPO', sentence 2",
+        "error": "The company hopes to raise ₹150 crore",
+        "correction": "The company hopes to raise ₹15,000 crore",
+        "error_type": "Numerical/Magnitude error — wrong order of magnitude"
+    },
+    {
+        "location": "Paragraph 'LG Electronics eyes ₹15,000 crore IPO', sentence 2",
+        "error": "through a fresh issue by promoters and selling shareholders",
+        "correction": "through an offer for sale (OFS) by promoters and selling shareholders",
+        "error_type": "Relational/Classification error — incorrect characterization of the type of offering"
+    }
+]

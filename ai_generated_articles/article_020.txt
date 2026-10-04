@@ -1,0 +1,53 @@
+## When, where to watch Sidharth-Janhvi's 'Param Sundari' on OTT
+
+### Synopsis
+
+The new romantic comedy Param Sundari, starring Sidharth Malhotra and Janhvi Kapoor, is heading to Netflix after its theatrical release.  
+The film was released in theaters on August 29, 2025, and will reportedly be available for streaming by late October or early November this year.
+
+## This is what happens in 'Param Sundari'
+
+### Film details
+
+Directed by Tanuja Chandra, Param Sundari follows the story of Param (Malhotra), a wealthy entrepreneur who creates an AI-powered dating app; he travels to Goa to meet Sundari (Kapoor), a homestay owner, and the film currently holds a 7.8/10 rating on IMDb.  
+Their cross-cultural romance brings together two very different worlds. It received a decent response from both audiences and critics.
+
+## Cast and crew of the film
+
+### Production insights
+
+Apart from Malhotra and Kapoor, Param Sundari also stars Manjot Singh and Naseeruddin Shah. The film has been written by Gaurav Mishra and Aarsh Vora. Sachin-Jigar is the music composer for the movie, while Santhana Krishnan Ravichandran has handled cinematography.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "is heading to Netflix after its theatrical release",
+        "correction": "is heading to Amazon Prime Video after its theatrical release",
+        "error_type": "Named entity / Relational error — incorrect streaming platform attribution"
+    },
+    {
+        "location": "line 1 in paragraph 6",
+        "error": "Directed by Tanuja Chandra",
+        "correction": "Directed by Tushar Jalota",
+        "error_type": "Named entity error — wrong director name"
+    },
+    {
+        "location": "line 1 in paragraph 6",
+        "error": "he travels to Goa to meet Sundari",
+        "correction": "he travels to Kerala to meet Sundari",
+        "error_type": "Geographical / Contextual error — incorrect filming/setting location"
+    },
+    {
+        "location": "line 1 in paragraph 6",
+        "error": "the film currently holds a 7.8/10 rating on IMDb",
+        "correction": "the film currently holds a 6.1/10 rating on IMDb",
+        "error_type": "Numerical error — incorrect IMDb rating"
+    },
+    {
+        "location": "line 1 in paragraph 9",
+        "error": "also stars Manjot Singh and Naseeruddin Shah",
+        "correction": "also stars Manjot Singh and Sanjay Kapoor",
+        "error_type": "Named entity error — incorrect cast member name"
+    }
+]

@@ -1,0 +1,35 @@
+## 'I could've been disrespectful too': Dhanashree on Yuzvendra Chahal divorce
+### Synopsis
+Choreographer and social media influencer Dhanashree Verma recently opened up about her divorce from cricketer Yuzvendra Chahal. She spoke candidly about the importance of mutual respect in a marriage, even during difficult times. "When you are in marriage, then you are responsible ki dusre person ka bhi respect aapke haath mein hota hai," she said on Karan Johar's reality show Big Stage.
+
+## Verma defended her actions during marriage
+### Defense
+Verma further defended her actions during the marriage, saying, "I could've been disrespectful, too. You think I don't have things to say as a woman, but he was my husband." "I respected even when I was married and I have to respect it now that I was married to him." Their divorce came with mutual consent in February 2024 and was finalized in April 2024.
+
+## Verma addresses the 'gold digger' tag
+### Humor
+Verma also addressed the "gold digger" tag she has been facing since her divorce. In a promo for Rise and Fall, she was seen choosing between a gold bag worth ₹2 lakh and a silver bag worth ₹1 lakh. Actor Arjun Bijlani, who was paired with her, said he preferred gold over silver. To this, Verma humorously replied that if she said otherwise, she'd lose out on love.
+
+## On the negative publicity post-divorce
+### Image
+Verma also spoke about the negative publicity she has been getting since her divorce. She said, "If you want to portray yourself in a good light, we would let our work speak; why put somebody else down to clean your image?" "And why do you need to clean the image, when no one is saying anything? That's what denotes respect and maturity."
+
+## Verma on why one shouldn't wash dirty linen in public
+### Mutual respect
+Verma also revealed how she's not worried about wrong perception. She said, "You had a relationship at one point; how can you not respect it?" "When you know, no matter what I do, I am not going to be criticized, then you don't have a fear." "We live in a country that we know supports will be favored to one particular side, still if you want to discuss that it's intentional but it's okay please everyone be happy."
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1 (Synopsis), sentence 3",
+        "error": "\"she said on Karan Johar's reality show Big Stage.\"",
+        "correction": "\"she said on Ashneer Grover's reality show Rise and Fall.\"",
+        "error_type": "Named Entity Error — incorrect host and show name (wrong person and program attributed)"
+    },
+    {
+        "location": "Paragraph 2 (Defense), sentence 3",
+        "error": "\"Their divorce came with mutual consent in February 2024 and was finalized in April 2024.\"",
+        "correction": "\"Their divorce came with mutual consent in February 2025 and was finalized in March 2025.\"",
+        "error_type": "Numerical & Temporal Error — incorrect months and year for filing and finalization of divorce"
+    }
+]

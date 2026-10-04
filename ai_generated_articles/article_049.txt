@@ -1,0 +1,53 @@
+## You can now upload audio files on Google's Gemini app
+### Synopsis
+Google has announced a major update for its Gemini app, allowing users to upload and analyze audio files. The new feature is available on Android, iOS, and the web. You can access it by opening the 'plus' menu for "Files" on mobile or "Upload files" on the web and selecting any audio file format like MP3, M4A, and WAV.
+
+## Audio length restrictions for free and paid users
+### User restrictions
+Google has set certain restrictions on the audio file uploads. Free users can upload a total audio length of up to 100 minutes, while Google Cloud Pro or Google AI Ultra subscribers can upload up to 30 minutes of audio. The update also supports video uploads (up to five minutes for free users or one hour for paid subscribers) and other supported file types (up to 100MB each).
+
+## You can upload code folders or GitHub repositories
+### Upload features
+The Gemini app supports uploading one code folder or one GitHub repository with up to 5,000 files, and a maximum size of 1 GB. ZIP files can contain up to 10 files. Overall, you can upload a total of 10 files in any format. This update is part of Google's continuous efforts to improve its AI-powered products and services.
+
+## AI Mode in Google Search gets 5 new languages
+### Search expansion
+Along with the Gemini app update, Google has also expanded its Search's AI Mode to support five new languages: Hindi, Arabic, Brazilian Portuguese, Japanese, and Korean. This comes with the integration of Gemini 2.5 into Search. The company said in a blog post that this expansion will allow more people to use AI Mode to ask complex questions in their preferred language, while exploring the web more deeply.
+
+## NotebookLM gets new report styles, flashcards, quizzes
+### Software update
+Google's Gemini-backed NotebookLM software is also getting an update with new report styles in over 8 languages. The reports are based on a user's uploaded documents, files, as well as other media. Standard report formats include study guides, briefing docs, and blog posts. Flashcards and quizzes were also added in the latest NotebookLM update.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 'Audio length restrictions for free and paid users', sentence 2",
+        "error": "Free users can upload a total audio length of up to 100 minutes",
+        "correction": "Free users can upload a total audio length of up to 10 minutes",
+        "error_type": "Numerical & Magnitude Error — incorrect duration (orders of magnitude wrong)"
+    },
+    {
+        "location": "Paragraph 'Audio length restrictions for free and paid users', sentence 2",
+        "error": "Google Cloud Pro or Google AI Ultra subscribers can upload up to 30 minutes of audio",
+        "correction": "Google AI Pro or Google AI Ultra subscribers can upload up to three hours of audio",
+        "error_type": "Named Entity + Numerical/Temporal Error — subscription name misattributed and wrong duration"
+    },
+    {
+        "location": "Paragraph 'You can upload code folders or GitHub repositories' (Upload features), sentence 1",
+        "error": "a maximum size of 1 GB",
+        "correction": "a maximum size of 100 MB",
+        "error_type": "Technical Specification / Units Error — incorrect file size limit (wrong unit magnitude)"
+    },
+    {
+        "location": "Paragraph 'AI Mode in Google Search gets 5 new languages' (Search expansion), sentence 1",
+        "error": "support five new languages: Hindi, Arabic, Brazilian Portuguese, Japanese, and Korean",
+        "correction": "support five new languages: Hindi, Indonesian, Brazilian Portuguese, Japanese, and Korean",
+        "error_type": "Named Entity / Classification Error — wrong language listed (incorrect replacement of Indonesian with Arabic)"
+    },
+    {
+        "location": "Paragraph 'NotebookLM gets new report styles, flashcards, quizzes' (Software update), sentence 1",
+        "error": "new report styles in over 8 languages",
+        "correction": "new report styles in over 80 languages",
+        "error_type": "Magnitude & Scale Error — incorrect count (order of magnitude too small)"
+    }
+]

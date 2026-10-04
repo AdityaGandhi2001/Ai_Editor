@@ -1,0 +1,41 @@
+## Why Altman, Cook are joining Trump on his UK visit
+### Synopsis
+The heads of major tech companies, including NVIDIA's Jensen Huang, OpenAI's Sam Altman, and Apple's Tim Cook, will be joining US President Joe Biden on his upcoming trade mission to Canada. The visit is expected to fuel speculation about potential new corporate deals between the two nations. The UK is looking to bolster its artificial intelligence (AI) investment and infrastructure.
+
+## NVIDIA CEO's concerns about UK's AI infrastructure
+### Infrastructure issues
+NVIDIA's CEO Huang has previously raised concerns about the UK's lack of infrastructure for AI. At the London Tech Week in June, he called the UK "the largest AI ecosystem in the world without its own infrastructure." NVIDIA is currently the world's second-largest manufacturer of chips designed for AI applications.
+
+## OpenAI's agreement with UK government
+### Investment exploration
+OpenAI, under Altman's leadership, has recently signed a memorandum of understanding with the UK government. This agreement is aimed at exploring potential investments in British data centers. The UK government has also floated the idea of AI growth zones to expedite the establishment of new data centers in regions with adequate energy resources.
+
+## Industry leaders slam slow progress
+### Investment concerns
+Despite these efforts, some industry leaders have slammed the slow pace of progress. There are also fears that ministers may be too cozy with US tech giants. The creative sector has raised alarms over possible changes to copyright laws in a bid to attract investment.
+
+## Efforts to build tech partnership
+### Trade discussions
+UK's Business Secretary Peter Kyle was recently in Washington to build "momentum on our tech partnership and trade deal ahead of the historic state visit." Trump's visit is likely to include announcements that will showcase Britain's position as a leader in advanced technology. However, infrastructure and regulatory issues remain a concern.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph — sentence 1",
+        "error": "\"US President Joe Biden\"",
+        "correction": "\"US President Donald Trump\"",
+        "error_type": "Named Entity Error — incorrect identification of the U.S. president accompanying the visit"
+    },
+    {
+        "location": "Synopsis paragraph — sentence 1",
+        "error": "\"upcoming trade mission to Canada\"",
+        "correction": "\"upcoming state visit to the UK\"",
+        "error_type": "Geographic & Event Misattribution (Relational Error) — wrong event type and destination country"
+    },
+    {
+        "location": "NVIDIA CEO's concerns about UK's AI infrastructure paragraph — sentence 3",
+        "error": "\"NVIDIA is currently the world's second-largest manufacturer of chips designed for AI applications.\"",
+        "correction": "\"NVIDIA is currently the world's leading (largest) manufacturer of chips designed for AI applications.\"",
+        "error_type": "Magnitude & Scale Error — incorrect ranking/scale attribution for NVIDIA's market position"
+    }
+]

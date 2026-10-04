@@ -1,0 +1,35 @@
+## These Indian batters own 500-plus runs vs Australia (Women's ODIs)
+### Synopsis
+The Indian women's cricket team is set to host its Australian counterparts in a three-match ODI series. The matches are slated to be played on September 14, 17, and 20 at Chennai's MA Chidambaram Stadium. This series is part of both teams' preparations for the upcoming Women's ODI World Cup later this year. Here we look at the Indian batters with at least 500 runs against the Aussies in Women's ODIs.
+
+## Anjum Chopra - 580 runs
+### #1
+Former captain Anjum Chopra, who was the third Indian woman player to score a century in an ODI match, tallied 580 runs against the Aussies across 26 Women's ODIs, as per ESPNcricinfo. The left-hander batter averaged 23.20 in this regard, as her tally includes two fifties with a best score of 76 in North Sydney (2009).
+
+## Smriti Mandhana - 616 runs
+### #2
+Star Indian opener Smriti Mandhana also boasts a strong record against the Women in Yellow in the 50-over format. Across 19 WODIs versus Australia, she has scored 616 runs at an average of 38.50. This includes six 50-plus scores, including a couple of tons. No other Indian boasts multiple WODI hundreds against Australia. Mandhana's best score against the opposition was 105 in Perth last year.
+
+## Harmanpreet Kaur - 647 runs
+### #2
+At number two, we have current Indian skipper Harmanpreet Kaur, who boasts 647 runs across 21 games against Australia at 38.05. This includes four 50-plus scores, including a solid hundred. The hundred was a solid 171*-run knock in the 2017 World Cup semi-final clash at Chesterfield. This continues to be the second-highest WODI score against Australia, also the second-highest for India.
+
+## Mithali Raj - 1,123 runs
+### #1
+One of the most celebrated cricketers, Mithali Raj tops this elite list as she is one among just the six batters with 1,100 or more WODI runs against the Aussies. She tallied a solid 1,123 runs across 27 WODIs against Australia at an average of 34.03. This includes nine half-centuries, and a best score of 89, which came in the 2016 Hobart affair.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 2 in paragraph 7",
+        "error": "Across 19 WODIs versus Australia, she has scored 616 runs at an average of 38.50.",
+        "correction": "Across 16 WODIs versus Australia, she has scored 616 runs at an average of 38.50.",
+        "error_type": "Numerical error (incorrect number of matches)"
+    },
+    {
+        "location": "sentence 3 in paragraph 9",
+        "error": "The hundred was a solid 171*-run knock in the 2017 World Cup semi-final clash at Chesterfield.",
+        "correction": "The hundred was a solid 171*-run knock in the 2017 World Cup semi-final clash at Derby.",
+        "error_type": "Named entity / venue error (incorrect match venue)"
+    }
+]

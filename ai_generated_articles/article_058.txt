@@ -1,0 +1,43 @@
+## Asia Cup, India vs UAE: Dissecting the key player battles
+### Synopsis
+Team India is all set to take on the United Arab Emirates (UAE) in their opening match of the Asia Cup 2025. The game will be played at the Sharjah Cricket Stadium on September 12. Needless to mention, Suryakumar Yadav's team is the favorite for this fixture as they boast prominent names across all departments. For the UAE players, this match is a huge opportunity to shine against a strong unit. Here we decode the anticipated player battles.
+
+## Jasprit Bumrah vs Muhammad Waseem
+### #1
+India's pace spearhead Jasprit Bumrah, who hasn't played a T20I match since the 2024 T20 World Cup, will lead his side's pace attack. He'll be up against UAE skipper and opener Muhammad Waseem, who owns a strike rate of 145.00 in T20Is. With 163 runs at 40.75, he was also the second-highest run-getter of the recent T20I tri-series, also involving Pakistan and Afghanistan. Meanwhile, Bumrah, who is arguably the best all-format bowler going around, boasts 89 T20I wickets (ER: 6.28).
+
+## Varun Chakravarthy vs Asif Khan
+### #2
+Asif Khan, who also had a decent tri-series, is another UAE batter who can challenge India in the upcoming game. In a recent game against a star-studded Pakistan attack, the dasher scored 77 runs off just 35 balls. Left-arm orthodox spinner Varun Chakravarthy can post a massive threat against him. Having played 12 T20Is since his return last year, Varun has scalped 31 wickets at an average of 11.25.
+
+## Suryakumar Yadav vs Haider Ali
+### #3
+India's captain Suryakumar Yadav, despite a lack of match practice, is a dangerous prospect for any opposition bowler. SKY, who is likely to operate at number four, was also named the Player of the Tournament in IPL 2025. UAE's Haider Ali will have the onus to challenge the Indian ace with his left-arm spin on a slow Dubai pitch. He claimed six wickets at an economy of 6.25 in the aforementioned T20I tri-series.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 2 in paragraph 1 (Synopsis)",
+        "error": "Sharjah Cricket Stadium",
+        "correction": "Dubai International Cricket Stadium",
+        "error_type": "Named entity error — incorrect venue name"
+    },
+    {
+        "location": "sentence 2 in paragraph 1 (Synopsis)",
+        "error": "September 12",
+        "correction": "September 10",
+        "error_type": "Numerical/Temporal error — incorrect match date"
+    },
+    {
+        "location": "sentence 2 in paragraph 2 (Jasprit Bumrah vs Muhammad Waseem)",
+        "error": "strike rate of 145.00",
+        "correction": "strike rate of 155.68",
+        "error_type": "Numerical/Statistical error — incorrect batting strike rate"
+    },
+    {
+        "location": "sentence 3 in paragraph 3 (Varun Chakravarthy vs Asif Khan)",
+        "error": "Left-arm orthodox spinner Varun Chakravarthy",
+        "correction": "Mystery spinner Varun Chakravarthy",
+        "error_type": "Categorical/Classificatory error — incorrect bowling style classification"
+    }
+]

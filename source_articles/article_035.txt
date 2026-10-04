@@ -1,0 +1,45 @@
+Source Article(s):
+
+# Sebi says Jane Street probe could be wider as firm demands release of docs
+
+Published Date: Tuesday September 09, 2025
+
+The Securities and Exchange Board of India (Sebi) told the Securities Appellate Tribunal (SAT) on Tuesday that its investigation into US-based trading firm Jane Street Group LLC could extend far beyond the July 4 order that imposed a temporary trading ban. Sebi said the probe is at a “critical juncture” and remains ongoing.
+
+Sebi also made it clear that it would not share documents that were not used in issuing the July order. “We will not give any documents that we have not relied upon,” Sebi’s counsel told the tribunal, reported Reuters.
+
+The court, however, directed Sebi to file a reply explaining why it cannot share additional documents in the case.
+
+The case stems from Sebi’s July 3 interim order, which accused Jane Street of manipulating the Nifty Bank index. The regulator alleged that the firm bought index stocks in both cash and futures markets to push the index higher, and later unwound those positions while holding large short bets in index options. This led to the firm earning what Sebi called “illegal gains” of ₹4,840 crore.
+
+Jane Street has denied the charge, arguing that the trades were routine index arbitrage.
+
+During the hearing, the company pointed out that Sebi’s own surveillance report did not find evidence of manipulation, yet that report was not cited in the July 4 order. It also questioned why two Sebi departments came to different conclusions on the same data.
+
+Jane Street sought access to all relevant material, including Sebi’s correspondence with the National Stock Exchange (NSE) and emails with hedge fund manager Mayank Bansal, who reportedly tipped off the regulator. The firm said withholding these documents amounted to a denial of due process.
+
+Although Sebi’s July 4 order imposed a trading ban, the restriction was lifted on July 18 after Jane Street deposited ₹4,844 crore in an escrow account. Despite the lifting of the ban, the firm has not resumed trading in index options. On September 3, it appealed to the SAT, arguing that critical documents had been withheld.
+
+The matter is being heard by a three-judge SAT bench led by Justice PS Dinesh Kumar.
+
+The tribunal noted that Jane Street’s personal hearing before Sebi would remain stayed until the court takes up the matter again on November 18.
+
+# Sebi says investigation into Jane Street could be wider
+
+Securities and Exchange Board of India stated that the investigation and final order on Jane Street could be much wider. SEBI will not release documents not relied upon for the order. Jane Street appealed against SEBI, seeking document release to rebut market manipulation allegations. The hearing started on Tuesday.
+
+India's markets regulator on Tuesday said the investigation and final order on Jane Street could be much wider, adding that it will not release any documents that were not relied upon for passing the order in the case.
+
+Last week, Jane Street filed an appeal against the Securities and Exchange Board of India (SEBI), seeking to compel it to release documents the U.S. high-frequency trading firm said were pertinent to rebut allegations of market manipulation.
+
+Hearing for the case kicked off on Tuesday, with SEBI saying the investigation against Jane street is at a critical juncture and is ongoing.
+
+# Sebi says investigation into Jane Street could be wider
+
+Securities and Exchange Board of India stated that the investigation and final order on Jane Street could be much wider. SEBI will not release documents not relied upon for the order. Jane Street appealed against SEBI, seeking document release to rebut market manipulation allegations. The hearing started on Tuesday.
+
+India's markets regulator on Tuesday said the investigation and final order on Jane Street could be much wider, adding that it will not release any documents that were not relied upon for passing the order in the case.
+
+Last week, Jane Street filed an appeal against the Securities and Exchange Board of India (SEBI), seeking to compel it to release documents the U.S. high-frequency trading firm said were pertinent to rebut allegations of market manipulation.
+
+Hearing for the case kicked off on Tuesday, with SEBI saying the investigation against Jane street is at a critical juncture and is ongoing.

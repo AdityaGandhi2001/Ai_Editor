@@ -1,0 +1,27 @@
+## Nepal President Bidhya Devi Bhandari resigns amid anti-corruption protests
+### Synopsis
+Nepal's President Bidhya Devi Bhandari has resigned, following the resignation of Prime Minister KP Sharma Oli. The resignations come in the wake of massive anti-corruption protests across the country. The demonstrations, largely led by Gen Z against corruption and nepotism, have continued to defy curfews and clash with security forces.
+
+## Protests against PM Oli's ban on social media
+### Protest trigger
+The protests were sparked by PM Oli's controversial ban on social media platforms last week. The ban was lifted early Tuesday after protests turned deadly. At least 220 people have been killed and hundreds injured in the violence that erupted on Monday and continued unabated on Tuesday.
+
+## Rumors of asylum
+### Reaction
+Meanwhile, the Indian Ministry of External Affairs (MEA) said it was closely monitoring the situation and expressed condolences to the families of those who lost their lives. Prime Minister KP Sharma Oli is also reportedly considering leaving for Dubai, citing medical treatment. While the social media ban was a major trigger for the protests, it also brought to light other grievances against the government, including corruption.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 1",
+        "error": "Nepal's President Bidhya Devi Bhandari has resigned",
+        "correction": "Nepal's President Ram Chandra Poudel has resigned",
+        "error_type": "Named Entity Error — incorrect person identified as president (wrong name/title attribution)"
+    },
+    {
+        "location": "Paragraph 2, sentence 3",
+        "error": "At least 220 people have been killed",
+        "correction": "At least 22 people have been killed",
+        "error_type": "Numerical / Magnitude Error — incorrect casualty figure (order-of-magnitude inflation)"
+    }
+]

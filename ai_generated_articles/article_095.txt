@@ -1,0 +1,43 @@
+## 'Over in 20-mins': Oracle employee describes firing over Zoom call
+### Synopsis
+Oracle has been making headlines for its recent layoffs. The firings are mainly happening in the cloud unit, including engineering, data center operations and AI teams in India and the US. An employee from the database team shared his experience. He said it happened in a little over two hours, with a Zoom invite and his manager on call. The HR said he was being let go for business reasons. His system access was revoked immediately and he lost stock benefits.
+
+## Layoffs extend beyond India
+### Global impact
+The layoffs are not limited to India but extend globally as well. Over 3,000 employees in California and Washington were recently let go, according to tech news site CRN. This follows Oracle's pullback from artificial intelligence and a newly announced deal with Microsoft to reduce data center capacity in the US.
+
+## Concerns about Oracle's shifting strategy
+### Strategic shift
+The recent layoffs have raised concerns among employees about a major shift in Oracle's strategy. Just a few years ago, the company had announced big investments in Bengaluru and training programs for Indian students. Now, workers are being shown the exit with little warning. As one employee put it, "You don't even get time to process it. One minute you're working, the next minute you're out."
+
+## Severance packages offered to laid-off employees
+### Workforce reduction
+Reports suggest that nearly 10% of Oracle's workforce in India has been affected by these layoffs. Some workers claim that over 3,000 people have been impacted. Most of the fired employees received no severance packages. The layoffs span multiple locations including Austin, Kansas City, India, Philippines among others.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 4 (\"He said it happened in a little over two hours, with a Zoom invite and his manager on call.\")",
+        "error": "\"a little over two hours\" (duration)",
+        "correction": "\"less than 20 minutes\"",
+        "error_type": "Numerical & Temporal Error — incorrect duration (changes the timeline of how fast the layoff occurred)"
+    },
+    {
+        "location": "Global impact paragraph, sentence 2 (\"Over 3,000 employees in California and Washington were recently let go, according to tech news site CRN.\")",
+        "error": "\"Over 3,000 employees\" (magnitude)",
+        "correction": "\"Over 300 employees\"",
+        "error_type": "Magnitude Error — order-of-magnitude inflation of the number of employees reported"
+    },
+    {
+        "location": "Global impact paragraph, sentence 3 (\"This follows Oracle's pullback from artificial intelligence and a newly announced deal with Microsoft to reduce data center capacity in the US.\")",
+        "error": "\"Oracle's pullback from artificial intelligence\"; \"a newly announced deal with Microsoft to reduce data center capacity\"",
+        "correction": "\"Oracle is investing heavily in artificial intelligence\"; \"a major deal with OpenAI to build massive new data center capacity in the US\"",
+        "error_type": "Relational & Attribution Errors (combined) — incorrect inference about company strategy (divesting vs investing) and wrong partner and purpose for the data-center deal (Microsoft/reduction vs OpenAI/expansion)"
+    },
+    {
+        "location": "Workforce reduction paragraph, sentence 3 (\"Most of the fired employees received no severance packages.\")",
+        "error": "\"received no severance packages\"",
+        "correction": "\"received severance packages ranging from one month to 12 months of pay, depending on seniority and location\"",
+        "error_type": "Categorical/Inference Error — incorrect statement about severance availability (omits confirmed reports of varying severance amounts)"
+    }
+]

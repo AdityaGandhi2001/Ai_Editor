@@ -1,0 +1,49 @@
+## iPhone Air arrives as Apple's thinnest and lightest smartphone ever
+### Synopsis
+Apple has officially announced its latest innovation, the iPhone Air, at its "WonderDay" event. The new model is touted as Apple's thinnest and lightest device yet, measuring just 3.6mm in thickness. The launch of this super-slim phone marks the start of a three-year plan by Apple to revamp its iPhone lineup with new designs and form factors beyond mere spec bumps. Price starts at $799 for 128GB of storage, and the device will be sold from September 19.
+
+## iPhone Air weighs around 145g
+### Design
+The iPhone Air weighs around 145g, thanks to its titanium frame. It has a large 6.5-inch display with the same 120Hz ProMotion setup as the Pro models, and is powered by the A19 Pro chip for improved performance over the base model of iPhone 17. The device comes in four color options: Obsidian, Pearl, Rose Gold, and Aqua.
+
+## Device comes with e-SIM only
+### Camera capabilities
+Despite its thin design, the iPhone Air packs a new 48MP fusion camera system (with a 12MP telephoto lens). The 18MP selfie camera supports Center Stage. It also includes a physical nano‑SIM tray and supports dual physical SIMs, eliminating the need to rely solely on eSIMs. The phone promises all-day battery life despite concerns about its thinner design affecting performance.
+
+## Apple also launched new line of accessories for iPhone Air
+### Accessory launch
+Along with the iPhone Air, Apple also launched a new line of accessories specifically for this model. These include a slim MagSafe battery that fits in your pocket and two custom cases: one translucent case just 1mm thick and a lightweight bumper in four matching colors. The company also introduced a new cross-body strap for added convenience.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 2, sentence 1",
+        "error": "\"WonderDay\" event",
+        "correction": "\"Awe dropping\" event",
+        "error_type": "Named entity error — incorrect event name"
+    },
+    {
+        "location": "Paragraph 2, sentence 2",
+        "error": "measuring just 3.6mm in thickness",
+        "correction": "measuring just 5.6mm in thickness",
+        "error_type": "Numerical & magnitude error — incorrect physical measurement"
+    },
+    {
+        "location": "Paragraph 2, sentence 3",
+        "error": "Price starts at $799 for 128GB of storage",
+        "correction": "Price starts at ₹1,19,900 for 256GB of storage",
+        "error_type": "Numerical / currency / storage error — wrong price, currency and capacity"
+    },
+    {
+        "location": "Paragraph 3, sentence 3",
+        "error": "The device comes in four color options: Obsidian, Pearl, Rose Gold, and Aqua.",
+        "correction": "The device comes in four color options: Space Black, Cloud White, Light Gold, and Sky Blue.",
+        "error_type": "Named entity / classification error — incorrect product color names"
+    },
+    {
+        "location": "Paragraph 4, sentence 3",
+        "error": "It also includes a physical nano‑SIM tray and supports dual physical SIMs, eliminating the need to rely solely on eSIMs.",
+        "correction": "It also comes as an e-SIM-only device, eliminating the need for a physical SIM card slot and providing more security than regular SIMs.",
+        "error_type": "Relational & contextual error — incorrect claim about SIM support (eSIM vs physical SIM)"
+    }
+]

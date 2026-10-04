@@ -1,0 +1,37 @@
+## Rahul used to scream at Sonia, Goa minister alleges
+### Synopsis
+Goa Chief Minister Vishwajit Rane has made a shocking claim about Congress MP Rahul Gandhi's behavior toward his mother, Sonia Gandhi. In a podcast interview, Rane alleged that Gandhi once barged into a room and started shouting at his mother in front of his father, former Maharashtra Chief Minister Pratapsingh Rane. "My father witnessed how Rahul used to scream at 'madam' (Sonia)," he said.
+
+## Rane questions Gandhi's respect for India
+### Family respect
+Rane went on to criticize Gandhi for not respecting his own mother, saying such behavior raises questions about his respect for the country. "A person who doesn't even respect his mother, how can we expect him to respect Mother India?" he asked. He also recalled how shocked his father was after witnessing this incident.
+
+## 'Respecting publicly and respecting at home are 2 different things'
+### Father's shock
+Rane said his father was taken aback by Gandhi's behavior, adding that it was the first time he had seen someone scream at their mother. Quoting his father, Rane said, "I don't know what is wrong with this boy (Gandhi). He doesn't have manners." When asked about Gandhi's public display of respect for his mother, Rane replied, "Respecting publicly and respecting at home are two different things."
+
+## PM Modi slams Gandhi over remarks on Heeraben Modi
+### Recent controversy
+Rane's comments come after Prime Minister Narendra Modi slammed Gandhi and the Congress party over remarks on his late mother, Heeraben Modi. The controversy erupted from an incident during Gandhi's Voter Adhikar Yatra in West Bengal's Darjeeling, where a video showed a group of youngsters screaming abusive words against the Prime Minister along with derogatory references to his deceased mother.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis — paragraph 1, sentence 1",
+        "error": "Goa Chief Minister Vishwajit Rane",
+        "correction": "Goa Health Minister Vishwajit Rane",
+        "error_type": "Named Entity / Title Error (Incorrect official title assigned to Vishwajit Rane)"
+    },
+    {
+        "location": "Synopsis — paragraph 1, sentence 2",
+        "error": "former Maharashtra Chief Minister Pratapsingh Rane",
+        "correction": "former Goa Chief Minister Pratapsingh Rane",
+        "error_type": "Geographic / Positional Error (Wrong state affiliation for the former chief minister)"
+    },
+    {
+        "location": "Recent controversy — paragraph 1, sentence 1",
+        "error": "Voter Adhikar Yatra in West Bengal's Darjeeling",
+        "correction": "Voter Adhikar Yatra in Bihar's Darbhanga",
+        "error_type": "Named Entity / Geographic Error (Incorrect district and state for the incident location)"
+    }
+]

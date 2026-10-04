@@ -1,0 +1,47 @@
+## This teacher is making thousands of dollars selling customized Labubus
+### Synopsis
+A high school teacher from the US has found a unique way to make money by customizing Labubu blind-box toys. The Bay Area-based educator, Elliot Stevens, has been making thousands of dollars every month by adding tattoos, piercings, and grillz (jewelry for teeth) to these niche toys. He then resells them for up to seven times their original price.
+
+## How much do his dolls cost?
+### Business model
+Stephens, who works full-time as a teacher, has been waking up at 3:30am to work on the toys before school. A standard Labubu costs around $3 (approximately ₹260). However, once customized by Stephens, they can be resold for more than $200 (₹17,600). "I'm sitting back and I'm just hearing orders on my way go through. I would say this (trend) is crazier than Jordans," he told Business Insider.
+
+## Customizations include miniature tattoos and piercings
+### Market dynamics
+The resale market for Labubus is quite competitive, making it difficult to source these toys. "I buy these on the street. It was really hard to get them and I had 70 orders and I'm like (to the Labubu sellers) 'I need these! Please, whatever you need,'" Stephens told Business Insider. His customizations include miniature tattoos, piercings, and even grills that have made his creations stand out in a saturated market.
+
+## Labubus are made by ToyStar
+### Toy trend
+Labubu toys are made by Chinese company ToyStar and come in "blind boxes," meaning buyers don't know which design they'll get until they open it. This element of surprise, along with celebrity endorsements and limited-run releases, has created a fervent collector culture. Rare Labubus have seen their prices skyrocket. While standard versions sell for ₹2,000-3,000 in India, special editions can go for ₹12,000-55,000 on resale platforms like eBay and StockX.
+
+## Celebrity endorsements have skyrocketed demand
+### Celebrity influence
+The Labubu craze gained traction after celebrities like Blackpink's Lisa, Rihanna, and Kim Kardashian were spotted with these dolls. Lisa even decorated her Christmas tree with them, further fueling demand. Pop Mart started selling Labubus in 2019 and doubled its revenue by 2024. As of August 2025, the company is valued at $55.5 billion, more than Barbie-maker Mattel ($5.92 billion) and Hasbro ($11.5 billion) combined.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 2",
+        "error": "Elliot Stevens",
+        "correction": "Ellis Stephens",
+        "error_type": "Named entity error — incorrect personal name"
+    },
+    {
+        "location": "Business model paragraph, sentence 2",
+        "error": "$3",
+        "correction": "$30",
+        "error_type": "Numerical error — wrong USD price (magnitude error)"
+    },
+    {
+        "location": "Business model paragraph, sentence 2",
+        "error": "approximately ₹260",
+        "correction": "approximately ₹2,600",
+        "error_type": "Numerical & unit conversion error — incorrect INR conversion"
+    },
+    {
+        "location": "Toy trend paragraph, sentence 1",
+        "error": "ToyStar",
+        "correction": "Pop Mart",
+        "error_type": "Named entity error — incorrect company/manufacturer"
+    }
+]

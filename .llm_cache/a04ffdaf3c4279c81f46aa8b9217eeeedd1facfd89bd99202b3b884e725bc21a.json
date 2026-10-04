@@ -1,0 +1,1 @@
+{"content": "{\n  \"edits\": [\n    {\n      \"hint\": 1,\n      \"original\": \"Dubai International Stadium, Dubai\",\n      \"corrected\": \"Sheikh Zayed Stadium, Abu Dhabi\"\n    },\n    {\n      \"hint\": 2,\n      \"original\": \"75 off 50 balls\",\n      \"corrected\": \"73 not out off 52 balls\"\n    }\n  ]\n}"}

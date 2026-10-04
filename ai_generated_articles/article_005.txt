@@ -1,0 +1,43 @@
+## Nepal protests turn deadly; Manisha Koirala calls it 'black day'
+### Synopsis
+Nepal's recent protests against corruption and a government ban on social media platforms have turned deadly, with at least 200 people killed and over 2,500 injured. The unrest was sparked by the Nepalese government's decision to block 26 online platforms, including Facebook and YouTube, last week. Now, Bollywood actor Manisha Koirala has condemned the crackdown on demonstrators in her home country, calling it a "black day."
+
+## Koirala shared a picture of a blood-soaked shoe
+### Actor's reaction
+Koirala, who hails from Kathmandu, shared a picture of a blood-soaked shoe on Twitter. The accompanying message in Nepali read: "आजको दिन नेपालका लागि विजयको दिन हो — जब जनताका आवाजलाई गोलीले जवाफ दिइयो। (Today is a victory for Nepal. When bullets respond to the voice of the people, outrage against corruption and demand for justice.)" She also shared several Instagram Stories to raise awareness about the ongoing protests.
+
+## Protests against government ban on social media
+### Protest details
+The protests were triggered by the Nepalese government's decision to block 26 social media platforms, including Facebook, YouTube, and X (formerly Twitter). This move was seen as an attempt to regulate platforms that did not comply with a Supreme Court order issued last year concerning online fraud and money laundering. The decision was met with widespread discontent. Before the ban, a "Nepo Kids" trend was rampant, where political leaders' offspring and their extravagant lifestyles were being scrutinized.
+
+## Koirala's recent work in Bollywood
+### Actor's background
+Born in Kathmandu on August 16, 1970, Koirala comes from a family deeply involved in Nepal's politics. She began her acting career with the Nepali film Pheri Bhetaula. Recently, she made a comeback with Karan Johar's Netflix series Heeramandi: The Diamond Bazaar, where she played Mallikajaan, the matriarch of a courtesan house.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 2, sentence 1",
+        "error": "with at least 200 people killed and over 2,500 injured",
+        "correction": "with at least 20 people killed and over 250 injured",
+        "error_type": "Magnitude & Scale (numerical exaggeration; wrong fatalities and injuries)"
+    },
+    {
+        "location": "paragraph 3, sentence 1",
+        "error": "shared a picture of a blood-soaked shoe on Twitter",
+        "correction": "shared a picture of a blood-soaked shoe on Instagram",
+        "error_type": "Named Entity / Platform Attribution (wrong social media platform)"
+    },
+    {
+        "location": "paragraph 3, sentence 2",
+        "error": "The accompanying message in Nepali read: \"...आजको दिन नेपालका लागि विजयको दिन हो ... (Today is a victory for Nepal.\"",
+        "correction": "The accompanying message in Nepali read: \"आजको दिन नेपालका लागि कालो दिन हो — जब जनताका आवाजलाई गोलीले जवाफ दिइयो। (Today is a black day for Nepal — when bullets respond to the voice of the people...)\"",
+        "error_type": "Interpretation / Translation Error (incorrect translation changing meaning from 'black day' to 'victory')"
+    },
+    {
+        "location": "paragraph 5, sentence 3",
+        "error": "she made a comeback with Karan Johar's Netflix series Heeramandi: The Diamond Bazaar",
+        "correction": "she made a comeback with Sanjay Leela Bhansali's Netflix series Heeramandi: The Diamond Bazaar",
+        "error_type": "Relational / Attribution Error (misattributed director/creator)"
+    }
+]

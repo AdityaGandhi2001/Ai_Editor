@@ -1,0 +1,29 @@
+## Nepal protests: Indian government issues travel advisory for its citizens
+### Synopsis
+The Indian government has issued a travel advisory for its citizens in Nepal, amid violent protests that have left at least 19 dead and 400 injured. The Ministry of External Affairs (MEA) said it was closely monitoring the situation and expressed condolences to the families of those who lost their lives. "We are closely monitoring the developments in Nepal since yesterday and are deeply saddened by the loss of many young lives," read an official statement from MEA.
+
+## Curfew imposed in Kathmandu, several other cities
+### Advisory details
+The MEA has also noted that a curfew has been imposed in Kathmandu and several other cities. Indian nationals in Nepal have been advised to exercise caution and follow the steps and guidelines issued by Nepali authorities. The statement also called on all parties in Nepal to exercise restraint and resolve disputes through dialogue.
+
+## Protests triggered after government banned social media platforms
+### Protest details
+The protests were triggered after the Nepali government banned 24 social media platforms, including Facebook and Instagram. The KP Sharma Oli-led government had said that the ban was imposed to regulate these platforms. However, the protests soon turned violent with demonstrators clashing with police. In response, authorities deployed the Nepali Army to secure key roads around the parliament complex in New Baneshwor.
+
+## Home minister resigns over deaths
+### Ban lifted
+In light of the protests and subsequent deaths, Nepal's Home Minister Ramesh Lekhak resigned, taking moral responsibility for the situation. Despite lifting the ban on social media platforms, protests continued across Kathmandu and beyond, demanding accountability from government officials. The unrest has been fueled by anger over corruption and economic woes in Nepal.
+
+## Protests spread to other parts of Nepal
+### Widespread unrest
+The protests have now spread to other parts of Nepal, including Pokhara and Chitwan district. In Kathmandu alone, eight people died after being taken to the National Trauma Center. The demonstrations have been described as some of the most widespread in Nepal's recent history, with opposition parties calling for Prime Minister Oli's resignation.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "The protests were triggered after the Nepali government banned 24 social media platforms, including Facebook and Instagram.",
+        "correction": "The protests were triggered after the Nepali government banned 26 social media platforms, including Facebook and Instagram.",
+        "error_type": "Numerical error — incorrect quantity (wrong number of platforms banned)"
+    }
+]

@@ -1,0 +1,29 @@
+Salman's 'Ek Tha Tiger' makes it to international spy museum
+### Synopsis
+Salman Khan and Katrina Kaif's 2012 blockbuster Ek Tha Tiger has achieved a rare feat by becoming the only Hindi film to be featured at the International Spy Museum in Washington DC, USA. The museum has a special section dedicated to iconic spy films and series, with around 40 international titles honored. Kabir Khan, who directed the Yash Raj Films action entertainer, expressed his surprise and delight at this recognition.
+
+## Other notable films featured in this section
+### Global recognition
+Apart from Ek Tha Tiger, other notable titles featured in this section include Casino Royale, Mission Impossible, Spy Game, Tinker Tailor Soldier Spy, OSS 117, The Imitation Game, and Mr & Mrs Smith. Khan was informed about this honor by people who visited the museum and saw the poster of Ek Tha Tiger. He told Bollywood Hungama that he found it amusing and was thrilled to see Khan and Kaif's faces on that wall.
+
+## 'Ek Tha Tiger' continues to receive love, says Khan
+### Film's legacy
+Khan also spoke about the continued popularity of Ek Tha Tiger. He said, "Some films take a life of their own as the years pass. Ek Tha Tiger is one such film that has grown in popularity." "Being the first film of the universe gives it a certain exalted position. To date, I receive numerous messages about it, and they appreciate what we did at that point in time."
+
+## On action sequences of 'Ek Tha Tiger'
+### Director's perspective
+Khan also shared his thoughts on the film's action sequences, which were not heavily reliant on VFX. He said, "Those were the days when we were not relying so much on VFX for action. I feel that as a filmmaker and an audience, there's a difference when you attempt raw, real and gritty action." "Too much dependence on VFX doesn't connect."
+
+## Film popularized the spy genre in Bollywood, says Khan
+### Franchise foundation
+Khan also credited Ek Tha Tiger for popularizing the spy genre in Bollywood. He said, "It was the first film to bring out that spy genre in a big way, featuring stars like Salman and Katrina. That also helped." The film is part of YRF's Spy Universe and has paved the way for subsequent films in this franchise.
+
+**Error Annotations:**
+[
+     {
+        "location": "line 2 in paragraph 1 (Synopsis)",
+        "error": "the museum ... with around 40 international titles honored",
+        "correction": "the museum ... with around 25 international titles honored",
+        "error_type": "Numerical Error — Incorrect statistic (wrong number of international titles cited)"
+     }
+]

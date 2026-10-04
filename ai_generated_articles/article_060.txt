@@ -1,0 +1,29 @@
+## With 'Smashing Machine,' Dwayne Johnson might score an Oscar nod
+### Synopsis
+Dwayne Johnson's emotional breakdown during a 15-minute standing ovation at the Venice International Film Festival has sparked speculation about his potential Oscar nomination for The Smashing Machine. In the film, he plays former amateur wrestler and MMA fighter Mark Kerr, a role that could redefine Hollywood's perception of the actor. The movie is directed by Benny Safdie and produced by A24.
+
+## Career pivot and Academy trends
+### Career pivot
+Johnson's role in The Smashing Machine marks a significant career pivot, one that Academy voters have historically favored. The film's premiere at the Toronto Film Festival has further fueled speculation about Johnson's Oscar chances. According to Variety, comparisons to Mickey Rourke's Oscar-nominated performance in Darren Aronofsky's The Wrestler (2008) are aptly coming up. Both films center on fighters grappling with physical deterioration and personal demons.
+
+## Physical transformation and supporting performances
+### Physical transformation
+Johnson underwent a physical transformation for The Smashing Machine, working with two-time Oscar winner Kazu Hiro. This drastic change could position him as this year's Brendan Fraser, whose makeup-assisted turn in The Whale earned both acting and technical Oscars. Emily Blunt, an Oscar winner for Oppenheimer (2023), delivers a commendable performance as Kerr's girlfriend Dawn Staples. Her presence elevates the film and strengthens Johnson's awards-season narrative.
+
+## A24's balancing act during awards season
+### Awards season challenge
+A24's involvement in The Smashing Machine gives it an edge, considering the studio's history with unconventional best picture winners like Moonlight (2016) and Everything Everywhere All at Once (2022).  However, the indie powerhouse faces a unique challenge this year: balancing its campaign for The Smashing Machine with Josh Safdie's upcoming Marty Supreme. Balancing these campaigns without compromising either film's potential is a challenge A24 will need to navigate carefully throughout awards season.
+
+## Broader Oscar prospects for 'The Smashing Machine'
+### Film's potential
+The Smashing Machine is likely to earn multiple nominations beyond Johnson's performance. Hiro's transformative makeup is a strong contender for recognition, given the Academy's recent appreciation for physical reinvention. The film's technical aspects, namely cinematography by Maceo Bishop and original score by Nala Sinephro, are also likely to be nominated. Blunt could emerge as a strong Supporting Actress contender.
+
+**Error Annotations:**
+[
+    {
+        "location": "Under 'Physical transformation' section, sentence: 'Emily Blunt, an Oscar winner for Oppenheimer (2023), delivers a commendable performance as Kerr's girlfriend Dawn Staples.'",
+        "error": "Emily Blunt described as 'an Oscar winner for Oppenheimer (2023)'",
+        "correction": "Emily Blunt was an Oscar nominee (not an Oscar winner) for Oppenheimer (2023)",
+        "error_type": "Attribution / Named-entity error — incorrect award status assigned to a person"
+    }
+]

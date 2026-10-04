@@ -1,0 +1,33 @@
+## Malayalam rapper Vedan appears before police in rape case
+### Synopsis
+Popular Malayalam rapper Hirandas Murali, known by his stage name Vedan, appeared before the Thrikkakara police in Ernakulam on Monday morning. The visit is part of the ongoing investigation into a sexual assault case registered against him. After being granted regular bail by the Kerala High Court, Vedan was questioned by an investigation team led by Inspector Rajeev P. Menon.
+
+## Will fully cooperate with investigation, says Vedan
+### Statement
+Before entering the police station at 10:00am, Vedan told the media that he would fully cooperate with the investigation. However, he refused to comment further on the case, per The Hindu. The Thrikkakara police had previously booked him based on a complaint by a woman doctor who accused him of sexually abusing her under false marriage promises.
+
+## Another case filed by woman music researcher
+### Additional complaint
+The Ernakulam Central police have also registered a case against Vedan based on a complaint by a woman music researcher. In this case, he has been booked under Section 354 of the Indian Penal Code (IPC). This section deals with assault or criminal force to a woman with the intent to outrage her modesty.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 2 (Synopsis)",
+        "error": "\"on Monday morning\"",
+        "correction": "\"on Tuesday morning\"",
+        "error_type": "Temporal error — incorrect day of week for the appearance"
+    },
+    {
+        "location": "line 3 in paragraph 2 (Synopsis)",
+        "error": "\"regular bail\"",
+        "correction": "\"anticipatory bail\"",
+        "error_type": "Legal classification error — wrong type of bail"
+    },
+    {
+        "location": "line 3 in paragraph 2 (Synopsis)",
+        "error": "\"Inspector Rajeev P. Menon\"",
+        "correction": "\"Inspector Kiran C. Nair\"",
+        "error_type": "Named entity error — incorrect name of the investigating officer"
+    }
+]

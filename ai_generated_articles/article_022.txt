@@ -1,0 +1,36 @@
+## Pakistan to host Sri Lanka for three ODIs in November
+### Synopsis
+Pakistan are set to host Sri Lanka for a three-match ODI series, starting November 18 this year. The iconic Gaddafi Stadium in Lahore, which has hosted several riveting internationals, is the designated venue for all three ODIs (November 18, 20, and 22). Notably, Pakistan are in for a packed home season, which also includes an all-format tour by South Africa in October. Here are further details.
+
+## SL's first visit to Pakistan since 2019
+### Historic encounter
+The upcoming ODI series will mark Sri Lanka's first visit to Pakistan for a bilateral affair since 2019. However, SL traveled to the nation for their 2023 Asia Cup encounter against Afghanistan. In 2019, hosts Pakistan won the three-ODI series 2-0, with the opener being abandoned. Back then, the Lankans visited Pakistan after over a decade. The Pakistan Cricket Board (PCB) was barred from hosting internationals in 2009 when the Sri Lankan team bus was attacked outside Gaddafi Stadium, Lahore.
+
+## Pakistan vs SL in ODIs
+### Information
+The last time these two teams faced off in an ODI was during the 2023 ICC Cricket World Cup, when Pakistan registered a six-wicket victory over Sri Lanka. As per ESPNcricinfo, Pakistan have a 93-59 lead over SL in ODI cricket.
+
+## Pakistan, SL to feature in Asia Cup
+### Upcoming tournaments
+Ahead of the impending ODI series, both Pakistan and Sri Lanka will compete in an eight-team T20 Asia Cup in the UAE, starting September 9. The two teams are in different groups (Pakistan in Group A and Sri Lanka in Group B). The continental tournament will be a tune-up to next year's ICC T20 World Cup in India and Sri Lanka.
+
+### ODI series schedule versus Sri Lanka
+November 18 - 1st ODI, Lahore (Gaddafi Stadium)  
+November 20 - 2nd ODI, Lahore (Gaddafi Stadium)  
+November 22 - 3rd ODI, Lahore (Gaddafi Stadium)
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph — sentence 1; Schedule block (all three date lines)",
+        "error": "\"starting November 18\" / schedule dates listed as November 18, 20, and 22",
+        "correction": "\"starting November 11\" / schedule dates should be November 11, 13, and 15",
+        "error_type": "Numerical & Temporal Error — incorrect start date and series match dates"
+    },
+    {
+        "location": "Synopsis paragraph — sentence 2; 'Historic encounter' paragraph (last sentence); Schedule block (venue mentions)",
+        "error": "\"Gaddafi Stadium in Lahore\" used as the designated venue for all matches and referenced as location of 2009 attack",
+        "correction": "\"Rawalpindi Cricket Stadium\" is the designated venue for the November ODIs; the 2009 attack on the Sri Lankan team bus occurred outside Gaddafi Stadium in Lahore (this sentence should not be used to state Rawalpindi as the current venue)",
+        "error_type": "Named Entity Error — incorrect venue assignment (stadium/city) for the upcoming ODIs"
+    }
+]

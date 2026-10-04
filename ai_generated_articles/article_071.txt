@@ -1,0 +1,21 @@
+## 'Demon Slayer' movie sets record with 5am shows in India
+### Synopsis
+The much-anticipated Japanese anime film, Demon Slayer: Kimetsu no Yaiba The Movie: Infinity Castle, is set to make history in India with its early morning screenings. The film will be screened as early as 5:20am in select theaters across Mumbai, making it the first Japanese film to have such early-morning shows in the country. This trend is also being adopted by other metro cities like Bengaluru and Delhi.
+
+## More about the film and its release
+### Multilingual release
+Directed by Makoto Shinkai, Demon Slayer: Kimetsu no Yaiba The Movie: Infinity Castle will be released in five languages - Japanese (with English subtitles), English, Hindi, Tamil, and Telugu. The film is rated U/A 13+, meaning it's suitable for viewers above 13. It will be released uncut so that audiences can enjoy the full experience as intended by the creators.
+
+## Plot of 'Infinity Castle'
+### Plot continuation
+The upcoming film picks up from where the Hashira Training Arc of the previous season left off. In Infinity Castle, Tanjiro Kamado and his friends will face their biggest challenge yet inside the demons' stronghold after clashing with Muzan Kibutsuji. Are you an anime fan?
+
+**Error Annotations:**
+[
+    {
+        "location": "Sentence 1 in paragraph 2 (Multilingual release paragraph)",
+        "error": "\"Directed by Makoto Shinkai\"",
+        "correction": "\"Directed by Haruo Sotozaki\"",
+        "error_type": "Named Entity Error — incorrect attribution of director (wrong person's name)"
+    }
+]

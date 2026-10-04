@@ -1,0 +1,127 @@
+Source Article(s):
+
+# Pakistan using phone tapping, firewall systems to spy on citizens: Amnesty
+
+Published Date: Tuesday September 09, 2025
+
+Amnesty International on Tuesday said that Pakistan is using a phone-tapping system and a Chinese-built internet firewall that censors social media to spy on millions of its citizens, _Reuters_ reported.
+
+Terming it as one of the "most comprehensive examples of state surveillance outside China", the watchdog said that Pakistan's expanding surveillance network was built with the help of Chinese and Western technology and is driving a crackdown on free speech and dissent.
+
+The rights watchdog report comes at a time when the country is already witnessing restricted political and media freedoms, especially after the military broke with former Prime Minister Imran Khan in 2022, who was later jailed. It also said the findings were based on a 2024 case filed by Bushra Bibi, Imran Khan's wife, in the Islamabad High Court, after her private calls were leaked online.
+
+Earlier in July, _Reuters_ reported that Pakistan sought a ban on more than two dozen YouTube channels, which included journalists and government critics.
+
+According to Amnesty International, Pakistan's spy agencies are capable of monitoring four million mobile phones at a go because of their Lawful Intercept Management System (LIMS), and the firewall known as WMS 2.0, which inspects internet traffic, can block two million active sessions at a time. Further, the two surveillance systems work in tandem; while one lets the intel agencies tap phone calls and texts, the other slows down or blocks websites and social media platforms across the country.
+
+Amnesty technologist Jurre van Berge told _Reuters_ that the number of mobile phones under surveillance could be much higher, as all the major mobile operators have been told to connect to LIMS.
+
+The report further said, "Mass surveillance creates a chilling effect in society, whereby people are deterred from exercising their rights, both online and offline."
+
+In January this year, the Pakistani government introduced a new amendment in the Electronic Crimes Act and created a new social media regulatory authority with its own investigative agency and tribunals.
+
+Pakistan is currently blocking over 650,000 web links and curbing platforms like YouTube, Facebook, and X. Balochistan is the hardest hit because of these controls, where the districts have faced internet blackouts for years.
+
+While Pakistan's intelligence agencies and defence ministries have denied running these surveillances, the telecom regulator, under questioning, accepted that it had already asked phone companies to install LIMS for use by "designated agencies".
+
+It is worth noting that Pakistan ranked at 152 out of 180 countries in the World Press Freedom Index in 2024. The country witnessed a decline of two places from 150 in 2023.
+
+In its country profile, Reporters Without Borders (RSF) said, "The number of arbitrary detentions and enforced disappearances of journalists increased" in Pakistan. It further said, "Ever since its founding in 1947, Pakistan has oscillated between civil society’s quest for greater press freedom and the political and military elite’s constant reassertion of extensive control over the media."
+
+The RSF report also highlighted that Pakistan was one of the most dangerous countries in the world for journalists.
+
+# Pakistan spying on millions through phone-tapping & firewall, says Amnesty
+
+Published Date: Tuesday September 09, 2025
+
+Karachi: Pakistan is spying on millions of its citizens using a phone-tapping system and a Chinese-built internet firewall that censors social media, in one of the most comprehensive examples of state surveillance outside China, Amnesty International said.
+
+The rights watchdog said in a report released on Tuesday that Pakistan‘s growing monitoring network was built using both Chinese and Western technology and powered a sweeping crackdown on dissent and free speech.
+
+Already restricted political and media freedoms in Pakistan have tightened in recent years, particularly after the military broke with then-Prime Minister Imran Khan in 2022, who was later jailed and thousands of his party activists were detained.
+
+Pakistan‘s spy agencies can monitor at least 4 million mobile phones at a time through its Lawful Intercept Management System (LIMS), while a firewall known as WMS 2.0 that inspects internet traffic can block 2 million active sessions at a time, Amnesty said.
+
+The two monitoring systems function in tandem: one lets intelligence agencies tap calls and texts while the other slows or blocks websites and social media across the country, it said.
+
+The number of phones under surveillance could be higher as all four major mobile operators have been ordered to connect to LIMS, Amnesty technologist Jurre van Berge told Reuters.
+
+“Mass surveillance creates a chilling effect in society, whereby people are deterred from exercising their rights, both online and offline,” the report said.
+
+Amnesty said its findings draw on a 2024 Islamabad High Court case filed by Bushra Bibi, the wife of former premier Khan, after her private calls were leaked online.
+
+In court, Pakistan‘s defence ministries and intelligence agencies denied running or even having the capacity for phone tapping. But under questioning, the telecom regulator acknowledged it had already ordered phone companies to install LIMS for use by “designated agencies.”
+
+Pakistan‘s technology, interior, and information ministries, as well as the telecom regulator, did not respond to questions from Reuters about the Amnesty report.
+
+FOREIGN SUPPLIERS
+
+Pakistan is currently blocking about 650,000 web links and restricting platforms such as YouTube, Facebook and X, Amnesty said.
+
+The controls have hit hardest in the insurgency-hit Balochistan province, where districts have faced years-long internet blackouts, and rights groups accuse the military of disappearances and killings of Baloch and Pashtun activists, charges it denies.
+
+Amnesty said it also reviewed licensing agreements, trade data, leaked technical files and Chinese records tying the firewall supplier to state-owned firms in Beijing.
+
+It added that the firewall is supplied by the Chinese company Geedge Networks. The company did not respond to a request for comment.
+
+Monitoring centres for mobile calls are common globally but internet filtering for the public is rare, said Ben Wagner, Professor of Human Rights and Technology at Austrian university IT:U.
+
+Having both in Pakistan “constitutes a troubling development from a human rights perspective” and “suggests greater restrictions on freedom of expression and privacy will become more common as such tools become easier to implement,” he said.
+
+Amnesty said the firewall uses equipment from U.S.-based Niagara Networks, software from Thales DIS, a unit of France’s Thales, and servers from a Chinese state IT firm. An earlier version relied on Canada’s Sandvine.
+
+Niagara told Reuters it follows U.S. export rules, does not know end users or how its products are used, and only sells tapping and aggregation gear.
+
+Amnesty said the phone tapping system was made by Germany’s Utimaco and deployed through monitoring centres run by UAE-based Datafusion.
+
+Datafusion told Amnesty that its centres are only sold to law enforcement and that it does not make LIMS, while AppLogic Networks, the successor to Sandvine, said it has grievance mechanisms to prevent misuse.
+
+The other companies named in the report did not respond to requests for comment.
+
+# Amnesty says Pakistan spying on millions through phone-tapping, firewall
+
+Published Date: Tuesday September 09, 2025
+
+KARACHI (Reuters) -Pakistan is spying on millions of its citizens using a phone-tapping system and a Chinese-built internet firewall that censors social media, in one of the most comprehensive examples of state surveillance outside China, Amnesty International said.
+
+The rights watchdog said in a report released on Tuesday that Pakistan’s growing monitoring network was built using both Chinese and Western technology and powered a sweeping crackdown on dissent and free speech.
+
+Already restricted political and media freedoms in Pakistan have tightened in recent years, particularly after the military broke with then-Prime Minister Imran Khan in 2022, who was later jailed and thousands of his party activists were detained.
+
+Pakistan’s spy agencies can monitor at least 4 million mobile phones at a time through its Lawful Intercept Management System (LIMS), while a firewall known as WMS 2.0 that inspects internet traffic can block 2 million active sessions at a time, Amnesty said.
+
+The two monitoring systems function in tandem: one lets intelligence agencies tap calls and texts while the other slows or blocks websites and social media across the country, it said.
+
+The number of phones under surveillance could be higher as all four major mobile operators have been ordered to connect to LIMS, Amnesty technologist Jurre van Berge told Reuters.
+
+“Mass surveillance creates a chilling effect in society, whereby people are deterred from exercising their rights, both online and offline,” the report said.
+
+Amnesty said its findings draw on a 2024 Islamabad High Court case filed by Bushra Bibi, the wife of former premier Khan, after her private calls were leaked online.
+
+In court, Pakistan’s defence ministries and intelligence agencies denied running or even having the capacity for phone tapping. But under questioning, the telecom regulator acknowledged it had already ordered phone companies to install LIMS for use by “designated agencies.”
+
+Pakistan’s technology, interior, and information ministries, as well as the telecom regulator, did not respond to questions from Reuters about the Amnesty report.
+
+FOREIGN SUPPLIERS
+
+Pakistan is currently blocking about 650,000 web links and restricting platforms such as YouTube, Facebook and X, Amnesty said.
+
+The controls have hit hardest in the insurgency-hit Balochistan province, where districts have faced years-long internet blackouts, and rights groups accuse the military of disappearances and killings of Baloch and Pashtun activists, charges it denies.
+
+Amnesty said it also reviewed licensing agreements, trade data, leaked technical files and Chinese records tying the firewall supplier to state-owned firms in Beijing.
+
+It added that the firewall is supplied by the Chinese company Geedge Networks. The company did not respond to a request for comment.
+
+Monitoring centres for mobile calls are common globally but internet filtering for the public is rare, said Ben Wagner, Professor of Human Rights and Technology at Austrian university IT:U.
+
+Having both in Pakistan “constitutes a troubling development from a human rights perspective” and “suggests greater restrictions on freedom of expression and privacy will become more common as such tools become easier to implement,” he said.
+
+Amnesty said the firewall uses equipment from U.S.-based Niagara Networks, software from Thales DIS, a unit of France’s Thales, and servers from a Chinese state IT firm. An earlier version relied on Canada’s Sandvine.
+
+Niagara told Reuters it follows U.S. export rules, does not know end users or how its products are used, and only sells tapping and aggregation gear.
+
+Amnesty said the phone tapping system was made by Germany’s Utimaco and deployed through monitoring centres run by UAE-based Datafusion.
+
+Datafusion told Amnesty that its centres are only sold to law enforcement and that it does not make LIMS, while AppLogic Networks, the successor to Sandvine, said it has grievance mechanisms to prevent misuse.
+
+The other companies named in the report did not respond to requests for comment.

@@ -1,0 +1,27 @@
+## Men's T20 World Cup 2026: Check out proposed schedule
+### Synopsis
+The 2026 Men's ICC T20 World Cup is likely to be held between January 7 and February 8 in India and Sri Lanka. While India will host matches at five venues, two venues are kept for Sri Lanka. ESPNcricinfo has reported that the International Cricket Council (ICC) has finalized this window and communicated it to the participating nations. Here are further details.
+
+## 15 teams confirmed for the tournament
+### Participating nations
+So far, 15 teams have confirmed their participation in the 2026 ICC T20 World Cup. These are India, Sri Lanka, Afghanistan, Australia, Bangladesh, England, South Africa, USA, West Indies, New Zealand, and Pakistan. Ireland and Canada are also confirmed participants, along with the Netherlands and Italy, who qualified for a World Cup for the first time.
+
+## Format of the tournament
+### Competition structure
+The tournament will follow a format similar to the 2024 T20 World Cup in West Indies and USA. The 20 teams will be divided into four groups of five each, with the top two sides from each group qualifying for the Super Eight. From there, the eight teams will again split into two groups of four before progressing to semi-finals. The final is likely to take place at either Mumbai's Wankhede Stadium or Colombo, depending on Pakistan's participation.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1 (Synopsis paragraph)",
+        "error": "\"between January 7 and February 8\"",
+        "correction": "\"between February 7 and March 8\"",
+        "error_type": "Numerical & Temporal Error — Incorrect month range/dates (wrong tournament window)"
+    },
+    {
+        "location": "line 4 in paragraph 3 (Competition structure paragraph)",
+        "error": "\"Mumbai's Wankhede Stadium\"",
+        "correction": "\"Ahmedabad's Narendra Modi Stadium\"",
+        "error_type": "Named Entity Error — Wrong venue name/location for the likely final"
+    }
+]

@@ -1,0 +1,43 @@
+## Nepal home minister resigns after Gen-Z protests leave 19 dead
+### Synopsis
+Nepal's Home Minister Ramesh Lal Lekhak has resigned after violent protests in Kathmandu over a government ban on major social media platforms turned deadly, claiming 19 lives and leaving over 3,450 injured. Lekhak submitted his resignation to Prime Minister KP Sharma Oli, citing moral responsibility for the loss of lives. "There was a huge loss of human lives...I have to take moral responsibility for that, and I will not sit in the post on moral grounds," Lekhak told OnlineKhabar.
+
+## Protests against ban on social media
+### Protest details
+The protests were triggered after Nepal's government banned popular social media platforms such as Facebook, X (formerly Twitter), and YouTube. The ban came after the platforms failed to register under new state rules. Thousands of young people, mostly Gen Z, took to the streets in Kathmandu and other cities on Monday, demanding an end to the social media restrictions and widespread corruption in the country.
+
+## Protest turn violent, government imposes curfew
+### Government response
+The protests turned violent as demonstrators clashed with security forces, leading to use of water cannons, tear gas, and rubber bullets by police. Protesters also set motorcycles on fire and stormed barricades near the parliament. The government has since imposed a day-long curfew in parts of Pokhara and deployed the navy. Meanwhile, discussions are underway to reconsider the decision. Government spokesperson Prithvi Subba Gurung said if government policies need to be reconsidered for people's safety, they should not remain steadfast.
+
+## Nepal government bans access to social media platforms
+### Ban details
+The demonstration was sparked by a September 14 decision of the government to block 26 social media platforms, including Facebook, Twitter, WhatsApp, and YouTube, for not registering with the Ministry of Communications and Information Technology. The ministry said it had given the companies seven days to register following a court ruling, but all missed the deadline. Only five companies, including TikTok, complied with the order and were not banned.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "\"leaving over 3,450 injured\"",
+        "correction": "\"leaving over 345 injured\"",
+        "error_type": "Magnitude & Scale error — incorrect order of magnitude for injured count"
+    },
+    {
+        "location": "Protest turn violent, government imposes curfew paragraph, sentence 3",
+        "error": "\"deployed the navy\"",
+        "correction": "\"deployed the army\"",
+        "error_type": "Categorical/Geographical error — wrong branch of security forces (Nepal is landlocked; army was deployed)"
+    },
+    {
+        "location": "Protest turn violent, government imposes curfew paragraph, sentence 3",
+        "error": "\"in parts of Pokhara\"",
+        "correction": "\"in parts of Kathmandu\"",
+        "error_type": "Named Entity / Location error — wrong city specified for curfew"
+    },
+    {
+        "location": "Ban details paragraph, sentence 1",
+        "error": "\"a September 14 decision\"",
+        "correction": "\"a September 4 decision\"",
+        "error_type": "Temporal error — incorrect date of the government decision"
+    }
+]

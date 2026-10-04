@@ -1,0 +1,87 @@
+Source Article(s):
+
+# Apple announces the ultra-slim iPhone Air
+
+Published Date: Tuesday September 09, 2025
+
+Apple just announced the thinnest iPhone ever, the iPhone Air, which measures just 5.6mm thick. CEO Tim Cook said it promises “pro performance in a thin and light design.”
+
+The iPhone Air weighs 165 grams (5.8 ounces), and it comes with a 6.5-inch ProMotion display and a refresh rate of up to 120Hz. It also has 3,000 nits of peak brightness. Apple says the design is its “most durable” yet, featuring a ceramic shield that encloses a titanium frame on both sides.
+
+It features a new A19 Pro processor, which is the most powerful iPhone chip yet, and a new Apple-built modem called the C1x, which is two times faster than the C1. Along with these upgrades, the iPhone Air comes with Apple’s new N1 chip design, which adds support for Wi-Fi 7, Bluetooth 6, and Thread.
+
+And, despite how thin it is, Apple promises “all day” battery life, with up to 27 hours of video playback, or 40 hours when used with the $99 iPhone Air MagSafe battery. To “maximize” battery space, the iPhone Air only supports eSIMs. Apple also says adaptive power mode in iOS 26 will help make the device more efficient.
+
+The iPhone Air features a 48-megapixel “dual fusion” camera system with a 12MP telephoto lens. It comes with a new system that combines the front and rear cameras, allowing you to record a video of yourself while capturing what’s in front of you. The 18MP selfie camera also supports Center Stage — a feature also on the regular iPhone 17 — which automatically fits everyone into a photo, so you don’t have to rotate the phone into landscape mode.
+
+The launch of the iPhone Air coincides with the upcoming release of iOS 26 on September 15th. The updated operating system features a new Liquid Glass design language, which gives some of its navigational elements and icons a bubbly, transparent look that had some users divided during the beta testing period.
+
+The iPhone Air comes in black, white, beige, and light blue. Apple also revealed several new accessories for the iPhone Air, including a MagSafe case and a bumper case made from reinforced polycarbonate. Both options pair with a new crossbody strap.
+
+The iPhone Air starts at $999 for 256GB of storage and is available for preorder starting on September 12th, with availability starting on September 19th.
+
+# Apple debuts the $999 ultra-thin iPhone Air
+
+Published Date: Tuesday September 09, 2025
+
+Move over, iPhone Plus, here comes your super-slim replacement: the iPhone Air.
+
+During Apple’s hardware event on Tuesday, the company unveiled the iPhone Air, its thinnest and lightest model to date. This replaces the Plus model in the company’s 2025 lineup, following the underperformance of the iPhone 16 Plus last year, based on data from research firm DSCC.
+
+The star of today’s event draws inspiration from Apple’s MacBook Air strategy, which debuted in 2008 as the thinnest laptop available, positioned between the more affordable MacBook and the higher-quality MacBook Pro.
+
+Now Apple is applying the “Air” concept to the iPhone, emphasizing thinness and lightness as the main selling points.
+
+The “airiness” feel is thanks to its titanium frame, and it measures at just 5.6 millimeters thick. This makes it about 0.08 inches (or slightly over 2 mm) thinner than current iPhones and thinner than Samsung’s 5.8 mm Galaxy S25 Edge. For a better idea of how thin it is, think about four stacked dimes, which total about 5.4 mm.
+
+The phone features a large 6.6-inch display, sporting the same 120 Hz ProMotion setup found on the Pro models. It runs on the A19 Pro chip, also like the new Pro and Pro Max models, providing a performance boost over the base iPhone 17 model.
+
+Another interesting detail is that it’s an e-SIM-only device. This helps keep the phone looking sleek since there’s no need for a physical SIM card slot. It also offers more security than regular SIM cards, as they can’t be easily removed from a lost or stolen phone.
+
+When rumors began circulating about the iPhone Air, many concerns centered on battery life and the absence of two rear cameras, like what the Plus model has. However, during the event, Apple introduced its new 48-megapixel fusion camera system, which functions as multiple advanced cameras in one.
+
+Despite being thinner, the iPhone Air offers all-day battery life. Additionally, with the iOS 26 update, users will gain the Adaptive Power Mode feature, which utilizes Apple Intelligence to make intelligent adjustments throughout the day, thereby helping to extend battery life.
+
+Still, Apple appeared to acknowledge the battery concerns by unveiling a new line of accessories exclusive to the Air, including a slim MagSafe battery that is compact enough to fit in your pocket. When using this additional battery, users can enjoy up to 40 hours of video playback.
+
+Additionally, two custom cases are available for the iPhone Air: One is a translucent case that is just 1 mm thick and comes in frost and shadow colors, while the other is a lightweight bumper available in four matching colors. Notably, the iPhone Air can also be paired with a new cross-body strap.
+
+As for the color options, the iPhone Air is available in space black, cloud white, light gold, and sky blue.
+
+Rumors of a new, ultra-thin iPhone, potentially named “Air,” first surfaced in 2024 from Bloomberg’s Mark Gurman, who recently argued that the thinner design will set the standard for all future iPhone models, similar to how the MacBook Air influenced Apple’s laptop lineup.
+
+When the MacBook Air first came out, it was praised for being ultraportable at a time when most laptops were heavy and bulky. However, it also received a lot of criticism for being too expensive and having some shortcomings, such as poor connectivity and a slow, small hard drive.
+
+Still, the original model set the stage for the 2010 version, which was revamped with improved processors and a more affordable starting price of $999. Since then, the MacBook Air has been Apple’s top seller for more than a decade.
+
+With that being said, anyone thinking about buying the iPhone Air should consider whether holding off for later versions with upgrades and better features is a smarter move. Or, for those die-hard Apple fans, maybe it’s worth owning the original model for bragging rights.
+
+Additionally, the slimmer phone could pave the way for a future iPhone that folds, a concept that has been rumored and is predicted to launch around the same time next year. A foldable device would help Apple compete with Samsung and Google, while also helping it regain market share in China, where it has been struggling recently.
+
+# iPhone Air Launched: Ultra-Slim Form Factor, Apple Intelligence Features, and More
+
+iPhone Air replaces the 'Plus' model in Apple's iPhone lineup.
+
+Apple finally took the wraps off the iPhone Air at the ‘Awe Dropping' event in California on Wednesday. It is an all-new model in the Cupertino-based tech giant's lineup, replacing the iPhone 16 Plus from last year. It carries all of the features of the iPhone 17 series, including an A19-series chipset and support for Apple Intelligence. However, the iPhone Air repackages it in a much slimmer form factor, competing with Samsung's Galaxy S25 Edge in the ultra-slim smartphone space.
+
+## iPhone Air Price and Availability
+
+The price of iPhone Air starts at $999 (roughly Rs. 88,100) for the base variant with 256GB of storage. It is also available with 512GB and 1TB of storage, priced accordingly. The handset will be offered in four shades --- Sky Blue, Light Gold, Cloud White, and Space Black.
+
+In India, the iPhone Air price begins at Rs. 1,19,900 for the base variant, while the 512GB and 1TB variants cost Rs. 1,39,900 and Rs. 1,59,900, respectively.
+
+The handset is available for pre-order beginning September 12. Deliveries of the iPhone Air will commence September 19.
+
+## iPhone Air Features and Specifications
+
+The iPhone Air is an eSIM-only handset that runs on iOS 26. It sports a 6.5-inch Super Retina XDR OLED display with a 3,000 nits peak brightness and ProMotion capabilities. This means, like other iPhone 17 models, the iPhone Air can also operate between 10-120Hz refresh rates, depending on the use case.
+
+Apple claims that the iPhone Air is its thinnest iPhone model to date, coming in at 5.6mm. It is said to be manufactured from 80 percent recycled Titanium materials. The handset has Ceramic Shield 2 on the front and back, for the first time. As per the company, this makes the iPhone Air up to four times more resistant to cracks.
+
+The iPhone Air is powered by a similar A19 Pro SoC as the Pro models. However, it is a binned version of the chipset, comprising a six-core CPU, five-core GPU, and a 16-core Neural Engine. It features second-generation Dynamic Caching, resulting in increased math rates and unified image compression. The phone also comes with support for Apple Intelligence features.
+
+Apart from this, it also features Apple's new N1 chip, which powers Wi-Fi 7, Bluetooth 6 and thread capabilities. Meanwhile, there is a new C1X modem that is claimed to deliver twice as fast networking speeds while being more efficient compared to the C1 modem on the iPhone 16e.
+
+For optics, the iPhone Air adopts the 48-megapixel Fusion main camera from the other handsets in the lineup. It has sensor-shift optical image stabilisation, f/1.6 aperture, and 2X telephoto capabilities. On the front, you get the same 18-megapixel Centre Stage camera as other iPhone 17 models.
+
+While Apple has not revealed battery specifications of the iPhone Air, it is claimed to deliver an "all-day" battery life, with up to 27 hours of video playback on a single charge. The handset can get charged up to 50 percent in 30 minutes.

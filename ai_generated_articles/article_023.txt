@@ -1,0 +1,53 @@
+## Why this YouTuber has sued 'Bigg Boss 19's Tanya Mittal
+### Synopsis
+TikTok influencer Balraj Singh has reportedly sent a legal notice to Bigg Boss 19 participant Tanya Mittal. In an exclusive interview with Zoom/Telly Talk India, he alleged that Mittal "utilized" him for fame and tried to defame him. Singh claimed that she used a picture they took together and added a romantic song to it without his consent.
+
+## I can file a defamation case against her: Singh
+### Legal action
+Zoya Khan said, "I have already sent a legal notice to her and asked her team to remove my videos with her. They can't put my videos without my consent." She added, "I can file a privacy lawsuit against Tanya. She tried to defame me. When she questions me after coming out, I will definitely give her a strong reply."
+
+## 'Because she knew where to attack Balraj...'
+### Allegations
+Singh said, "I feel she used me earlier, and before going to the Bigg Boss 19 house. She apologized and made me emotionally attached." "Because she knew where to attack Balraj, and she did that." While rumors of Singh and Mittal being in a relationship have been spreading, Singh's ex-girlfriend Zoya Khan has dismissed these claims. She further alleged that Singh was defaming Mittal now, as he had long tried to get into BB but failed.
+
+## They met in Vrindavan before she entered 'BB19'
+### Relationship history
+Singh and Mittal reportedly met in Vrindavan, where she was staying at the Radisson Blu hotel. The social media personality has also alleged that Mittal, who's known for her spiritual content, is not spiritual in real life. Apparently, the 25-year-old goes to temples and other religious places only to make content, and even criticizes the people she meets.
+
+## Everything to know about 'Bigg Boss 19'
+### Show details
+Bigg Boss 19, hosted by Salman Khan, premiered on July 14, 2024. The show is available on Netflix and airs on Colors TV. While Singh has been vocal about his views on the current season's contestants, Mittal has been making headlines with her lavish lifestyle and unapologetic attitude.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 2",
+        "error": "'TikTok influencer Balraj Singh'",
+        "correction": "'YouTuber Balraj Singh'",
+        "error_type": "Named entity / categorical error — incorrect platform/occupation label"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "'Zoya Khan said, \"I have already sent a legal notice to her...\"'",
+        "correction": "'Balraj Singh said, \"I have already sent a legal notice to her...\"'",
+        "error_type": "Attribution error — quote misattributed to the wrong person"
+    },
+    {
+        "location": "line 2 in paragraph 3",
+        "error": "'I can file a privacy lawsuit against Tanya.'",
+        "correction": "'I can file a defamation case against Tanya.'",
+        "error_type": "Legal classification error — incorrect type of legal claim stated"
+    },
+    {
+        "location": "line 1 in paragraph 6",
+        "error": "'premiered on July 14, 2024.'",
+        "correction": "'premiered on August 24, 2025.'",
+        "error_type": "Temporal error — incorrect premiere date"
+    },
+    {
+        "location": "line 2 in paragraph 6",
+        "error": "'The show is available on Netflix'",
+        "correction": "'The show is available on JioHotstar'",
+        "error_type": "Named entity / platform error — incorrect streaming platform"
+    }
+]

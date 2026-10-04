@@ -1,0 +1,25 @@
+## Most expensive South African bowlers in an ODI (runs conceded)
+### Synopsis
+England hammered South Africa in the 3rd and final ODI at Trent Bridge. The hosts scored a mammoth 414/5 before bowling SA out for 72. Notably, England recorded the third-highest total at home in ODIs. While the English middle order dazzled, South Africa's Nandre Burger was hit for 95 runs. He conceded the joint second-most runs by a Proteas bowler in an ODI.
+
+## Dale Steyn: 96 runs vs Australia, Durban, 2016
+### #1
+Former South African speedster Dale Steyn is among the all-time greats. His ability to single-handedly demolish the opposition with raw pace and swing stood out. However, the 2016 Durban ODI against Australia turned out to be forgettable for Steyn. He conceded 96 runs, the most for SA in an ODI. However, the Proteas scripted history by chasing down 372 in the final over.
+
+## Nandre Burger and Wayne Parnell
+### #2
+As mentioned, Burger conceded the joint second-most runs by a South African bowler in an ODI, with Wayne Parnell. While Burger was expensive against England in Southampton, Parnell was taken in remand by India in the 2010 Gwalior ODI. India hammered 401/3 as Parnell conceded 95 runs from his 10 overs. During the innings, Sachin Tendulkar became the first-ever double-centurion in ODI cricket.
+
+## Marco Jansen: 94 runs vs India, Kolkata, 2023
+### #3
+Speedster Marco Jansen has conceded the most for South Africa in ICC ODI World Cup history. He was mighty expensive against India, who beat South Africa by 243 runs in the 2023 World Cup at Eden Gardens, Kolkata. The left-arm pacer conceded 94 runs in 9.4 overs as India racked up 326/5 in 50 overs. The Proteas later perished for 83.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in Synopsis paragraph",
+        "error": "Trent Bridge",
+        "correction": "The Rose Bowl (Southampton)",
+        "error_type": "Named entity / location error — incorrect venue"
+    }
+]

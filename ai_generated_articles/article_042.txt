@@ -1,0 +1,47 @@
+## Rimac unveils new battery tech for next-gen electric supercars
+### Synopsis
+Rimac Technology, the company famous for its electric supercars, has unveiled a new battery pack platform based on solid-state battery cells. The announcement was made at IAA Mobility in Munich. The Croatian firm is trying to establish itself as a tier 1 automotive industry supplier with this new product lineup.
+
+## From supercar manufacturer to EV supplier
+### Business shift
+Rimac made a name for itself with electric supercars like the Nevara. However, the company has also been working as an EV supplier for a long time, serving high-profile clients such as Koenigsegg and Aston Martin. In 2021, after an investment from BMW and a merger with Ferrari, Rimac became a more prominent supplier and development partner for OEMs looking for high-performance electric powertrains.
+
+## Solid-state battery platform and e-axles showcased
+### Product launch
+At the IAA in Munich this week, Rimac unveiled its latest products. These include a solid-state battery platform that integrates Solid Power cells and Toray materials. The new battery pack is touted to be lighter, safer, and more energy-dense than today's packs. Rimac also showcased its "SINTEG 300 & 550" single-motor integrated axles with rotor speeds of up to 50,000 rpm and output envelopes ranging from 1,500–3,600 kW.
+
+## Dual-motor EDU 550 set for series production
+### Tech advancements
+Rimac's dual-motor EDU 550 will go into series production in 2026 for a global OEM. It has been validated with over 95% peak efficiency and over 11,000Nm of axle torque. The company also showcased domain/zonal ECUs based on NXP S32E2 real-time processors for torque vectoring, HV battery control, body and power distribution, as well as OTA updates.
+
+## Rimac's plans for the future
+### Growth strategy
+Rimac has two Croatian sites covering around 95,000m2, backed by a €200 million campus. The company says it is preparing capacity for tens of thousands of units per month. Its previous 12-month collaboration list includes BMW Group, CEER Motors, and Porsche. This expansion plan shows Rimac's ambition to become a major player in the EV supply chain with its innovative technology offerings.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 2, sentence 3",
+        "error": "In 2021, after an investment from BMW and a merger with Ferrari, Rimac became a more prominent supplier and development partner for OEMs...",
+        "correction": "In 2021, after an investment from Porsche and a merger with Bugatti, Rimac became a more prominent supplier and development partner for OEMs...",
+        "error_type": "Relational / Named-entity affiliation error — wrong investor and merged partner"
+    },
+    {
+        "location": "Paragraph 3, sentence 2",
+        "error": "These include a solid-state battery platform that integrates Solid Power cells and Toray materials.",
+        "correction": "These include a solid-state battery platform that integrates ProLogium cells and Mitsubishi Chemical Group materials.",
+        "error_type": "Named-entity error — incorrect supplier / materials partners"
+    },
+    {
+        "location": "Paragraph 3, sentence 4",
+        "error": "Rimac also showcased its \"SINTEG 300 & 550\" single-motor integrated axles with rotor speeds of up to 50,000 rpm...",
+        "correction": "Rimac also showcased its \"SINTEG 300 & 550\" single-motor integrated axles with rotor speeds of up to 25,000 rpm...",
+        "error_type": "Numerical error — incorrect rotor speed (overstated)"
+    },
+    {
+        "location": "Paragraph 3, sentence 4",
+        "error": "...and output envelopes ranging from 1,500–3,600 kW.",
+        "correction": "...and output envelopes ranging from 150–360 kW.",
+        "error_type": "Magnitude / scale error — order-of-magnitude inflation of power figures"
+    }
+]

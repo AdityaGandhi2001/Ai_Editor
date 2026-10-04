@@ -1,0 +1,75 @@
+Source Article(s):
+
+# inDrive has big plans to become a global ‘super app’ where others have failed
+
+Published Date: Monday September 08, 2025
+
+Known for its bidding-based ride-hailing model across Asia and Latin America, inDrive is rolling out a “super app” strategy aimed at frontier markets — expanding beyond cabs to deliver daily essentials to its users.
+
+Beginning with grocery deliveries in Kazakhstan, inDrive plans to expand into multiple verticals over the next 12 months across its top markets, including Brazil, Colombia, Egypt, Pakistan, Peru, and Mexico. The shift comes on the heels of more than 360 million app downloads and 6.5 billion transactions globally, cementing its position as the world’s second most-downloaded ride-hailing app, behind Uber, since 2022.
+
+“If customers use you more frequently, then, of course, they stay longer, they’re more valuable in the ecosystem, and they’re just more loyal overall,” said Andries Smit, chief growth business officer at inDrive, in an exclusive interview.
+
+InDrive chose grocery delivery as its first expansion move after seeing rapid growth in its delivery segment — with over 41 million orders completed worldwide in 2024 and more than 14 million in Q2 2025 alone — making it one of the fastest-scaling categories in the company’s portfolio.
+
+The Mountain View, California-based company has launched its grocery delivery service in Kazakhstan, offering over 5,000 products with a 15-minute delivery promise. Early pilots in the Central Asian country yielded a net promoter score of 83% — signaling high customer satisfaction — and an average of five grocery orders per user per month, the company said.
+
+Smit told TechCrunch that inDrive is using a dark store model for grocery deliveries in Kazakhstan, with most items focused on ready-to-eat meals and around 10% consisting of fresh products — part of a strategy to boost customer retention. He added that the model will vary in other regions, where the company is open to partnering locally, particularly in markets with a dense network of mom-and-pop stores.
+
+Without sharing specifics, Smit said that the company has added 30% more dark stores in the country since August.
+
+## Why is Kazakhstan the first market?
+
+Currently operating in 982 cities across 48 countries globally and leading in eight of them, why is inDrive picking Kazakhstan as the first market for its super-app move?
+
+Smit told TechCrunch that the company decided to do so after seeing a “huge uptick” in consumers going digital in the country, which is the largest economy across Central Asia. InDrive also has its largest headcount in Kazakhstan, serving as a central hub for its R&D and operations.
+
+InDrive did not disclose specific growth metrics for its operations in Kazakhstan. However, a recent report by Dealroom, published in collaboration with the government-backed tech park Astana Hub, noted that the company saw a 44% growth in the country over the past 12 months.
+
+The report also valued Kazakhstan’s tech ecosystem at $26 billion — an 18-fold jump since 2019 — suggesting a sharp rise in local startup formation, funding, and digital services.
+
+Kazakhstan already has grocery delivery apps to fulfill some of the demand. Nonetheless, inDrive wants to win the market predominantly with affordable pricing — aiming to be the Aldi of online groceries.
+
+“There is access and inequality, and even access issues with some of the groceries,” said Smit. “Some of our cost-conscious consumers end up not buying from the right places or not buying the right goods, and they recognize that, but they feel they have no other choice.”
+
+## inDrive’s super app: A differentiator or déjà vu?
+
+Many companies have tried to succeed with super apps. While some, like WeChat and Gojek, have found success, others — including Meta — have struggled to gain traction.
+
+Smit, who worked with WeChat in his former role in 2016, experienced how the integrated experience on the Chinese app worked well. He told TechCrunch that by leveraging his expertise and utilizing AI capabilities, inDrive plans to make its super-app strategy successful. The AI integration would help bring personalization to users and make services accessible to people with disabilities and those with lower literacy, he said.
+
+In November 2023, inDrive announced a venture and merger and acquisition arm to invest up to $100 million over the next few years. Smit told TechCrunch that of that venture, about 30% has already been deployed on the super-app strategy.
+
+The company invested in Pakistan’s grocery startup, Krave Mart, in December as part of that venture. However, there is no concrete timeline on when inDrive’s app will offer grocery deliveries to users in Pakistan.
+
+InDrive’s archrival Uber has also expanded its service portfolio, adding verticals like food delivery through Uber Eats in select markets. Smit said inDrive targets a different customer segment — one that Uber typically doesn’t serve — though there is some overlap in certain regions.
+
+“By and large, we really support and play into a cost-conscious consumer,” he said.
+
+## India as a “puzzle” market
+
+In addition to frontier markets including Kazakhstan, inDrive has been operating in India for some time, competing with Uber as well as homegrown players such as Ola and Rapido. However, the company has not picked up in the South Asian nation. Uber even piloted a version of inDrive’s bidding model in India attempting to replicate the approach.
+
+Data from Appfigures exclusively shared with TechCrunch shows that inDrive saw 1.07 million fewer downloads year-to-date compared to the same period in 2024 — a 22.6% decline. In contrast, Uber added 8.02 million downloads, up 60.6%, while Ola gained 1.55 million — a 13.2% increase. Rapido emerged as the fastest-growing player with 14.9 million additional downloads — an 80.9% surge.
+
+“India is a puzzle for us,” Smit told TechCrunch. “India is still growing and we … decided to focus very quickly on key cities where we really think we want to operate strongly.”
+
+The company is testing different models especially in the freight business though it is known for allowing riders to haggle with drivers. These include different payment mechanisms for drivers to get paid daily and even go with a specific take rate Smit said.
+
+InDrive faced early challenges and saw limited success at first — even in markets like Pakistan where it later became the leading ride-hailing platform following Uber’s exit.
+
+“We’ve had sleeper markets where the markets sort of drifted and then for whatever case maybe one of the competitors falters,” Smit said.
+
+More than a dozen riders and drivers in India told TechCrunch that safety concerns were a key reason they no longer prefer using inDrive. Some drivers said the app’s bidding model had been exploited by riders — and in some cases even by fellow drivers posing as riders to hassle their peers by aggressively haggling.
+
+Smit said that the company prioritizes safety and customer service.
+
+“Yes we need to do a lot more talking to this safety perception and teaching and educating our drivers and passengers,” he said.
+
+## Next verticals in plans
+
+InDrive plans to expand its super-app offering by launching new services tailored to local market needs. Smit told TechCrunch that these could include financial services. One example is already live in markets including Brazil and Mexico where drivers can access small loans through the ride-hailing app. The company is exploring ways to extend this to passengers — and potentially to small businesses involved in deliveries he added.
+
+The company also plans to explore a service that enables micro-mobility allowing its consumers to connect with local businesses and public transportation services.
+
+“We want to be city-specific and it could be a bouquet of different services,” Smit said. “We want to capture the key verticals that we have capability for that we know are very close to our core … But if we have no experience running those kinds of services we will definitely just partner with the right player.”

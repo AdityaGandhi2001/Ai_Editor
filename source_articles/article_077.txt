@@ -1,0 +1,19 @@
+Source Article(s):
+
+# Elon Musk’s X reveals code behind ‘For You’ timeline
+
+Published Date: Tuesday September 09, 2025
+
+Elon Musk’s microblogging platform X (formerly Twitter) announced on Tuesday, September 9, that it was open-sourcing the latest version of the code that recommends posts for its ‘For You’ timeline.
+
+The company, which originally released its algorithm code in 2023, stated that it was a ‘work in progress' and would continue to refine its approach.
+
+In a post on the social media platform, the official engineering handle for X wrote, “Today, as part of our effort to make our platform transparent, we are open-sourcing the latest code used to recommend posts on the ‘For You’ timeline. Our algorithm is always a work in progress. We will continue to refine our approach to surface the most relevant content to our community.”
+
+Earlier in 2023, the platform announced the public release of a significant portion of its source code, including its recommendation algorithm.
+
+“For this release, we aimed for the highest possible degree of transparency, while excluding any code that would compromise user safety and privacy or the ability to protect our platform from bad actors, including undermining our efforts at combating child sexual exploitation and manipulation. Today’s release also does not include the code that powers our ad recommendations,” the company added.
+
+X's Recommendation Algorithm is a set of services and jobs that curates and serves personalised content, like posts and other content, across X's various product surfaces, such as the ‘For You’ timeline, Search, Explore, and Notifications.
+
+In the blog post, the social media platform also revealed more about the recommendation pipeline. “For each request, we attempt to extract the best 1500 Tweets from a pool of hundreds of millions through these sources. We find candidates from people you follow (In-Network) and from people you don’t follow (Out-of-Network). Today, the ‘For You’ timeline consists of 50% In-Network Tweets and 50% Out-of-Network Tweets on average, though this may vary from user to user,” X wrote.

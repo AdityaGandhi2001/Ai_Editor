@@ -1,0 +1,37 @@
+## GST rate cuts must be passed to consumers: Piyush Goyal
+### Synopsis
+Union Minister Piyush Goyal has called on industries to pass on the benefits of Goods and Services Tax (GST) rate cuts to consumers. He said this will boost domestic demand, create new business opportunities, and strengthen India's economy. Goyal made these remarks at an event organized by EEPC India. He emphasized that the simplification and reduction in GST rates would boost domestic demand and create more opportunities for small and large enterprises alike.
+
+## India's economy to become 3rd largest in 2.5 years
+### Economic forecast
+Goyal said, "The GST rate cuts, along with simplification, will boost domestic demand. Small and large enterprises will gain more opportunities, jobs will be created, incomes will rise, and spending will increase." He added that this would create a virtuous cycle of growth that would propel India forward. The minister also predicted that India's economy would become the world's third-largest in two to 2.5 years and reach at least $3 trillion by 2027.
+
+## India recorded a 'world record' GDP growth of 7.8%
+### Economic progress
+Goyal highlighted India's transformation from one of the "fragile five" economies to a top-five economy in the world under Prime Minister Narendra Modi's leadership. He noted that India has been the fastest-growing economy for four years and recently recorded a 7.8% GDP growth in a single quarter, which he called a "world record." The minister also stressed the importance of ensuring equitable benefits reach every citizen through GST cuts.
+
+## Goyal urges industries to support Atmanirbhar Bharat initiative
+### Self-reliance
+Goyal urged industries to support the Atmanirbhar Bharat initiative and promote Swadeshi products. He said this would help reduce import dependence and contribute to financial security and national progress. The minister also stressed the importance of trade and MSMEs, calling them the backbone of India's economy. He highlighted that India's exports have grown from just $10 billion in 1955 to a staggering $116 million projected for 2024-25, reflecting massive growth in the engineering sector.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 3 in paragraph 2 (Economic forecast section, paragraph starting 'Goyal said...')",
+        "error": "\"reach at least $3 trillion by 2027\"",
+        "correction": "\"reach at least $30 trillion by 2047\"",
+        "error_type": "Numerical & Temporal Errors; Magnitude & Scale; Inference error — wrong value and timeline for the economic projection"
+    },
+    {
+        "location": "sentence 4 in paragraph 4 (Self-reliance section, final paragraph)",
+        "error": "\"$10 billion in 1955\"",
+        "correction": "\"$10 million in 1955\"",
+        "error_type": "Numerical & Magnitude Error; Units/Scale — wrong order of magnitude for historical export figure"
+    },
+    {
+        "location": "sentence 4 in paragraph 4 (Self-reliance section, final paragraph)",
+        "error": "\"$116 million projected for 2024-25\"",
+        "correction": "\"$116 billion projected for 2024-25\"",
+        "error_type": "Numerical & Magnitude Error; Units/Scale — wrong order of magnitude for projected exports"
+    }
+]

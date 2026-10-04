@@ -1,0 +1,47 @@
+## 'To everyone that believed...': Akshay celebrates birthday by thanking fans
+### Synopsis
+Bollywood superstar Akshay Kumar is celebrating his 59th birthday on Wednesday. To mark the occasion, he took to social media to share an emotional message for his fans. In the post, he reflected on his journey, including 34 years in the film industry and over 150 films to his name. He thanked everyone who has supported him along this journey.
+
+## This is your journey as much as mine: Kumar
+### Birthday message
+Kumar wrote, "58 years in the making, 34 years in this industry, over 150 films & counting." "To everyone that ever believed in me, who bought a ticket, who signed me, produced me, directed me and guided me, this is your journey as much as mine." He added that his birthday is a dedication to those who still believe in him.
+
+## 'I'm nothing without you'
+### Appreciation
+Kumar further expressed his gratitude by saying, "I'm just here to say an eternal 'Thank You' for every kind action, unconditional support, and words of encouragement. I am nothing without you."  He also thanked artist Rahul Nanda, his longtime manager, for capturing his life's work in a special tribute for his fans. The post has since gone viral on social media, with fans showering him with birthday wishes and praises.
+
+## Kumar participated in a beach cleanup drive
+### Community service
+On September 7, Kumar was spotted at Mumbai's Juhu Beach participating in a beach cleanup drive. The initiative was organized a day after Ganpati Visarjan and saw participation from several other citizens, including Amruta Fadnavis, wife of Maharashtra Chief Minister Devendra Fadnavis. Videos shared online showed Kumar actively picking up waste left behind after the immersion and placing it in bags with other volunteers.
+
+## Kumar's upcoming films
+### Career highlights
+Kumar, one of Bollywood's most bankable stars, has several projects in the pipeline. His film Jolly LLB 3 is releasing on September 9, 2025. He will also be seen in Priyadarshan's quirky horror-comedy Bhooth Bangla in April 2026 and the much-anticipated Priyadarshan-thriller Haiwaan opposite Saif Ali Khan, which recently went on floors. He also has Hera Pheri 3 in the pipeline.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 1 in paragraph 2 (Synopsis)",
+        "error": "his 59th birthday on Wednesday",
+        "correction": "his 58th birthday on Tuesday",
+        "error_type": "Numerical/Temporal error (wrong age) and Day-of-week error (wrong weekday) — introduced as multi-error in one sentence"
+    },
+    {
+        "location": "sentence 1 in paragraph 2 (Synopsis)",
+        "error": "on Wednesday",
+        "correction": "on Tuesday",
+        "error_type": "Temporal error (incorrect day of week)"
+    },
+    {
+        "location": "sentence 2 in paragraph 10 (Appreciation)",
+        "error": "He also thanked artist Rahul Nanda, his longtime manager, for capturing his life's work in a special tribute for his fans.",
+        "correction": "He also thanked artist Rahul Nanda for capturing his life's work in a special tribute for his fans.",
+        "error_type": "Relational/Attribution error (incorrectly asserts a personal professional relationship)"
+    },
+    {
+        "location": "sentence 1 in paragraph 15 (Career highlights)",
+        "error": "Jolly LLB 3 is releasing on September 9, 2025.",
+        "correction": "Jolly LLB 3 is releasing on September 19, 2025.",
+        "error_type": "Temporal/Date error (incorrect release date)"
+    }
+]

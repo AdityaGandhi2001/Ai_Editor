@@ -1,0 +1,35 @@
+## 'Vampires sucking blood dry': Navarro denounces India, China, BRICS
+### Synopsis
+Peter Navarro, trade advisor to United States President Donald Trump, has launched a scathing attack on the BRICS alliance. He called the member nations "vampires" and accused them of unfair trade practices that hurt American interests. "None of these countries can survive if they don't sell to the United States," Navarro said in an interview with Fox News.
+
+## 'Historically, they all hate each other and kill each other'
+### Alliance skepticism
+Navarro also expressed doubts over the longevity of the BRICS alliance, citing historical animosities among member countries. He said, "I don't see how the BRICS stays together since historically they all hate each other and kill each other." His comments come after a recent virtual summit chaired by Brazil that focused on global economic stability.
+
+## Navarro also commented on Russia's ties with China
+### Geopolitical tensions
+Navarro also slammed Russia's growing ties with China and India's long-standing conflict with its neighbor. He said, "Russia is getting into bed with China... China claims they own Vladivostok." The BRICS bloc now includes 12 countries: Brazil, Russia, India, China, South Africa, Saudi Arabia, Egypt, United Arab Emirates (UAE), Nigeria, Indonesia, and Iran.
+
+## BRICS summit emphasizes commitment to multilateralism
+### Summit outcomes
+The recent BRICS summit emphasized a commitment to multilateralism and reforming international institutions. Brazilian President Luiz Inacio Lula da Silva stressed the need for a more "just, balanced, and inclusive international order." External Affairs Minister S Jaishankar represented India at the summit and emphasized stabilizing the international economy.
+
+## Social media railing against India
+### Navarro's attack
+Navarro had earlier accused India in a social media post of fueling Moscow's war by purchasing discounted Russian crude. However, X users posted community notes pointing out that the oil purchases were for India's energy security, adding that it was hypocritical of the US to lambast India when Washington itself imported uranium from Russia. Nevertheless, Navarro doubled down on his claims and said, "India didn't buy Russian oil in large quantities before Russia invaded Ukraine."
+
+**Error Annotations:**
+[
+    {
+        "location": "Sentence 3 in paragraph 3",
+        "error": "\"...Navarro said in an interview with Fox News.\"",
+        "correction": "\"...Navarro said in an interview with Real America's Voice.\"",
+        "error_type": "Named Entity / Attribution Error — incorrect media outlet attributed as interview source"
+    },
+    {
+        "location": "Sentence 1 in paragraph 8",
+        "error": "\"The BRICS bloc now includes 12 countries: ... United Arab Emirates (UAE), Nigeria, Indonesia, and Iran.\"",
+        "correction": "\"The BRICS bloc now includes 11 countries: ... United Arab Emirates (UAE), Ethiopia, Indonesia, and Iran.\"",
+        "error_type": "Numerical & Named Entity Error — wrong total number of BRICS members and incorrect member listed (Nigeria should be Ethiopia; count should be 11)"
+    }
+]

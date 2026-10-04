@@ -1,0 +1,29 @@
+## EOW summons Shilpa's husband Raj Kundra in ₹60cr cheating case
+### Synopsis
+Businessman Raj Kundra, the husband of actor Shilpa Shetty, has been summoned by the Economic Offences Wing (EOW) of Mumbai Police in a cheating case involving ₹60.48 crore. The summons were issued after Look-Out Circulars (LOCs) were filed against both Kundra and Shetty last week. The complaint was registered on August 13 against the couple and another individual for allegedly cheating businessman Deepak Kothari.
+
+## Kundra to appear for questioning next Monday
+### Investigation details
+Kundra was originally asked to appear for questioning on Wednesday but has requested more time through his representative.  He is now expected to appear on Monday, September 15, a senior EOW officer confirmed this development to Hindustan Times. The couple's frequent international travel was a reason for issuing LOCs, ensuring they remain in Mumbai for the inquiry.
+
+## What does the FIR state
+### Case details
+The case stems from a complaint by Kothari, a 60-year-old businessman and director of Lotus Capital Financial Services. He alleged that between 2015 and 2023, Shetty and Kundra diverted funds he had provided for their business expansion for personal purposes. The FIR states that Kothari was introduced to Kundra through a common acquaintance who informed him about the couple's nearly 68% shares in Best Deal TV, a now-defunct home shopping and online retail platform.
+
+## Allegations against Kundra
+### Allegations
+Kothari alleged that Kundra initially sought a loan of ₹75 crore at 12% annual interest but later convinced him to treat the transaction as an investment. He transferred ₹31.95 crore in April 2015 under a share subscription agreement and ₹28.53 crore in September 2015 under a supplementary agreement. But, Kothari discovered in 2017 that insolvency proceedings had been initiated against Best Deal TV for allegedly cheating another investor. Despite repeated demands, Kundra allegedly delayed repayment, citing the COVID-19 pandemic.
+
+## EOW's findings so far
+### Inquiry results
+The EOW's preliminary inquiry found that Kothari's funds had been misused. Shetty, Kundra, and an unidentified associate were booked under IPC Sections 403 (dishonest misappropriation of property), 406 (criminal breach of trust), and 34 (common intention). The auditor who examined the firm's books before liquidation proceedings were filed before the National Company Law Tribunal has also been summoned. Investigators are tracing the money trail to determine how the funds were spent.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 3 in paragraph 4",
+        "error": "the couple's nearly 68% shares in Best Deal TV",
+        "correction": "the couple's nearly 88% shares in Best Deal TV",
+        "error_type": "Numerical/Named Entity Error — incorrect percentage ownership reported"
+    }
+]

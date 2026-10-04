@@ -1,0 +1,43 @@
+## Prince Harry visits grandma Queen Elizabeth's grave on death anniversary
+### Synopsis
+Prince Harry, the Duke of Sussex, paid a private visit to Westminster Abbey in London on the second anniversary of Queen Elizabeth II's death. He laid a wreath at the grave of his grandmother, who died aged 96 on September 8, 2022. The Queen was buried next to her husband Prince Philip in the King George VI Memorial Chapel at Windsor Castle after a state funeral and committal service.
+
+## Prince Harry to attend WellChild Awards
+### Charity engagement
+Prince Harry's visit to the UK comes ahead of his attendance at the Children in Need Awards. The charity, which he has supported since 2007, celebrates young people living with serious health challenges and honors their caregivers. During the event, Prince Harry will deliver a speech and present an award.
+
+## Hopes for Harry-Charles reunion
+### Family dynamics
+Prince Harry's visit has sparked speculation of a possible reunion with his father, King Charles III. The two have not met in person since February 2024 due to ongoing estrangement and legal battles over security arrangements in the UK. Despite these tensions, Prince Harry has expressed a desire for reconciliation with his family.
+
+## Strained relationships with other royals
+### Family tensions
+Apart from King Charles, Prince Harry's relationship with his brother Prince William and sister-in-law Kate Middleton is also strained. However, he has publicly stated his wish for reconciliation. In May, he told BBC News that he "would love reconciliation with my family. There's no point in continuing to fight anymore." This time, he's traveling without his wife, Meghan Markle, or their two kids, Prince Archie, 7, and Princess Lilibet, 4.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "Westminster Abbey in London",
+        "correction": "St. George's Chapel at Windsor Castle",
+        "error_type": "Named Entity Error (incorrect location of the burial site/visit)"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "second anniversary",
+        "correction": "third anniversary",
+        "error_type": "Numerical & Temporal Error (wrong anniversary/count of years since death)"
+    },
+    {
+        "location": "Prince Harry to attend WellChild Awards paragraph, sentence 1",
+        "error": "Children in Need Awards",
+        "correction": "WellChild Awards",
+        "error_type": "Named Entity / Event Misidentification (wrong charity/event name)"
+    },
+    {
+        "location": "Strained relationships with other royals paragraph, sentence 4",
+        "error": "Prince Archie, 7",
+        "correction": "Prince Archie, 6",
+        "error_type": "Numerical & Magnitude Error (incorrect age)"
+    }
+]

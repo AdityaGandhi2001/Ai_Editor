@@ -1,0 +1,47 @@
+## Ben Stokes resumes training ahead of Ashes: Details
+### Synopsis
+England's hopes of winning their first Ashes series in Australia since 2013 have received a major boost with the return of Test captain Ben Stokes to training. The all-rounder had been out of action since injuring his knee during the first Test against Australia in June. However, he has now resumed training with Durham County Cricket Club ahead of this year's Ashes series.
+
+## Stokes back in training
+### Training update
+Durham coach Ryan Campbell, while talking to Sky Sports, confirmed Stokes's return to batting in the nets during a recent training session. He said, "Stokes is back in training," adding that the all-rounder had a "really good session" hitting balls for nearly two hours. "Over the last week, he's started to hit balls and had a really good session. Scott Borthwick was throwing to him with (coach) Will Gidman for nearly two hours," he said.
+
+## England's hopes hinge on Wood's return
+### Fitness concerns
+Stokes's fitness is vital for England as they look to win their first Ashes series in Australia since 2013. The team is also waiting on the fitness of fast bowler Mark Wood, who suffered an ankle injury during the World Test Championship Final in June and Campbell said the right-armer was likely to play a red-ball match for Durham in next week's County Championship to prove his fitness.
+
+## England withdraw Duckett, Smith for SA T20Is
+### Squad changes
+England has withdrawn left-hander Ben Duckett and keeper-batter Jamie Smith from their squad for upcoming T20Is against South Africa. The move is aimed at keeping the duo fresh for their trip Down Under. England coach Brendon McCullum believes this extra break will help both players thrive when they arrive in Australia in November.
+
+**Error Annotations:**
+[
+
+    {
+    "location": "paragraph 1, sentence 1",
+    "error": "\"since 2013\"",
+    "correction": "\"since 2011\"",
+    "error_type": "Numerical/Temporal error — incorrect year for England's last Ashes series win in Australia"
+    },
+
+    {
+    "location": "paragraph 1, sentence 2",
+    "error": "\"injuring his knee during the first Test against Australia in June\"",
+    "correction": "\"injuring his shoulder during the fourth Test against India in July\"",
+    "error_type": "Named entity + Categorical + Temporal errors — wrong opponent and Test number, wrong injury type, and wrong month"
+    },
+
+    {
+    "location": "paragraph 3, sentence 1",
+    "error": "\"while talking to Sky Sports\"",
+    "correction": "\"while talking to BBC Radio 5 Live\"",
+    "error_type": "Attribution/Named Entity error — incorrect media outlet/source attribution"
+    },
+
+    {
+    "location": "paragraph 4, sentence 2",
+    "error": "\"who suffered an ankle injury during the World Test Championship Final in June\"",
+    "correction": "\"who recovered from a knee injury suffered during the ICC Champions Trophy in February\"",
+    "error_type": "Event attribution + Categorical + Temporal errors — wrong event named, wrong injury type, and wrong month"
+    }
+]

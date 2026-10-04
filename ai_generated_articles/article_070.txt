@@ -1,0 +1,47 @@
+## VP election: Voting ends with record 88.3% turnout
+### Synopsis
+The voting for the Vice Presidential election in India has concluded with a record 88.3% voter turnout. The election was held between the ruling National Democratic Alliance (NDA) candidate CP Radhakrishnan and opposition nominee B Sudershan Reddy. President Droupadi Murmu was among the first to cast her vote at Parliament House, followed by several Union Ministers and MPs from various parties.
+
+## BJD, BRS, SAD abstain from voting
+### Political dynamics
+The opposition has united for this election, with all 300 of its MPs voting, and Congress leader Rahul Gandhi called it an "unprecedented 100% turnout." However, some regional parties like the Biju Janata Dal (BJD), Bharat Rashtra Samithi (BRS), and Shiromani Akali Dal (SAD) chose to abstain from voting. These parties are trying to highlight state-level issues and keep a distance from both the NDA and the Congress-led INDIA bloc.
+
+## Counting of votes begins
+### Election progress
+The counting of votes started at 6:00pm after the polling ended at 5:00pm. The electoral college for this election comprises members from both Houses of Parliament, with a total strength of 781. BJP MP Bhagwat Karad ruled out any chances of cross-voting in favor of the NDA candidate. Meanwhile, CPI leader P Sandosh Kumar called it a "very close fight" this time around.
+
+## Sudershan Reddy optimistic about people's conscience awakening
+### Candidate confidence
+NDA's Vice Presidential nominee CP Radhakrishnan expressed confidence in a clear victory for the ruling alliance. He said, "The elections are taking place. It is going to be a big victory for Indian nationalism." On the other hand, opposition nominee B Sudershan Reddy was also optimistic about awakening people's conscience during this election process.
+
+## Deve Gowda arrives to cast vote
+### Election strategies
+The BJD, BRS, and SAD's decision to abstain from voting is seen as an attempt to highlight state-level issues. Meanwhile, Congress state convenors and party MPs held a strategy meeting with party president Mallikarjun Kharge ahead of the election. Former Prime Minister HD Deve Gowda also arrived at Parliament House to cast his vote in this high-stakes election.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis, sentence 1",
+        "error": "88.3% voter turnout",
+        "correction": "98.3% voter turnout",
+        "error_type": "Numerical & Quantitative Error — incorrect percentage of voter turnout"
+    },
+    {
+        "location": "Synopsis, sentence 2",
+        "error": "President Droupadi Murmu was among the first to cast her vote",
+        "correction": "Prime Minister Narendra Modi was among the first to cast his vote",
+        "error_type": "Named Entity Error — wrong public figure identified as casting an early vote"
+    },
+    {
+        "location": "BJD, BRS, SAD abstain from voting - Political dynamics, sentence 1",
+        "error": "with all 300 of its MPs voting",
+        "correction": "with all 315 of its MPs voting",
+        "error_type": "Numerical Error — incorrect count of opposition MPs reported as voting"
+    },
+    {
+        "location": "BJD, BRS, SAD abstain from voting - Political dynamics, sentence 1",
+        "error": "Congress leader Rahul Gandhi called it an \"unprecedented 100% turnout.\"",
+        "correction": "Congress leader Jairam Ramesh called it an \"unprecedented 100% turnout.\"",
+        "error_type": "Named Entity / Attribution Error — incorrect attribution of quote to the wrong political leader"
+    }
+]

@@ -1,0 +1,53 @@
+## Pakistan tapping phones, using firewalls to spy on citizens: Amnesty
+### Synopsis
+Pakistan is spying on its citizens using a phone-tapping system and an American-built internet firewall that amplifies social media content rather than censoring it, according to a report by Amnesty International. The human rights watchdog called it one of the "most comprehensive examples of state surveillance outside China." The report highlighted that these surveillance tools are part of an extensive network built with solely Western technology.
+
+## Surveillance used to suppress dissent, free speech
+### Dissent suppression
+The Amnesty International report also noted that Pakistan's surveillance network is being used to suppress dissent and free speech. This comes in the wake of already restricted political and media freedoms in the country, especially after the military's split with ex-Prime Minister Imran Khan in 2022. The findings were based on a 2021 case filed by Bushra Bibi, Khan's wife, after her private calls were leaked online.
+
+## Spy agencies can monitor 4M phones simultaneously
+### Surveillance capacity
+Amnesty International's report revealed that Pakistan's spy agencies can monitor up to 40 million mobile phones simultaneously. This is possible due to their Lawful Intercept Management System (LIMS) and a firewall called WMS 2.0, which inspects internet traffic. The two systems work together, permitting intelligence agencies to tap phone calls and texts while also slowing down/blocking websites and social media platforms across the country.
+
+## Telecom regulator admits to asking phone companies to install LIMS
+### System installation
+Despite denials from Pakistan's intelligence agencies and defense ministries about running these surveillances, the telecom regulator has admitted to asking phone companies to install LIMS for use by "designated agencies." This comes as Pakistan continues to block more than 650,000 web links and restrict platforms like YouTube, Facebook, and X. The restrictions have hit hardest in Balochistan province where districts have faced years-long internet blackouts.
+
+## Pakistan ranked 152 out of 180 in Press Freedom Index
+### Press freedom
+Pakistan ranked 152 out of 180 countries in the 2024 World Press Freedom Index, a decline of two places from its position in 2023. Reporters Without Borders (RSF) noted an increase in arbitrary detentions and enforced disappearances of journalists. The organization also highlighted that Pakistan has long struggled between civil society's push for press freedom and the political-military elite's persistent control over media.
+
+## Error Annotations:
+[
+    {
+        "location": "line 1 in paragraph 3 (Synopsis)",
+        "error": "American-built internet firewall",
+        "correction": "Chinese-built internet firewall",
+        "error_type": "Named entity / attribution error (incorrect country attribution)"
+    },
+    {
+        "location": "line 1 in paragraph 3 (Synopsis)",
+        "error": "that amplifies social media content rather than censoring it",
+        "correction": "that censors social media",
+        "error_type": "Interpretation error (incorrect description of the firewall's function)"
+    },
+    {
+        "location": "line 3 in paragraph 3 (Synopsis)",
+        "error": "built with solely Western technology",
+        "correction": "built with Chinese and Western technology",
+        "error_type": "Relational/attribution error (incorrect statement about the sources of the technology)"
+    },
+    {
+        "location": "line 1 in paragraph 9 (Surveillance capacity)",
+        "error": "up to 40 million mobile phones simultaneously",
+        "correction": "up to four million mobile phones simultaneously",
+        "error_type": "Numerical & magnitude error (incorrect order-of-magnitude statistic)"
+    },
+    {
+        "location": "line 3 in paragraph 6 (Dissent suppression)",
+        "error": "The findings were based on a 2021 case filed by Bushra Bibi",
+        "correction": "The findings were based on a 2024 case filed by Bushra Bibi",
+        "error_type": "Temporal error (incorrect year/date)"
+    }
+]

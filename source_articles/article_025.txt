@@ -1,0 +1,67 @@
+Source Article(s):
+
+# iPhone 17 Launched: A19 Chip, Apple Intelligence, and More
+
+Published Date: Tuesday September 09, 2025
+
+iPhone 17 will be available for pre-order beginning September 12 globally.
+
+Written by Shaurya Tomer, Edited by Ketan Pratap | Updated: 9 September 2025 23:00 IST 
+
+Highlights
+
+* iPhone 17 comes with support for Apple Intelligence 
+* The handset runs on iOS 26 out of the box 
+* In India, the iPhone 17 goes on sale starting September 19
+
+iPhone 17 is available in five colourways
+
+Photo Credit: Apple
+
+Apple, at its 'Awe Dropping' event, unveiled the all-new iPhone 17. During the keynote address at Apple Park, CEO Tim Cook announced the all-new base iPhone model for this year. It is the standard model in the Cupertino-based tech giant's latest iPhone lineup, equipped with the successor to last year's A18 chipset and running iOS 26 out of the box. The handset comes with improved cameras, faster performance, and other quality-of-life upgrades. Like its predecessor, the iPhone 17 is also equipped with support for Apple Intelligence — the company's proprietary artificial intelligence (AI) suite.
+
+## iPhone 17 Price, Availability
+
+The iPhone 17 price starts at $799 (roughly Rs. 70,400) for the base variant with 256GB of storage. It is also available in a 512GB storage variant, priced accordingly. In India, the price of iPhone 17 is set ar Rs. 82,900.
+
+The handset is sold in Lavender, Mist Blue, Sage, White, And Black colourways. Pre-orders of the iPhone 17 will begin on September 12 and deliveries will commence September 19 globally.
+
+## iPhone 17 Features and Specifications
+
+The iPhone 17 is a dual SIM (US: eSIM, Worldwide: Nano+eSIM) handset that runs on iOS 26. It sports a larger 6.3-inch Super Retina XDR OLED display with up to a 120Hz refresh rate, courtesy of the new ProMotion panel, which has been adopted from the iPhone 16 Pro models.
+
+Following this upgrade, the iPhone 17 becomes the first non-Pro iPhone model, alongside the Air, to support up to 120Hz refresh rate. The screen supports up to 3,000 nits of peak brightness and comes with upgraded Ceramic Shield 2 protection and an always-on display feature. The handset has an IP68 rating for dust and water resistance.
+
+For optics, the iPhone 17 comes with a dual rear camera system, headlined by a 48-megapixel Fusion main camera with an f/1.6 aperture and sensor-shift optical image stabilisation (OIS). This sensor can also function as a 2X telephoto camera with a 52mm focal length. Accompanying it is a 48-megapixel Fusion Ultra-Wide camera with an f/2.2 aperture and macro capabilities. On the front, you get a new Centre Stage selfie camera.
+
+The iPhone 17 is powered by an A19 chipset and runs on iOS 26. It comprises a 16-core Neural Engine, which Apple claims delivers power-efficient AI inference, increased memory bandwidth, and improved performance. In total, the CPU performance is claimed to be 40 percent faster compared to iPhone 16. Apple has bumped up the storage as well, with 256GB as the base storage. It comes with support for the same Apple Intelligence features as the Pro models.
+
+As per the company, the iPhone 17 can deliver up to eight hours more battery life compared to the iPhone 16. It gets faster charging too, with a 50 percent charge in minutes. Meanwhile, a 10 minute charge can provide up to eight hours of usage.
+
+# iPhone 17 with Ceramic Shield 2 display and A19 chipset launched: Price, features, specs
+
+Published Date: Tuesday September 09, 2025
+
+Tech giant Apple has launched its much-awaited iPhone 17 at the “Awe Dropping” event. The device is powered by the A19 chipset and comes with Apple Intelligence. With iOS 26, it gets visual intelligence, live translation, and the Ceramic Shield 2 display.
+
+## iPhone 17 Specifications
+
+The iPhone 17 comes with a 6.3-inch, 120Hz ProMotion AMOLED display with Ceramic Shield 2 protection and 3,000 nits of peak brightness.
+
+The new iPhone 17 runs on the A19 processor, which is based on a 3nm process. It features a 6-core CPU and a 5-core GPU. Neural accelerators are also built into each GPU to run powerful generative AI models on the device.
+
+As for optics, the phone comes with a 48MP wide-angle sensor with OIS and a 48MP ultra-wide-angle sensor. On the front, it houses an 18MP sensor with autofocus support.
+
+The iPhone 17 also comes with support for the Action Button and Camera Control. Apple hasn't revealed the battery capacity of the device but notes that it supports 25W Qi2 wireless and MagSafe charging. As for wired charging, the phone can charge up to 50% in 20 minutes with a 40W adapter.
+
+Similar to previous iPhone models, the iPhone 17 comes with an IP68 rating for water and dust resistance. It has a thickness of 7.95mm and weighs in at 177 grams.
+
+The iPhone 17 is among the first devices ever to come running on Apple's iOS 26 interface. The advancements in the processor along with new software, Apple claims, will lead to 30 hours of video playback support—eight more hours than the iPhone 16.
+
+## iPhone 17 Price in India:
+
+The iPhone 17 starts at a price of ₹82,900 for the 256GB storage variant and ₹1,02,900 for the 512GB model. Notably, Apple has decided to do away with the 128GB model in the lineup.
+
+The phone comes in five color variants: black, lavender, mist blue, sage, and white.
+
+It will be available for pre-orders from Friday, September 12, and can be bought from September 19 onwards.

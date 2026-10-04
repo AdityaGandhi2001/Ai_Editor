@@ -1,0 +1,19 @@
+Source Article(s):
+
+# Amazon Music’s new AI feature generates personalized playlists every Monday
+
+Published Date: Monday September 08, 2025
+
+Ever since Spotify launched an AI DJ, Amazon Music has been developing its own AI-powered features, including AI-generated playlists and AI-assisted search, to compete more effectively with the music giant.
+
+Now Amazon Music is launching a new feature called “Weekly Vibe,” designed to further personalize the listening experience. The feature is rolling out today to U.S. customers across all subscription tiers within the app on both iOS and Android.
+
+Recognizing a common challenge faced by avid music streamers — getting tired of the same songs after extensive listening — Weekly Vibe aims to keep your playlists fresh every week. Every Monday, Weekly Vibe uses AI to create personalized playlists that reflect your recent listening habits, taking into account your evolving “musical moods” and interests, the company explains.
+
+Additionally, it suggests new, similar music to enhance the discovery experience.
+
+To find your Weekly Vibe playlist, go to “Library” at the bottom of the screen and select “Made for You.” Here, you will find the playlist of the week, complete with a new title, description, and curated songs. Each playlist focuses on a specific theme or genre, such as a selection of hip-hop tracks or pop hits.
+
+You can also share your playlists with friends, post them on social media, and save playlists to your library for future listening.
+
+Weekly Vibe builds on Amazon Music’s “Maestro” playlist generator, which rolled out in beta last year. With Maestro, you can enter prompts — like what mood you’re in or even random emojis — and the AI creates personalized playlists that match the request.

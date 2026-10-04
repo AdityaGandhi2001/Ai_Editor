@@ -1,0 +1,41 @@
+## Massive protests erupt in Nepal after social media platforms blocked
+### Synopsis
+Nepal has been rocked by massive protests after the government ordered internet service providers to block access to popular social media platforms like Facebook, Instagram, YouTube, and X. The move came after these platforms failed to comply with new local registration rules within a week. The ban has triggered widespread outrage among the country's youth, who have taken to the streets in large numbers. At least 50 people have died in clashes between police and protesters, according to Reuters.
+
+## Ministry directed telecom operators to block access to platforms
+### Justification
+The Nepalese Ministry of Communications and Information Technology had directed the regulatory authority to ask service providers to block access to 26 platforms, including Facebook, Messenger, Instagram, YouTube, X, Discord, Reddit, WeChat, and Snapchat. The government had given these foreign platforms seven days to register their operations in Nepal and appoint a local contact person.
+
+## Supreme Court upheld registration requirement
+### Legal backing
+The Nepalese Supreme Court had upheld the government's requirement, citing the need to regulate revenues and address misinformation. However, it did not call for a ban but directed the government to create necessary legal arrangements. The registration rules are part of a proposed wider legislation that could impose fines and imprisonment for content deemed "against national interest."
+
+## Over 90% of Nepal has internet access
+### Digital disruption
+According to data from the Nepal Telecommunications Authority, over 90% of the country has internet access. Facebook is the most used social media platform with an 87% market share, followed by X and YouTube. The ban has been compared by some civil society groups to censorship in China. The Committee to Protect Journalists (CPJ) said this decision would limit news reporting and democratic access to information.
+
+## Minister says platforms were given enough time to register
+### Official defense
+In defense of the ban, Nepal's Home Minister Shyam Bahadur Rana said platforms were given enough time to register. The government has promised that access to apps would be restored once they comply with registration requirements. However, rights groups and businesses have condemned the move as an assault on democracy and economic freedoms.
+
+## Error Annotations:
+[
+    {
+        "location": "Synopsis paragraph, sentence 4",
+        "error": "\"At least 50 people have died in clashes between police and protesters, according to Reuters.\"",
+        "correction": "\"At least 19 people have died in clashes between police and protesters, according to Reuters.\"",
+        "error_type": "Numerical error — incorrect casualty count"
+    },
+    {
+        "location": "Official defense paragraph, sentence 1",
+        "error": "\"Nepal's Home Minister Shyam Bahadur Rana\"",
+        "correction": "\"Nepal's Communication and IT Minister Prithvi Subba Gurung\"",
+        "error_type": "Named entity error — wrong person named"
+    },
+    {
+        "location": "Official defense paragraph, sentence 1",
+        "error": "Use of the title \"Home Minister\" for the quoted official",
+        "correction": "Correct title is \"Communication and IT Minister\"",
+        "error_type": "Relational/role error — incorrect official portfolio/title"
+    }
+]

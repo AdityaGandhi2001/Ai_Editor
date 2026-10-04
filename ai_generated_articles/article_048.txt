@@ -1,0 +1,27 @@
+## Bhuvan Arora's 'Janaawar' to release on ZEE5: Everything to know
+### Synopsis
+The popular streaming platform ZEE5 has announced its upcoming original series, Janaawar-The Beast Within. The show will star Farzi actor Bhuvan Arora in the lead role and is produced by Aarambh Entertainment Pvt Ltd. Directed by Shachindra Vats, the series is an intriguing crime drama set in the rural town of Chhand, where age-old hierarchies clash with modern-day crime and corruption.
+
+## Arora will play Inspector Hemant Kumar
+### Character details
+Arora will portray Inspector Hemant Kumar, who belongs to a marginalized tribal caste. His life is completely disrupted by a series of chilling events in Chhand. "It is the story of a man's fight for dignity in a world determined to deny him recognition, and of a community's deep-rooted faith in its Gram Devta," said the makers. The release date is awaited.
+
+## Director Vats shares his vision for the series
+### Director's vision
+Vats said, "It was never just about making a crime thriller. It was about giving a voice to the struggles, hopes, and dignity of people who often go unheard." "Working with ZEE5 has been a wonderful experience because they understood the vision and the sensitivity the story needed." Kaveri Das, Business Head, Hindi ZEE5, added, "Janaawar is a layered narrative that dares to go beyond the conventions of a crime thriller." Meanwhile, Arora was last seen in Netflix's Mirzapur.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 5 in paragraph 3",
+        "error": "Netflix",
+        "correction": "Prime Video",
+        "error_type": "Named entity / organization error — incorrect streaming platform attribution"
+    },
+    {
+        "location": "sentence 5 in paragraph 3",
+        "error": "Mirzapur",
+        "correction": "Dupahiya",
+        "error_type": "Named entity / work title error — misattributed previous show title"
+    }
+]

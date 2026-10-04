@@ -1,0 +1,47 @@
+Source Article(s):
+
+# Signal lets you back up your chats for free now - plus its first-ever paid feature
+
+Published Date: Tuesday September 09, 2025
+
+Signal is offering its first-ever backup option.
+
+In a post Monday, the security-focused messaging app company announced a new feature that lets you back up your messages for free.
+
+In the past, Signal explained, if you lost your phone, your Signal history was lost too. If you have important conversations like photos, messages from friends, it's easy to see how that can be frustrating.
+
+That's why Signal is giving you a way to get those messages back.
+
+The new feature is called Secure Backups. It refreshes every day and lets you save your conversations in an end-to-end encrypted "privacy-preserving form," Signal said. Secure Backups are opt-in. If you don't want to use the feature, you don't have to. However, whoever you're chatting with could be using the feature, so your messages may be saved in their storage even if you opt out.
+
+You get 100MiB of storage for free and can back up and access your previous 45 days of messages and media at any time. Signal noted that messages are compressed when archived, so the free storage should be enough for the majority of users. If you want to go beyond 45 days, you can utilize a paid plan that's $1.99 a month – the company's first-ever paid feature.
+
+The company explained that it waited until now to roll out a paid feature because media requires a lot of storage, and storing and transferring large amounts of data is expensive. Signal added that, "as a nonprofit that refuses to collect or sell your data," it has to cover those costs in a different way (not selling ads or monetizing data).
+
+Signal said that a 64-character recovery key is at the center of your backup security. This key is never shared with Signal's servers, and it's the only way to "unlock" your backup if you need to do so. If you lose that key, your backups are gone for good as well. Signal recommends writing this key down or storing it in a secure password manager.
+
+To take security a step further, backups are stored without a direct link to the user account or to a specific backup payment.
+
+All of this means that Signal is staying true to its privacy-first mission but still adding features people have come to expect from messaging apps.
+
+Secure backups are available for users of the latest beta version of the app on Android now. Access on all other platforms is coming soon.
+
+# Signal introduces free and paid backup plans for your chats
+
+Published Date: Monday September 08, 2025
+
+Privacy-focused messaging app Signal announced on Monday that it’s introducing a feature that allows users to back up their text conversations for free, along with the last 45 days of media. It’s also debuting its first paid feature by offering full media backups with up to 100GB of storage.
+
+Historically, the messaging app didn’t let users store any kind of backup of your conversations on the platform. This could be especially troublesome if you lost or broke your phone. While you could transfer conversations from one phone to another, there was no cloud backup in place. The new feature finally solves that problem, making Signal a more valuable app for secure messaging.
+
+Signal’s free tier gives users 100MB of storage for text messages and the last 45 days’ worth of media. The company said in its blog post that it stores messages after compressing them, and 100MB would be sufficient for “even heavy” users.
+
+For users who want to store beyond the last 45 days of media, the company is offering a $1.99 per month paid plan with 100GB of storage.
+
+This is Signal’s first paid feature, and the company said it’s charging users to assist with the cost of storage in a privacy-preserving way.
+
+You can enable the secure backup feature from the app’s Settings, which will then begin to back up your content daily.
+
+Signal is using zero-knowledge technology to secure its backups, so they’re not linked to a particular user or a specific payment method. Users will receive a 64-character recovery key that is generated on the device to unlock their backups. Amid Signal rivals, WhatsApp offers end-to-end backup through an optional feature that users have to enable.
+
+At launch, Signal is offering this feature only on the beta version of its Android app, but said that cross-platform availability is coming soon. It noted that, in the future, it plans to let users save a backup archive wherever they want. Plus, it intends to enable users to transfer their message history between platforms.

@@ -1,0 +1,35 @@
+## All-rounder Jalaj Saxena bids adieu to Kerala team: Details here
+### Synopsis
+Indian all-rounder Jalaj Saxena has announced his departure from the Kerala team after nine successful seasons. The cricketer took to Twitter to share his emotional farewell message. He thanked his teammates, coaches, and support staff for their contributions during this journey. Saxena's decision comes after an impressive domestic career that began with Madhya Pradesh in the 2005/06 season before shifting to Kerala in 2016/17.
+
+## Impressive domestic stats
+### Career highlights
+During his time with Kerala, Saxena played 125 matches across formats, scoring 3,153 runs and taking 352 wickets, as per ESPNcricinfo. In First-Class cricket alone, he scored 2,252 runs (three centuries) and took 269 wickets at an average of 20.68. He also became the first player in Ranji Trophy history to score over 6,000 runs and take over 400 wickets cumulatively during the 2024/25 season.
+
+## 'It's never easy to put my feelings into words'
+### Farewell tribute
+Saxena's Twitter post read, "It's never easy to put my feelings into words, but today I want to share something close to my heart. I've played my last game in Kerala colors, and that thought still feels surreal." He expressed a mix of gratitude, pride, and pain at leaving the team, which had given him more than just cricket over the years.
+
+## Saxena's heartfelt message
+### Acknowledgements
+Saxena thanked his teammates for "making the dressing room a place of laughter, learning, and unforgettable memories." He also expressed his deepest respect and gratitude to the Kerala Cricket Association (KCA), coaches, support staff, and groundsmen who worked tirelessly for their game. Despite being one of the most consistent performers in Indian domestic cricket over two decades, Saxena has never been able to break into the national team due to stiff competition.
+
+## A look at his professional career
+### Career
+Since making his First-Class debut in 2007, Jalaj has scored 7,060 runs from 150 matches at an average of 33.77. His tally includes 14 tons and 34 half-centuries. The spinner (both offbreak and legbreak) has taken 484 wickets at 25.48, including 34 five-wicket hauls. As per ESPNcricinfo, Jalaj took the second-most wickets by a player for Kerala in First-Class cricket, only behind KN Ananthapadmanabhan's 310.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 11",
+        "error": "Saxena's Twitter post read",
+        "correction": "Saxena's Instagram post read",
+        "error_type": "Named entity attribution error — incorrect social media platform attribution (misattributed Instagram post to Twitter)"
+    },
+    {
+        "location": "line 1 in paragraph 17",
+        "error": "Since making his First-Class debut in 2007",
+        "correction": "Since making his First-Class debut in 2005 (2005/06 season)",
+        "error_type": "Temporal error — incorrect debut year/season"
+    }
+]

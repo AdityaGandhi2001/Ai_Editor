@@ -1,0 +1,39 @@
+## Aishwarya Rai approaches court against misuse of her images
+### Synopsis
+Bollywood actor Aishwarya Rai Bachchan has approached the Delhi High Court to protect her personality rights and prevent the unauthorized use of her name, images, and AI-generated pornographic material. The matter was heard on Monday by Justice Ritu Karia, who reportedly indicated that an ad-interim order cautioning the defendants would be passed. Senior advocate Sandeep Sethi represented veteran actor Rekha in court.
+
+## Websites profiting using Rai Bachchan's name
+### Legal proceedings
+Sethi told Justice Karia that his client was seeking enforcement of her publicity and personality rights. He presented several websites to the court, arguing that they were making money using Rai Bachchan's name without her consent. "Please see second defendant, Aishwarya Rai wallpapers, photos etc. The third defendant is a collection of T-shirts, her pictures on T-shirts are sold," he reportedly said in court.
+
+## Case of morphed images
+### Unauthorized usage
+Sethi further alleged that many websites are profiting by using Rai Bachchan's name. "They are collecting money on the representation of my association. Screenshots on YouTube where images morphed, these are never images belonging to Aishwarya Rai. Neither she has authorized such images. All AI generated (sic)," he said. He also mentioned that some people were using her images to sell coffee mugs and other items.
+
+## Next hearing on January 15, 2026
+### Representation
+Rai Bachchan was also represented by advocates Pravin Anand and Dhruv Anand. The Delhi High Court has scheduled the matter for further proceedings before the joint registrar on November 7 and a hearing before the court on January 15, 2026.
+
+
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 3, sentence 2",
+        "error": "The matter was heard on Monday",
+        "correction": "The matter was heard on Tuesday",
+        "error_type": "Temporal error — wrong day of hearing"
+    },
+    {
+        "location": "Paragraph 3, sentence 2",
+        "error": "Justice Ritu Karia",
+        "correction": "Justice Tejas Karia",
+        "error_type": "Named entity error — incorrect judge's name"
+    },
+    {
+        "location": "Paragraph 3, sentence 3",
+        "error": "Senior advocate Sandeep Sethi represented veteran actor Rekha in court",
+        "correction": "Senior advocate Sandeep Sethi represented Aishwarya Rai Bachchan in court",
+        "error_type": "Attribution / named entity error — misattributed legal representation"
+    }
+]

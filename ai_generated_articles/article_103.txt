@@ -1,0 +1,39 @@
+## Google sued for not removing leaked nude images, sex videos
+### Synopsis
+A woman in Germany, identified as Laura in court documents, is suing tech giant Google over the unauthorized sharing of her private nude images and sex videos. The content was stolen from her private Google Cloud storage and made publicly accessible through Google search results. Despite her attempts to have them removed for months, the visuals continued to resurface online. She has filed the lawsuit in the US state of California.
+
+## Laura's content was shared on pornographic websites
+### Content theft
+Laura's intimate photos and sex videos were not just made public through Google search results, but also shared on pornographic websites. The content was searchable by her name, further violating her privacy. German non-profit group HateAid is backing Laura in the court case against Google.
+
+## Laura has been targeted with deepfakes
+### Deepfake dilemma
+In addition to her stolen content, Laura has also been targeted with AI-generated deepfakes. The problem was discovered when she searched her name online. The experience was so traumatic that it left her with post-traumatic stress disorder (PTSD). She even had to change jobs and relocate due to the incident.
+
+## Campaign in support of lawsuit
+### Legal support
+HateAid is running a campaign titled "Our nudes are #NotYourBusiness," in support of Laura's lawsuit. Josephine Ballon, a representative of HateAid, said that very few people affected by such incidents would dare to take on a corporation like Google. Ballon hopes for a landmark ruling that could determine if search engines should permanently remove reported images, even if they are uploaded elsewhere.
+
+## Case based on right to be forgotten ruling
+### Legal precedent
+The case is based on a 2010 European Court of Human Rights ruling that established the right to be forgotten. Under the EU's General Data Protection Regulation (GDPR), people should have control over how their data is used. Marit Hansen, a data protection expert, said while the global search engine providers like Google will have obligations, the extent of these obligations regarding images needs to be clarified.
+
+## Technical difficulties in image removal
+### Image removal
+Hansen also pointed out the technical difficulties in removing altered pictures, such as cropped or AI-generated visuals. Reverse image searches used by platforms like Google are not always accurate, which could be exploited by companies to avoid responsibility. This highlights the need for better solutions to tackle this growing problem of privacy violations through stolen and manipulated intimate content.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, line 4",
+        "error": "She has filed the lawsuit in the US state of California.",
+        "correction": "She has filed the lawsuit in Ireland (Google's European headquarters).",
+        "error_type": "Named entity / jurisdiction error — incorrect venue for the lawsuit"
+    },
+    {
+        "location": "Paragraph 5, line 1",
+        "error": "The case is based on a 2010 European Court of Human Rights ruling that established the right to be forgotten.",
+        "correction": "The case is based on a 2014 European Court of Justice ruling that established the right to be forgotten.",
+        "error_type": "Temporal and attribution error — wrong year and wrong court cited for the 'right to be forgotten' precedent"
+    }
+]

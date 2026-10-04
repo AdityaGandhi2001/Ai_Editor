@@ -1,0 +1,37 @@
+Source Article(s):
+
+# WhatsApp beta for iOS 25.24.10.72: what's new?
+
+Published Date: Monday September 08, 2025
+
+WhatsApp has released a new iOS update through the TestFlight beta Program, bringing the version up to 25.24.10.72.  
+What's new in this update? WhatsApp is rolling out a feature that supports sharing Live Photos in their original format, and it's available to some beta testers!
+
+Key Points | Details  
+---|---  
+Name of the feature: | Share Live Photos  
+Status: | Rolling out  
+Compatibility: | WhatsApp beta for iOS 25.24.10.72 has been designated as a compatible update, but some users with the stable release on the App Store can also experiment with the same feature.  
+Availability info: | This feature is available to some beta testers, and it is rolling out to more users over the coming weeks.  
+Thanks: | Thiago, for testing and reporting.  
+Previous news: | Liquid Glass Interface for WhatsApp on iOS 26 is under development for a modern design update!  
+
+In the article about the WhatsApp beta Android 2.25.22.29 update, we announced that a feature to share motion photos in chats, groups, and channels was available. This expansion ensures that motion photos can be experienced consistently across different types of conversations. When users pick a motion photo, they can decide whether to send it as a dynamic clip with movement and audio or convert it into a static image. Once shared, the photo shows a motion indicator in the corner of the thumbnail, making it easy to recognize as animated content. It appears that WhatsApp is also considering bringing support for motion photos to iOS, where they are known as Live Photos.
+
+Following the release of the latest WhatsApp beta for iOS 25.24.10.72 update, which is available on the TestFlight app, we discovered that WhatsApp is rolling out a feature that supports sharing Live Photos in their original format!
+
+As you can see from the attached screenshot, WhatsApp has started enabling the ability to share Live Photos for some beta testers, allowing them to send and receive images that preserve both motion and audio. A Live Photo is a unique format that combines a still picture with a short video clip captured before and after the shutter is pressed. This means that a Live Photo is not just a static frame but a dynamic memory with movement and sound.
+
+Until now, when users shared a Live Photo on WhatsApp, it was sent only as a simple static photo without any motion. This limitation prevented the recipient from experiencing the short video portion or hear the audio included in the original capture. However, when tapping and holding on a Live Photo, WhatsApp offered the option to send it as a GIF. While this did allow sharing some of the movement, a GIF is far from being considered a true Live Photo. GIFs are limited in quality, they do not preserve the same smooth motion, and most importantly, they lack sound. This made the experience less authentic compared to the way Live Photos work within the iOS ecosystem.
+
+With the latest update, WhatsApp has finally introduced full support for Live Photos. This means that when iOS users share a Live Photo, the recipient will be able to view it exactly as intended. A small Live Photo icon is displayed directly on the thumbnail, making it clear that the image contains motion. When opening the photo, users can view it in live mode through a dedicated button that plays back both movement and audio. The motion and audio are preserved, offering the complete experience rather than just a still image. In addition, if the recipient saves a Live Photo to their gallery, it will remain a Live Photo in the iOS Photos app. This ensures that the dynamic memory is preserved across apps and it is not converted into a static file. This means users can finally enjoy a more immersive and native way to relive and share their memories directly within WhatsApp.
+
+Another important aspect is cross-platform compatibility. WhatsApp is not only supporting Live Photos on iOS but also ensuring that Android users can experience them too. When an Android user receives a Live Photo, it will appear as a motion photo on their device. Conversely, when iOS users receive a motion photo from an Android user, it will appear as a Live Photo on iOS. This seamless correlation between Live Photos and motion photos eliminates fragmentation across platforms. Users no longer need to worry about whether their dynamic memories will be properly displayed on different devices, as WhatsApp will automatically adapt Live Photos and motion photos so they appear correctly whether the recipient is on iOS or Android.
+
+Thanks to this update, WhatsApp is further bridging the gap between Android and iOS, allowing both ecosystems to share dynamic photos in their native formats.
+
+It's important to mention that users remain in full control of how their Live Photos are shared. If they prefer, they can remove the motion and send the photo just like a regular still image. Specifically, a new option in the gallery sheet, located next to the HD send toggle, lets users disable the motion with a single tap. This ensures that the Live Photo is sent in a static format instead of as a moving image. The same control is also available in the drawing editor, allowing users to decide on a case-by-case basis. With these options, WhatsApp gives users complete flexibility to share Live Photos exactly the way they want.
+
+It's worth noting that a limited number of users with the latest stable version of WhatsApp from the App Store may already have access to this feature. Access is currently restricted to selected users as part of a controlled test, allowing WhatsApp to gradually monitor and refine the experience before a wider rollout. As the rollout continues, more iOS users will gradually be able to share and receive Live Photos with motion and audio intact. This gradual expansion ensures a smooth experience while WhatsApp brings the feature to all users over time.
+
+A feature that supports sharing Live Photos in their original format is available to some beta testers who install the latest version of WhatsApp beta for iOS from the TestFlight app, and it's rolling out to more people over the coming weeks.

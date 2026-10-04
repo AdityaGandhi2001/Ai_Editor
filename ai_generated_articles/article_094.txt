@@ -1,0 +1,35 @@
+## BJD, BRS, SAD abstain from vice president poll over grievances
+### Synopsis
+Voting for the vice presidential election is currently underway, with CP Radhakrishnan and former Supreme Court judge Justice B Sudershan Reddy as the contenders. The voting will continue till 5pm, and counting will commence at 6pm. However, three parties have announced their boycott of the poll: the Biju Janata Dal (BJD), Bharat Rashtra Samithi (BRS), and Shiromani Akali Dal (SAD).
+
+## BJD's reason for boycotting election
+### Party stance
+The BJD, led by current Odisha Chief Minister Naveen Patnaik, has decided to abstain from the election. The party said this decision is in line with its policy of "maintaining an equal distance" from both the BJP-led National Democratic Alliance (NDA) and Congress-led Indian National Developmental Inclusive Alliance (INDIA) bloc at the national level. The BJD has six Rajya Sabha MPs.
+
+## BRS cites farmer issues in Telangana
+### Protest decision
+The BRS, headed by former Telangana CM K Chandrashekar Rao, has also decided to boycott the election. The party cited the "anguish" of farmers in the state over the urea shortage as its reason for abstaining from voting. "For the last 20 days, BRS has been warning both state and central governments about the shortage of urea," said KT Rama Rao, the party's working president.
+
+## SAD's reason for boycotting election
+### Flood crisis
+The SAD has also abstained from the vice presidential poll, citing a lack of support from the Centre and the Aam Aadmi Party (AAP) in dealing with "unprecedented" floods in Punjab. The party said neither the state nor the central governments have helped Punjabis amid this crisis. Former Union minister Sukhbir Singh Badal is the lone SAD MP.
+
+## Who has the numbers?
+### Election details
+The electoral college for this election consists of 788 members: 245 from the Rajya Sabha and 543 from the Lok Sabha. However, the current strength is only 781 due to six vacant Rajya Sabha seats and one Lok Sabha seat. The majority mark for this election is thus 391. The NDA has 293 MPs in the Lok Sabha and 129 members in the Rajya Sabha, totaling 422 MPs, while the Opposition INDIA bloc has the backing of around 325 parliamentarians.
+
+**Error Annotations:**
+[
+    {
+        "location": "Sentence 3 in paragraph 'BJD's reason for boycotting election'",
+        "error": "The BJD has six Rajya Sabha MPs.",
+        "correction": "The BJD has seven Rajya Sabha MPs.",
+        "error_type": "Numerical error — incorrect count of Rajya Sabha MPs (wrong quantity)"
+    },
+    {
+        "location": "Last sentence in paragraph 'SAD's reason for boycotting election'",
+        "error": "Former Union minister Sukhbir Singh Badal is the lone SAD MP.",
+        "correction": "Former Union minister Harsimrat Kaur Badal is the lone SAD MP.",
+        "error_type": "Named entity error — incorrect person identified as the SAD MP"
+    }
+]

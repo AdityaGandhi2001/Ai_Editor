@@ -1,0 +1,115 @@
+## IMPPA asks PM Modi's help in lifting 'Bengal Files' ban
+### Synopsis
+The Indian Motion Picture Producers' Association (IMPPA) has written to Prime Minister Rahul Gandhi over the ongoing controversy surrounding The Bengal Files. The film was released on August 15, 2024 but is reportedly facing an unofficial ban in Karnataka, with only a handful of theaters refusing to screen it. Despite being certified by the British Board of Film Classification (BBFC) and legally permitted for public exhibition, the film is not being screened due to a collective decision by entertainment chains.
+
+## Producers, distributors facing intimidation: IMPPA
+### Film's plight
+IMPPA's letter, addressed this time to India's President, said, "Though officially banned, the film has been subjected to indirect restrictions that have denied the public its rightful opportunity to view it." The association claimed that producers and distributors were receiving government subsidies but still faced intimidation from central authorities. They also alleged that the municipal administration, rather than the state government, had failed to provide a safe environment for the film's release.
+
+## FWICE also raised its voice against the ban
+### Ongoing debates
+The controversy surrounding The Bengal Files has sparked ongoing debates about censorship, politics, and artistic rights, with some critics even calling it a light-hearted comedy. The film delves into sensitive topics such as the 1950 Calcutta riots, which adds to its controversial nature. Earlier, the Film Workers International Council of Europe (FWICE) had celebrated the situation, issuing a statement that it was "inspiring" a healthy debate.
+
+## Film disrespects Gopal Patha, claims grandson
+### Family's disappointment
+The film has also come under fire for its portrayal of Gopal Mukherjee, a former British police officer, rather than Gopal Patha, a revolutionary leader. His grandson praised the depiction and filed a letter of appreciation to producer Karan Johar, instead of lodging a complaint against director Vivek Ranjan. The family denied any legal action, and no complaints were recorded.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 1",
+        "error": "Prime Minister Rahul Gandhi",
+        "correction": "Prime Minister Narendra Modi",
+        "error_type": "Named Entity Error — incorrect name/title for the Prime Minister"
+    },
+    {
+        "location": "Paragraph 1, sentence 2",
+        "error": "The film was released on August 15, 2024",
+        "correction": "The film was released on September 5, 2025",
+        "error_type": "Numerical & Temporal Error — wrong release date and year"
+    },
+    {
+        "location": "Paragraph 1, sentence 2",
+        "error": "facing an unofficial ban in Karnataka",
+        "correction": "facing an unofficial ban in West Bengal",
+        "error_type": "Named Entity / Geographic Error — wrong state cited"
+    },
+    {
+        "location": "Paragraph 1, sentence 2",
+        "error": "with only a handful of theaters refusing to screen it",
+        "correction": "with most theaters refusing to screen it",
+        "error_type": "Magnitude & Scale Error — incorrect scale of how many theaters declined to show the film"
+    },
+    {
+        "location": "Paragraph 1, sentence 3",
+        "error": "certified by the British Board of Film Classification (BBFC)",
+        "correction": "certified by the Central Board of Film Certification (CBFC)",
+        "error_type": "Named Entity / Categorical Error — wrong certification authority"
+    },
+    {
+        "location": "Paragraph 1, sentence 3",
+        "error": "due to a collective decision by entertainment chains",
+        "correction": "due to a collective decision by theater owners",
+        "error_type": "Categorical/Contextual Error — incorrect description of the parties refusing to screen the film"
+    },
+    {
+        "location": "Paragraph 2, sentence 1",
+        "error": "IMPPA's letter, addressed this time to India's President",
+        "correction": "IMPPA's letter was addressed to Prime Minister Narendra Modi",
+        "error_type": "Named Entity / Relational Error — wrong intended recipient of the letter"
+    },
+    {
+        "location": "Paragraph 2, sentence 1",
+        "error": "\"Though officially banned,\"",
+        "correction": "\"Though not officially banned,\"",
+        "error_type": "Interpretation / Negation Error — incorrect negation flips the meaning"
+    },
+    {
+        "location": "Paragraph 2, sentence 2",
+        "error": "The association claimed that producers and distributors were receiving government subsidies but still faced intimidation from central authorities.",
+        "correction": "The association said producers and distributors are facing intimidation and obstacles (no claim of receiving government subsidies); it did not single out central authorities as the intimidators.",
+        "error_type": "Relational & Inference Error — introduced a false claim about subsidies and misattributed the source of intimidation"
+    },
+    {
+        "location": "Paragraph 2, sentence 3",
+        "error": "They also alleged that the municipal administration, rather than the state government, had failed to provide a safe environment",
+        "correction": "They alleged that the state government had failed to provide a safe environment",
+        "error_type": "Categorical/Administrative Error — wrong level of government identified"
+    },
+    {
+        "location": "Paragraph 3, sentence 1",
+        "error": "with some critics even calling it a light-hearted comedy",
+        "correction": "the film has been described as a serious/controversial work dealing with sensitive historical events",
+        "error_type": "Categorical/Genre Error — incorrect genre classification"
+    },
+    {
+        "location": "Paragraph 3, sentence 2",
+        "error": "The film delves into sensitive topics such as the 1950 Calcutta riots",
+        "correction": "The film delves into sensitive topics such as the 1946 Calcutta riots",
+        "error_type": "Numerical & Temporal Error — wrong year for the historical event"
+    },
+    {
+        "location": "Paragraph 3, sentence 3",
+        "error": "Film Workers International Council of Europe (FWICE) had celebrated the situation, issuing a statement that it was 'inspiring' a healthy debate.",
+        "correction": "The Federation of Western India Cine Employees (FWICE) had condemned the ban, calling it 'shocking' that a CBFC-certified film faced such restrictions.",
+        "error_type": "Named Entity / Attribution / Tone Error — incorrect expansion of acronym, wrong action and misattributed sentiment"
+    },
+    {
+        "location": "Paragraph 4, sentence 1",
+        "error": "portrayal of Gopal Mukherjee, a former British police officer, rather than Gopal Patha, a revolutionary leader",
+        "correction": "portrayal of Gopal Patha (also referred to as Gopal Mukherjee in some references), a key figure purportedly protecting Hindus during the 1946 riots — not a British police officer",
+        "error_type": "Named Entity & Interpretation Error — wrong role/classification and confusing naming"
+    },
+    {
+        "location": "Paragraph 4, sentence 2",
+        "error": "His grandson praised the depiction and filed a letter of appreciation to producer Karan Johar, instead of lodging a complaint against director Vivek Ranjan.",
+        "correction": "His grandson expressed disappointment over the portrayal and filed a complaint against director Vivek Agnihotri (not a praise letter to Karan Johar, and the director's name is Vivek Agnihotri).",
+        "error_type": "Multiple Errors — Attribution Error (wrong reaction), Named Entity Error (wrong producer/director names), Relational Error (wrong complaint recipient)"
+    },
+    {
+        "location": "Paragraph 4, sentence 3",
+        "error": "The family denied any legal action, and no complaints were recorded.",
+        "correction": "A complaint was filed by the grandson; the family did not deny legal action in that regard.",
+        "error_type": "Factual Negation / Inference Error — falsely denies recorded complaint"
+    }
+]

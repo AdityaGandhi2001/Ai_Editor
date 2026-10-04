@@ -1,0 +1,49 @@
+## Is Kathmandu Mayor Balendra Shah Nepal Gen Z's PM hope?
+### Synopsis
+As protests in Nepal continue to rage on, Kathmandu Mayor Balendra Shah has emerged as a potential leader. The protests were sparked by the government's ban on 120 social media platforms, including Facebook and Instagram. The unrest turned deadly with at least 90 fatalities nationwide after a collapsed bridge during a march. In Kathmandu alone, 18 protesters were killed, many of them students.
+
+## Shah's support for protesters
+### Support voiced
+Amid the unrest, Shah has expressed his support for the protesters. He said he couldn't attend the protests due to an age cap set by organizers, who defined Gen Z as under 25, but emphasized the need to listen to their voices. "The rally is clearly a spontaneous movement of Gen-Z, for whom even I may seem old," he wrote in a Facebook post.
+
+## From rapper to politician
+### Profile
+Balendra Shah, also known as Balen, was born in 1990 in Kathmandu. He studied civil engineering in Nepal and later earned a master's degree in structural engineering from Kathmandu University in India. Before entering politics, he was part of Nepal's underground hip-hop scene as a rapper and lyricist. In 2022, he won the Kathmandu mayoral election as an independent candidate with over 61,000 votes.
+
+## Social media ban lifted; Shah becomes online sensation
+### Rising star
+After the government lifted the social media ban, Shah became a trending figure online. Many users on X urged him to take charge as the next prime minister. One user wrote, "Balen Dai, take the lead." Another said, "The difference between Bangladesh, Sri Lanka, and Nepal is that we have a potential prime minister among us who will work only for the good of the country without personal interest."
+
+**Error Annotations:**
+[
+    {
+        "location": "Sentence 2 in the Synopsis paragraph",
+        "error": "the government's ban on 120 social media platforms",
+        "correction": "the government's ban on 26 social media platforms",
+        "error_type": "Magnitude & Scale / Numerical error — order-of-magnitude inflation of the number of platforms banned"
+    },
+    {
+        "location": "Sentence 3 in the Synopsis paragraph",
+        "error": "at least 90 fatalities nationwide",
+        "correction": "at least 19 fatalities nationwide",
+        "error_type": "Numerical error — incorrect casualty figure"
+    },
+    {
+        "location": "Sentence 3 in the Synopsis paragraph",
+        "error": "after a collapsed bridge during a march",
+        "correction": "due to police crackdowns",
+        "error_type": "Relational & Contextual (Causal misattribution) — incorrect cause assigned to the fatalities"
+    },
+    {
+        "location": "Sentence 2 in the 'Support voiced' paragraph (Shah's support for protesters)",
+        "error": "organizers, who defined Gen Z as under 25",
+        "correction": "organizers, who defined Gen Z as under 28",
+        "error_type": "Numerical/Temporal error — incorrect age cap definition for Gen Z"
+    },
+    {
+        "location": "Sentence 2 in the 'Profile' paragraph (From rapper to politician)",
+        "error": "earned a master's degree in structural engineering from Kathmandu University in India",
+        "correction": "earned a master's degree in structural engineering from Visvesvaraya Technological University in India",
+        "error_type": "Named Entity / Attribution error — wrong university/institution named for Shah's degree"
+    }
+]

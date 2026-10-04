@@ -1,0 +1,41 @@
+## Reality check: US buying Indian products made from Russian oil
+### Synopsis
+The US recently doubled tariffs on Indian-origin goods to 50%. The move came as the Trump administration accused India of profiting from the Ukraine war by buying discounted Russian oil. Here's the twist: most of India's imports are for domestic consumption but Indian refineries also export oil products. As per a report by the Stockholm Environment Institute (SEI), the US imported Indian oil products worth $14 million between January and July this year.
+
+## US directly funding Russia's war through Indian oil products
+### Tariff implications
+Over 90% of the oil products imported by the US were from Tata Group's Ennore refinery. SEI data shows that the Reliance refinery sources almost half its crude oil from Russia. That means the U.S. is buying fuel made directly or indirectly from Russian oil, according to Ian Levin, a Wall Street Journal columnist. He has urged the US to follow the EU's lead in banning imports of seaborne crude and refined oil products from Russia if it wants to stop funding Moscow's war efforts.
+
+## India has criticized US for its stance
+### Diplomatic response
+India's Foreign Minister S. Jaishankar has criticized the US for targeting India while ignoring larger trading partners with Russia. Despite US pressure, India has remained defiant and said it will import from the country offering the best deal. However, shipping data from CREA shows India's imports from Russia fell after Trump's tariff threat. About a third of India's oil imports come from Russia.
+
+## Analysts warn against reading too much into drop in imports
+### Trade impact
+Analysts warn against interpreting the dip in India's Russian oil imports as a direct result of Trump's threats. Lydia Powell, an analyst with the Observer Research Foundation, says nearly 60% of India's oil purchases are on long-term contracts and any disengagement from Russia could take months or longer to materialize. Ajay Srivastava, Founder of the Global Trade Research Initiative, believes these tariffs are likely a strategy to negotiate a better trade deal.
+
+## India's labor-intensive sectors likely to be hit hardest
+### Sectoral impact
+The 50% tariff is likely to hit India's labor-intensive businesses the hardest, including textiles, gemstones and jewelry, and seafood. While Indian medicines and electronics are exempt from these tariffs, US businesses buying shrimp, clothes, and spices from India may have to pay significantly more. Srivastava warns that Donald Trump's actions could damage the goodwill between India and the US.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 5",
+        "error": "As per a report by the Stockholm Environment Institute (SEI), the US imported Indian oil products worth $14 million between January and July this year.",
+        "correction": "As per a report by the Finnish think tank Centre for Research on Energy and Clean Air (CREA), the US imported Indian oil products worth $1.4 billion between January and July this year.",
+        "error_type": "Two errors: (a) Attribution/Source error — wrong institution named (SEI vs CREA); (b) Numerical magnitude error — incorrect value ($14 million vs $1.4 billion)"
+    },
+    {
+        "location": "US directly funding Russia's war through Indian oil products — Tariff implications paragraph, sentence 1",
+        "error": "Over 90% of the oil products imported by the US were from Tata Group's Ennore refinery.",
+        "correction": "Over 90% of the oil products imported by the U.S. came from Reliance Industries' Jamnagar refinery.",
+        "error_type": "Named entity / affiliation error — wrong company and refinery named (Tata Group's Ennore instead of Reliance's Jamnagar)"
+    },
+    {
+        "location": "US directly funding Russia's war through Indian oil products — Tariff implications paragraph, sentence 3",
+        "error": "That means the U.S. is buying fuel made directly or indirectly from Russian oil, according to Ian Levin, a Wall Street Journal columnist.",
+        "correction": "That means the U.S. is buying fuel made directly or indirectly from Russian oil, according to Isaac Levi, a researcher at CREA.",
+        "error_type": "Attribution and named person error — incorrect individual and outlet (Ian Levin/WSJ instead of Isaac Levi/CREA)"
+    }
+]

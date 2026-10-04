@@ -1,0 +1,1 @@
+{"content": "{\n  \"edits\": [\n    {\n      \"hint\": 1,\n      \"original\": \"52 T20I wickets in Asia\",\n      \"corrected\": \"42 T20I wickets in Asia\"\n    },\n    {\n      \"hint\": 1,\n      \"original\": \"52 wickets across 40 T20Is in Asia\",\n      \"corrected\": \"42 wickets across 40 T20Is in Asia\"\n    }\n  ]\n}"}

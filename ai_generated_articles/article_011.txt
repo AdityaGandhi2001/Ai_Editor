@@ -1,0 +1,47 @@
+## Why WB halls not screening 'Bengal Files'? FWICE demands action
+### Synopsis
+The Federation of West Bengal Cinema Employees (FWBCE) has condemned the "undeclared ban" on Vivek Agnihotri's The Bengal Files in West Bengal. In a press release, the organization stated that it is "shocking" for a film certified by the Central Board of Film Certification (CBFC) to face such a ban. The letter further emphasized that these actions threaten the constitutional right to freedom of expression.
+
+## FWICE letter urges government to take action
+### Appeal
+The FWICE letter also criticized West Bengal theater owners for their role in this undeclared ban. It stated, "By doing so, they are not only discouraging creative voices but also denying the public its democratic right to choose the content it wishes to watch." The organization has urged the government to take immediate action against this undeclared ban and ensure that The Bengal Files is screened across West Bengal without any obstruction or disturbance.
+
+## 'FWICE will not remain a silent spectator'
+### Support
+The FWICE letter concluded with a statement of support for The Bengal Files producers. It read, "We stand by the producers of The Bengal Files and appeal to all the producer bodies across the country to raise their objections against this illegal ban." "FWICE stands firmly in support of the fraternity of filmmakers and will not remain a silent spectator to any attempt that curtails the fundamental rights of expression and free dissemination of creative works."
+
+## No official statement explaining decision
+### Unofficial ban
+Despite no official ban from the Mamata Banerjee-led TMC government, theater owners in West Bengal have mutually decided not to screen The Bengal Files. None of these owners has issued an official statement explaining their decision. The film, released on September 15 on Netflix, has been facing protests from moviegoers demanding its screening. Agnihotri shared images of a large crowd gathering outside a theater in West Bengal to protest against the unofficial ban on his film.
+
+## Controversy surrounding depiction of Gopal Mukherjee
+### Film controversy
+The Bengal Files has also been mired in controversy over its depiction of Gopal Mukherjee, who played a crucial role in saving Hindus during the 1946 riots. His grandson recently filed a complaint against Agnihotri, alleging that The Bengal Files disrespects the revolutionary. On Monday, the Calcutta High Court heard his plea and granted an injunction preventing the film from being shown in Kolkata. The film stars Mithun Chakraborty, Pallavi Joshi, Darshan Kumar, Simrat Kaur, and Anupam Kher. It will be released on ZEE5 after its theatrical run.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1",
+        "error": "The Federation of West Bengal Cinema Employees (FWBCE)",
+        "correction": "The Federation of Western India Cine Employees (FWICE)",
+        "error_type": "Named Entity / Organizational name error (incorrect name and abbreviation)"
+    },
+    {
+        "location": "line 3 in paragraph 4",
+        "error": "The film, released on September 15",
+        "correction": "The film, released on September 5, 2025",
+        "error_type": "Temporal error (wrong release date/year)"
+    },
+    {
+        "location": "line 3 in paragraph 4",
+        "error": "on Netflix",
+        "correction": "on ZEE5 (after its theatrical run)",
+        "error_type": "Attribution / Platform error (wrong OTT platform listed)"
+    },
+    {
+        "location": "line 3 in paragraph 5",
+        "error": "On Monday, the Calcutta High Court heard his plea and granted an injunction preventing the film from being shown in Kolkata.",
+        "correction": "On Monday, the Calcutta High Court heard his plea and dismissed it.",
+        "error_type": "Legal/Attribution error (incorrect description of court outcome; inversion of decision)"
+    }
+]

@@ -1,0 +1,31 @@
+## Maharashtra Governor CP Radhakrishnan elected as India's new Vice President
+### Synopsis
+Maharashtra Governor CP Radhakrishnan has been elected as the new Vice President of India. His election was a major victory for the Bharatiya Janata Party-led National Democratic Alliance (NDA). Radhakrishnan defeated the INDIA bloc candidate, B Sudershan Reddy, by 15,200 votes. The announcement was made on Tuesday after the results of the vice-presidential elections were declared. The BJP's parliamentary board, which includes Prime Minister Narendra Modi and Union Home Minister Amit Shah, had spearheaded Radhakrishnan's campaign.
+
+## Radhakrishnan's political journey and career highlights
+### Profile
+Radhakrishnan took over as Maharashtra Governor on July 31, 2023. Before this, he was the Governor of Jharkhand for nearly one and a half years. He has also served as the President of the BJP's Tamil Nadu unit from 2004 to 2007. A two-time Lok Sabha MP from Coimbatore, Radhakrishnan is known for his easygoing nature and friendly ties across political parties.
+
+## BJP's push for southern India dominance
+### Southern strategy
+Radhakrishnan's nomination is being seen as a move by the BJP to strengthen its presence in southern India, especially Tamil Nadu. His friendly ties across the political spectrum earned him the moniker "Vajpayee of Coimbatore." Prime Minister Modi had called him an "excellent choice for the role" and appealed for his unanimous election.
+
+## Early life, education, and interests
+### Background
+Born on October 20, 1957, in Tiruppur, Tamil Nadu, Radhakrishnan hails from the influential Gounder community. He has a Bachelor's degree in Business Administration and has been associated with Rashtriya Swayamsevak Sangh (RSS) and Bharatiya Jana Sangh. Apart from his political career, he was a college table tennis champion and a long-distance runner. He also enjoys cricket and volleyball.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 3",
+        "error": "Radhakrishnan defeated the INDIA bloc candidate, B Sudershan Reddy, by 15,200 votes.",
+        "correction": "Radhakrishnan defeated the INDIA bloc candidate, B Sudershan Reddy, by 152 votes.",
+        "error_type": "Numerical & Magnitude Error — incorrect vote margin (wrong order of magnitude)"
+    },
+    {
+        "location": "Radhakrishnan's political journey and career highlights -> Profile paragraph, sentence 1",
+        "error": "Radhakrishnan took over as Maharashtra Governor on July 31, 2023.",
+        "correction": "Radhakrishnan took over as Maharashtra Governor on July 31, 2024.",
+        "error_type": "Temporal Error — incorrect year/date of assumption of office"
+    }
+]

@@ -1,0 +1,25 @@
+## 'Just poison me': Darshan breaks down after denial of transfer
+### Synopsis
+Kannada actor Darshan, who is currently in judicial custody in connection with the murder of a fan, has asked a Bengaluru court to grant him "poison" as his health deteriorates. The actor, who appeared via video conference from jail for the monthly hearing of the case on Tuesday, complained about unhygienic living conditions and lack of sunlight. He was originally arrested in May 2024.
+
+## 'I can't live like this anymore...'
+### Plea details
+During the hearing, Darshan said he had not seen sunlight for 30 days and his hands had developed fungal infections. "I can't live like this anymore. Please, just give me poison. Life here has become unbearable," he said, per PTI. The judge responded curtly and instructed him not to repeat the statement.
+
+## Court rejected plea to be transferred to another prison
+### Transfer request
+The court also rejected Darshan's plea to be transferred from Parappana Agrahara Central Prison to Ballari jail. The actor is accused of the murder of a fan named Renukaswamy, who allegedly sent obscene messages to Pavithra Gowda, a close associate of Darshan. The court allowed him certain concessions within the prison, including permission to walk within the prison premises and access to basic facilities such as an extra bed, pillow, and bedsheet.
+
+## Darshan's bail canceled by Supreme Court
+### Legal proceedings
+Darshan was initially granted bail by the Karnataka High Court in December 2024, but the Supreme Court canceled it on August 14, 2025, citing serious concerns over witness tampering. The court ordered that he not receive any special treatment in custody. Following this, he was re-arrested and remains in judicial custody. The next hearing for framing charges has been scheduled for September 19.
+
+**Error Annotations:**
+[
+    {
+        "location": "Sentence 3 in the Synopsis paragraph",
+        "error": "He was originally arrested in May 2024.",
+        "correction": "He was originally arrested in June 2024.",
+        "error_type": "Numerical & Temporal Error — incorrect month of arrest"
+    }
+]

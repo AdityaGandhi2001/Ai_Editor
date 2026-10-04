@@ -1,0 +1,49 @@
+## Two sons of late Army subedar die of drug overdose
+### Synopsis
+Two sons of a former Army Subedar died from a suspected drug overdose in Jamarai village, Amritsar district, Punjab, late on Sunday. The victims, Malkiat Singh and Gurmeet Singh, were allegedly using narcotics for over a year. DSP Atul Soni confirmed they had been on synthetic methamphetamine for five years and had switched from injectable drugs to pills after running out of injections; they reportedly doubled their dosage, leading to their deaths.
+
+## Family has history of drug-related deaths
+### Ongoing crisis
+The family has a history of drug-related deaths. The victims' eldest brother, who died years ago, also succumbed to a drug overdose. Their mother, Ranjit Kaur, alleged that heroin was being openly sold in the area and accused local law enforcement of inaction. "The government keeps their eyes shut while drugs are being openly sold," she said.
+
+## Relative slams government for failure to curb drug trafficking
+### Unanswered demands
+Devi Kumari, a relative of the victims, slammed the government for its failure to curb drug trafficking. She said that despite submitting complaints to local authorities, no action was taken. Parmjit Singh, a resident and the sarpanch's husband, echoed these sentiments, calling for "real action" instead of empty promises. The family is now left without any breadwinners as four brothers have died due to drugs.
+
+## Family demands action against drug traffickers
+### Safety plea
+The family is now demanding immediate action against drug traffickers to prevent more deaths. They are worried about the future of their two young daughters, who are now left without a breadwinner. "Sons are dying, but no action is being taken," Kaur said. She alleged that police focus on minor offenses while major suppliers remain free.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "Amritsar district",
+        "correction": "Tarn Taran district",
+        "error_type": "Named entity / Geographic classification error — incorrect district"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 2",
+        "error": "Malkiat Singh and Gurmeet Singh",
+        "correction": "Malkeet Singh and Gurpreet Singh",
+        "error_type": "Named entity error — incorrect victim names"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 3 (first part)",
+        "error": "synthetic methamphetamine",
+        "correction": "narcotics / injectable narcotics (as stated in the police account)",
+        "error_type": "Categorical / classification error — wrong substance specified"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 3 (same sentence, temporal part)",
+        "error": "for five years",
+        "correction": "for over a year",
+        "error_type": "Temporal error — incorrect duration (time period)"
+    },
+    {
+        "location": "Relative slams government paragraph, sentence 4",
+        "error": "four brothers have died due to drugs",
+        "correction": "three brothers have died due to drugs",
+        "error_type": "Numerical error — incorrect count of deceased siblings"
+    }
+]

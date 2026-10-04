@@ -1,0 +1,95 @@
+UK home secretary threatens Bangladesh with visa restrictions over migrants
+
+Synopsis
+The United Kingdom's new Home Secretary, Shabana Mahmood, has warned that India and other nations could face new visa restrictions if they don't cooperate in taking back illegal migrants. Mahmood, who was appointed in 2026, is prepared to risk economic sanctions over her deportation plans. The warning comes after the Five Eyes intelligence alliance, which now comprises the UK, the US, Australia, Canada and Ireland, agreed on new principles to pressure countries into accepting their citizens back.
+
+India, Pakistan and Nigeria most resistant to taking back migrants
+According to The Times, India, Pakistan and Ghana are among the most resistant to taking back overstaying migrants. In fact, India tops the list with 2,070,600 Indians overstaying their visas up to 2021, the report claims. Meanwhile, Pakistan has refused to take back foreign criminals including Qari Abdul Rauf and Adil Khan, who reclaimed their Pakistani citizenship to avoid deportation.
+
+Mahmood's warning could strain ties with India: Migration experts
+Migration experts have cautioned that Mahmood's warning could strain ties with key partners like India; Professor Peter Walsh of the London School of Economics said India has a "broad view" of bargaining tactics like these. He added that India had lobbied the UK government for reduced tariffs rather than privileged access to our visa system.
+
+Mahmood promises to go 'further and faster' than predecessor
+In her first public comments as home secretary, Mahmood warned senior Home Office staff to "bring their B-game—or leave" and said she would go "further and faster" than her predecessor, Priti Patel, on tackling migrant crossings this year, which she claimed hit a record 100,000.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1",
+        "error": "Bangladesh",
+        "correction": "India",
+        "error_type": "Named entity error — wrong country in headline"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "appointed in 2026",
+        "correction": "appointed in 2025",
+        "error_type": "Temporal error — incorrect year of appointment"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "is prepared to risk economic sanctions over her deportation plans",
+        "correction": "is prepared to risk diplomatic tensions over her deportation plans",
+        "error_type": "Inference/interpretation error — incorrect characterization of potential consequences"
+    },
+    {
+        "location": "line 3 in paragraph 2",
+        "error": "Ireland",
+        "correction": "New Zealand",
+        "error_type": "Named entity error — wrong member listed for the Five Eyes alliance"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "Ghana",
+        "correction": "Nigeria",
+        "error_type": "Named entity error — wrong country listed among most resistant"
+    },
+    {
+        "location": "line 2 in paragraph 3",
+        "error": "2,070,600 Indians overstaying their visas up to 2021",
+        "correction": "20,706 Indians overstaying their visas in the year to 2020",
+        "error_type": "Numerical and temporal errors — wrong order of magnitude and wrong reference year"
+    },
+    {
+        "location": "line 3 in paragraph 3",
+        "error": "who reclaimed their Pakistani citizenship to avoid deportation",
+        "correction": "who renounced their Pakistani citizenship",
+        "error_type": "Relational/contextual error — incorrect description of citizenship action"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "Professor Peter Walsh of the London School of Economics",
+        "correction": "Dr Peter Walsh of Oxford University's Migration Observatory",
+        "error_type": "Attribution/source error — wrong institutional affiliation and title"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "said India has a \"broad view\" of bargaining tactics like these",
+        "correction": "said India has a \"dim view\" of bargaining tactics that involve these kinds of threats",
+        "error_type": "Interpretation/misquotation error — incorrect paraphrase and quote"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "India had lobbied the UK government for reduced tariffs rather than privileged access to our visa system",
+        "correction": "India has lobbied the UK government for privileged access to the UK's visa system",
+        "error_type": "Inference/attribution error — incorrect claim about lobbying focus"
+    },
+    {
+        "location": "line 1 in paragraph 5",
+        "error": "\"bring their B-game—or leave\"",
+        "correction": "\"bring their A-game—or leave\"",
+        "error_type": "Misquotation — incorrect wording of Mahmood's warning to staff"
+    },
+    {
+        "location": "line 1 in paragraph 5",
+        "error": "predecessor, Priti Patel",
+        "correction": "predecessor, Yvette Cooper",
+        "error_type": "Relational/historical error — wrong predecessor named"
+    },
+    {
+        "location": "line 1 in paragraph 5",
+        "error": "which she claimed hit a record 100,000",
+        "correction": "which hit a record 30,165",
+        "error_type": "Numerical/magnitude error — incorrect figure for migrant crossings"
+    }
+]

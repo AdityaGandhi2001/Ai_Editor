@@ -1,0 +1,42 @@
+Source Article(s):
+
+# You can now upload audio files to the Gemini app
+
+Published Date: Tuesday September 09, 2025
+
+The Gemini app finally supports audio uploads on Android, iOS, and the web for expanded file analysis options.
+
+Open Gemini’s ‘plus’ menu for “Files” (mobile) or “Upload files” (web) and select any audio file: MP3, M4A, WAV, etc.
+
+Google says “total audio length can be up to 10 minutes” for free users, while it’s 3 hours for Google AI Pro or Google AI Ultra subscribers.
+
+This can be useful for transcribing audio, with video previously supported. It’s a great quality-of-life improvement, with Google noting today how this has been a #1 request.
+
+This joins video, which can be up to 5 minutes (free) or 1 hour (paid) and up to 2 GB in size, with “all other supported file types can be up to 100 MB.”
+
+Additionally:
+
+- One code folder, or one GitHub repository, with up to 5,000 files and a maximum size of 100 MB, can be added to a chat.
+- ZIP files can contain up to 10 files.
+
+In all, you can upload up to 10 files of any format.
+
+# Gemini app finally expands to audio files
+
+Published Date: Tuesday September 09, 2025
+
+Google made three major updates to its Gemini-powered products on Monday: The Gemini app now accepts audio files; Search can handle five new languages; and NotebookLM creates reports in the form of blog posts, study guides, quizzes, and more.
+
+According to a Monday post on X by Josh Woodward, vice president of Google Labs and Gemini, audio file compatibility was the “#1 request” to the Gemini app.
+
+Free Gemini users max out at 10 minutes of audio, and five free prompts each day. AI Pro or AI Ultra users, meanwhile, can upload audio up to three hours in length. All Gemini prompts accommodate up to 10 files across various file formats, including within ZIP files.
+
+Additionally, Google Search’s AI Mode has rolled out five new language options: Hindi, Indonesian, Japanese, Korean, and Brazilian Portuguese, thanks to the integration of Gemini 2.5 with Search, according to a company blog: “With this expansion, more people can now use AI Mode to ask complex questions in their preferred language, while exploring the web more deeply.”
+
+The Gemini-powered NotebookLM software is also getting an update in the form of new report styles in over 80 languages based on a user’s uploaded documents, files, and other media.
+
+(While the Gemini app is just now getting audio, NotebookLM already had that capability, positioning itself as a research tool that helps find patterns in files of different formats.)
+
+The standard report formats include study guides, briefing docs, and blog posts. Flashcards and quizzes are also included in the latest NotebookLM update. Users can choose the self-created format and adjust the structure, tone, and style of the report. The feature “should be 100%” available by the end of this week, according to a company comment to a post on X.
+
+Google has been on a dizzying spree of AI-related features in the past month. Gemini began automatically recalling user details and preferences from past conversations in August, the same month that free users gained access to Workspace’s video generation software Vids. In September, Photos upgraded to the latest video generation software Veo 3 and gave free users the ability to create silent 4-second long videos from their own personal, still pictures.

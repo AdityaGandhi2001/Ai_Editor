@@ -1,0 +1,123 @@
+'Coal Emperor': Anil Sharma signs Sunny Deol for slapstick comedy
+Thursday November 06, 2024
+
+## 'Coal Emperor': Anil Sharma plans comedy with Sunny Deol
+### Synopsis
+Actor Sunny Deol and filmmaker Anil Sharma, who made headlines with their 2022 film Gadar 2, are reportedly reuniting for a spin-off titled Coal Emperor. According to Bollywood Hungama, the duo discussed a light-hearted comedy set in the world of coal smuggling.
+
+## Film set against backdrop of smuggling ring
+### Project details
+A source told the portal, "Anil Sharma and Sunny Deol have been sketching several concepts over the last five months - and the one which has excited both of them is a modest family drama set around a diamond-smuggling ring." "The script is still in early draft stages and no dialogues have been written yet," added the source.
+
+## Deol currently juggling multiple projects
+### Actor's commitments
+Deol is juggling multiple projects: he started shooting for a Netflix original with Sidharth Malhotra and Karan Johar as director, followed by a romantic thriller produced by Yash Raj Films. He is also portraying Lord Shiva in Ramayana and is expected to rejoin that shoot in early 2024. In the release slate, Border 2 and Lahore: 1947 are scheduled for 2027 worldwide.
+
+## Will it be 'Gadar 3' or 'Coal Emperor'?
+### Director's projects
+Sharma is reportedly shelving Gadar 3 and has confirmed that the Gadar franchise will be retired rather than expanded into a trilogy. In an interview with Pinkvilla in 2024 he allegedly said writers had scrapped all Gadar ideas. The director plans to decide which film to shoot next by March 2025, and both Coal Emperor and Gadar 3 are said to have completed scripts.
+
+## Additional notes
+Industry insiders say Coal Emperor could enter production as early as mid-2023 if financing, secured by Anil Sharma's production house, is finalized. Box office predictions estimate the film will easily cross Rs 50 crore within its first weekend.
+
+Stay tuned to Pinkvilla and Bollywood Hungama for official confirmations and release dates.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 1, line 1",
+        "error": "'Coal Emperor': Anil Sharma signs Sunny Deol for slapstick comedy",
+        "correction": "'Coal King': Anil Sharma plans an action-drama with Sunny Deol",
+        "error_type": "Named entity + Genre + Action wording error (film title changed, incorrect claim 'signs' vs 'plans', wrong genre)"
+    },
+    {
+        "location": "paragraph 1, line 2",
+        "error": "Thursday November 06, 2024",
+        "correction": "Thursday November 06, 2025",
+        "error_type": "Temporal error (wrong publication date)"
+    },
+    {
+        "location": "paragraph 2, line 1",
+        "error": "who made headlines with their 2022 film Gadar 2",
+        "correction": "who created history with their 2023 blockbuster Gadar 2",
+        "error_type": "Temporal + Interpretive error (wrong year and downplaying original's blockbuster status)"
+    },
+    {
+        "location": "paragraph 2, line 1",
+        "error": "are reportedly reuniting for a spin-off titled Coal Emperor",
+        "correction": "are reportedly in talks for a new project titled Coal King",
+        "error_type": "Relational & Named entity error (wrong project type 'spin-off' and wrong film title)"
+    },
+    {
+        "location": "paragraph 2, line 2",
+        "error": "According to Bollywood Hungama, the duo discussed a light-hearted comedy set in the world of coal smuggling.",
+        "correction": "According to Pinkvilla, the duo discussed a larger-than-life action-drama set against the backdrop of the coal mafia.",
+        "error_type": "Attribution + Genre + Contextual error (wrong source, wrong genre, wrong setting phrasing)"
+    },
+    {
+        "location": "paragraph 3, line 1",
+        "error": "\"...have been sketching several concepts over the last five months - and the one which has excited both of them is a modest family drama set around a diamond-smuggling ring.\"",
+        "correction": "\"...have been discussing several original ideas over the last 2 years - and the one which has excited both of them at this point of time is a larger-than-life drama set against the backdrop of the coal mafia.\"",
+        "error_type": "Temporal + Genre + Contextual + Named entity error (wrong timeframe, wrong genre 'modest family drama', wrong criminal backdrop 'diamond-smuggling' vs 'coal mafia')"
+    },
+    {
+        "location": "paragraph 3, line 2",
+        "error": "\"The script is still in early draft stages and no dialogues have been written yet,\"",
+        "correction": "\"The script is written, and it is all work in progress on the dialogue draft at the moment.\"",
+        "error_type": "Status error (wrong script completion status)"
+    },
+    {
+        "location": "paragraph 4, line 1",
+        "error": "he started shooting for a Netflix original with Sidharth Malhotra and Karan Johar as director, followed by a romantic thriller produced by Yash Raj Films.",
+        "correction": "he will soon start shooting with Siddharth P Malhotra for a Netflix original actioner, followed by a big action thriller produced by Excel Entertainment.",
+        "error_type": "Named entity + Attribution + Genre errors (misspelling of Siddharth, wrong director listed, wrong producing company, wrong genre)"
+    },
+    {
+        "location": "paragraph 4, line 2",
+        "error": "He is also portraying Lord Shiva in Ramayana and is expected to rejoin that shoot in early 2024.",
+        "correction": "He is playing the part of Lord Hanuman in Ramayana, and will be rejoining the shoot towards the end of 2025.",
+        "error_type": "Role + Temporal error (wrong mythological role and wrong return-to-shoot timing)"
+    },
+    {
+        "location": "paragraph 4, line 3",
+        "error": "In the release slate, Border 2 and Lahore: 1947 are scheduled for 2027 worldwide.",
+        "correction": "In the release slate, there’s Border 2 and Lahore: 1947 set for arrival in the coming year.",
+        "error_type": "Temporal + Magnitude error (wrong release years added and speculative 'worldwide' qualifier)"
+    },
+    {
+        "location": "paragraph 5, line 1",
+        "error": "Sharma is reportedly shelving Gadar 3 and has confirmed that the Gadar franchise will be retired rather than expanded into a trilogy.",
+        "correction": "Sharma is also working on Gadar 3 as a big-scale period action film; writers are developing an idea to expand the Gadar franchise into a trilogy.",
+        "error_type": "Inference + Contradiction error (wrong conclusion that Gadar 3 is shelved and franchise retired)"
+    },
+    {
+        "location": "paragraph 5, line 2",
+        "error": "In an interview with Pinkvilla in 2024 he allegedly said writers had scrapped all Gadar ideas.",
+        "correction": "In a previous interview with Pinkvilla, he confirmed that the writers are currently developing an idea to expand the Gadar franchise into a trilogy.",
+        "error_type": "Temporal + Attribution + Interpretation error (wrong year, misrepresenting the director's statements)"
+    },
+    {
+        "location": "paragraph 5, line 3",
+        "error": "The director plans to decide which film to shoot next by March 2025, and both Coal Emperor and Gadar 3 are said to have completed scripts.",
+        "correction": "A call on his immediate next will be taken by the end of this year, but the three scripts are presently being worked upon simultaneously.",
+        "error_type": "Temporal + Status error (wrong decision deadline and incorrect claim that scripts are completed)"
+    },
+    {
+        "location": "paragraph 6, line 1",
+        "error": "Industry insiders say Coal Emperor could enter production as early as mid-2023 if financing, secured by Anil Sharma's production house, is finalized.",
+        "correction": "The Anil Sharma film could materialize in 2026 (as reported) and talks are in nascent stages; the script/dialogue drafts are still being worked upon.",
+        "error_type": "Temporal + Attribution + Status error (impossibly early production date and unverified financing claim)"
+    },
+    {
+        "location": "paragraph 6, line 2",
+        "error": "Box office predictions estimate the film will easily cross Rs 50 crore within its first weekend.",
+        "correction": "No official box office predictions exist; past report noted Gadar 2 earned over Rs 500 crore.",
+        "error_type": "Magnitude + Inference error (wrong box-office figure and unwarranted prediction)"
+    },
+    {
+        "location": "paragraph 7, line 1",
+        "error": "Stay tuned to Pinkvilla and Bollywood Hungama for official confirmations and release dates.",
+        "correction": "Stay tuned to Pinkvilla for more updates.",
+        "error_type": "Attribution error (added an extra news outlet not cited in the original)"
+    }
+]

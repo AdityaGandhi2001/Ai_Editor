@@ -1,0 +1,43 @@
+## Pakistan's Usman Shinwari retires from international cricket at 31: Details
+### Synopsis
+Usman Shinwari, the 29-year-old left-arm fast bowler from Pakistan, has announced his retirement from international cricket. The decision comes after a brief but impactful career that spanned from 2013 to 2019. During this period, he represented Pakistan in one Test match, 17 ODIs, and 16 T20Is. His debut came in December 2013 against India in Abu Dhabi, where he bowled just one over without taking a wicket.
+
+## Impressive ODI spell
+### Career highlights
+Shinwari made his ODI debut in October 2017, also against Sri Lanka, but this time in Sharjah. He had an impressive outing, taking five wickets for just 34 runs in his second appearance. The performance came within a span of just 21 balls. His other five-wicket haul came in September 2019 against the same team, this time in Karachi. Shinwari bows out with 44 ODI wickets at 18.61, 13 T20I wickets at 32.61, and a solitary Test scalp at 54.
+
+## Last international appearance in December 2019
+### Early career
+Shinwari first came into the limelight when he took five wickets for just nine runs in the departmental T20 Cup final against Misbah-ul-Haq's Sui Northern Gas Pipelines Limited. However, he couldn't replicate his domestic success on the international stage. His last appearance for Pakistan was in a Test match against Sri Lanka in December 2019. He was dropped from the squad after that and never made a comeback.
+
+## Shinwari retired from Test cricket in 2021
+### Retirement decision
+Shinwari announced his retirement from Test cricket in 2021 to focus on limited-overs formats. However, he couldn't make a comeback to the national team. "Thanks to @sportsphysiojav ALHAMDULILLAH I have made my comeback again from back injury and now I am absolutely fit but due to my Doctors and physio advises I have to leave Long format," he had posted on X at the time.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1 (Synopsis)",
+        "error": "29-year-old",
+        "correction": "31-year-old",
+        "error_type": "Numerical error — incorrect age"
+    },
+    {
+        "location": "line 4 in paragraph 1 (Synopsis)",
+        "error": "against India in Abu Dhabi",
+        "correction": "against Sri Lanka in Dubai",
+        "error_type": "Named entity & Geographic error — wrong opponent and wrong venue/city"
+    },
+    {
+        "location": "line 5 in paragraph 2 (Impressive ODI spell — Career highlights)",
+        "error": "44 ODI wickets",
+        "correction": "34 ODI wickets",
+        "error_type": "Numerical/statistical error — incorrect wickets total"
+    },
+    {
+        "location": "line 4 in paragraph 1 (Synopsis)",
+        "error": "His debut came in December 2013 against India",
+        "correction": "His debut came in December 2013 against Sri Lanka",
+        "error_type": "Named entity error — wrong opposing team (duplicate annotation for clarity of the multi-error sentence)"
+    }
+]

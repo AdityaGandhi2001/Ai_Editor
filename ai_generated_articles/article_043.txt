@@ -1,0 +1,25 @@
+## Emma Stone, Mark Ruffalo won't work with Israeli productions
+### Synopsis
+Over 13,000 filmmakers, actors, creatives, and other industry professionals have pledged to boycott Israeli film institutions that they believe are implicated in genocide and apartheid against the Palestinian people. The move comes amid growing global outrage over the humanitarian crisis in Gaza due to Israel's military assault. The Film Workers for Palestine announced the pledge, stating that it was inspired by Filmmakers United Against Apartheid, which previously refused to screen films in apartheid South Africa.
+
+## Notable signatories include Stone, Ruffalo, Tilda Swinton
+### Pledge specifics
+The pledge states, "We pledge not to screen films, appear at or otherwise work with Israeli film institutions - including festivals, cinemas, broadcasters and production companies - that are implicated in genocide and apartheid against the Palestinian people." It added that the call is for film workers to refuse to work with Israeli institutions complicit in Israel's human rights abuses.  Notable signatories include Olivia Colman, Emma Stone, Mark Ruffalo, Tilda Swinton, Riz Ahmed, Javier Bardem, Yorgos Lanthimos, and Cynthia Nixon.
+
+## Israeli Producers Association responded to the pledge
+### Response
+In response to the boycott pledge, the Israeli Producers Association said in a statement to The Guardian that the signatories are targeting the wrong people. They argued that for decades, Israeli artists and creators have been the "primary voices allowing audiences to hear and witness the complexity of the conflict, including Palestinian narratives and criticism of Israeli state policies."
+
+## Israeli government dismisses boycott calls as discriminatory
+### Government response
+The Israeli government has previously dismissed boycott calls against its institutions as discriminatory. It maintains that its actions in Gaza are acts of "self-defense" following the October 2023 attack by Palestinian Hamas militants, which killed over 1,200 people and took more than 250 hostages. The subsequent assault on Gaza has reportedly killed tens of thousands of people and displaced its entire population, causing a starvation crisis.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis, sentence 1",
+        "error": "Over 13,000 filmmakers, actors, creatives, and other industry professionals",
+        "correction": "Over 1,300 filmmakers, actors, creatives, and other industry professionals",
+        "error_type": "Numerical error — incorrect quantity/order of magnitude"
+    }
+]

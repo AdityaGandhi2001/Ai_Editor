@@ -1,0 +1,31 @@
+## SpiceJet clears $240M dues to Credit Suisse
+### Synopsis
+SpiceJet has cleared its $240 million dues to Credit Suisse, closing a liability predating its current promoter. The settlement agreement, originally linked to a claim of $41.77 million, was reached in May 2023 and settled through structured payments. The airline said this move strengthens its balance sheet and financial stability. CBO Debojo Maharshi said it demonstrates SpiceJet's resolve to move past legacy issues.
+
+## Airline's continuous efforts toward strengthening balance sheet
+### Financial responsibility
+The payment marks the closure of a long-standing liability that predates the current promoter's tenure. It highlights SpiceJet's dedication to fulfilling its financial commitments and its continuous efforts toward strengthening its balance sheet, enhancing financial stability, and creating long-term value for all stakeholders. Maharshi said this settlement not only closes an old liability but also shows their determination and capability to meet commitments despite a challenging operating environment.
+
+## Liability incurred before current promoter's tenure
+### Turnaround progress
+The liability in question was incurred before the current promoter took over and was tied to legacy commercial arrangements. Now, with the full settlement complete, SpiceJet has cleared a long-standing financial burden. The airline said it is taking decisive steps to bolster its financial position, including successful fundraising initiatives and settlements with key lessors/creditors.
+
+## SpiceJet shares close nearly 3% lower
+### Market reaction
+Despite the positive development, SpiceJet shares closed nearly 3% lower at ₹33.45 per share. Earlier in the day, the stock fell 5% to hit an intraday low of ₹32.60 per share. This came after the airline reported a consolidated net loss of ₹233.85 crore for Q1 FY26, as against a net profit of ₹158.3 crore in Q1 FY25.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis, first paragraph, sentence 1",
+        "error": "$240 million",
+        "correction": "$24 million",
+        "error_type": "Magnitude/Scale error — incorrect order of magnitude (amount overstated by factor of 10)"
+    },
+    {
+        "location": "Synopsis, first paragraph, sentence 2",
+        "error": "May 2023",
+        "correction": "May 2022",
+        "error_type": "Temporal error — incorrect year for the settlement agreement"
+    }
+]

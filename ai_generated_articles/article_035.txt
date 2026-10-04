@@ -1,0 +1,25 @@
+## SEBI to expand probe into US trading firm Jane Street
+### Synopsis
+The Securities and Exchange Board of India (SEBI) has said its probe into US-based trading firm Jane Street Group LLC could be much wider than the July order that imposed a temporary trading ban. The regulator said the investigation is at a "critical juncture" and continues. The case stems from SEBI's July 3 interim order, which accused Jane Street of manipulating the Nifty Bank index.
+
+## What are the allegations against Jane Street?
+### Accusations
+SEBI alleged that Jane Street bought index stocks in cash and futures markets to push the Nifty Bank index higher. The regulator claimed that the firm later unwound those positions while holding large short bets in index options, resulting in "illegal gains" of ₹4,840 crore. However, Jane Street has denied these charges, claiming that its trades were routine index arbitrage.
+
+## Jane Street appeals against SEBI
+### Legal proceedings
+In response to SEBI's allegations, Jane Street appealed to the Securities Appellate Tribunal (SAT) against the regulator, asking it to release documents that were not relied upon for passing the order. The firm argued these documents are crucial to rebut the market manipulation allegations. However, SEBI has maintained its stance of not releasing any such documents.
+
+## Jane Street yet to resume trading in index options
+### Ban lifted
+Despite the trading ban imposed by SEBI, the restriction was lifted on July 18 after Jane Street deposited ₹4,000 crore in an escrow account. However, even after the ban was lifted, the firm has not resumed trading in index options. On September 3, it appealed to SAT arguing that critical documents had been withheld. The matter is being heard by a three-judge SAT bench led by Justice PS Dinesh Kumar.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 5 (Ban lifted paragraph)",
+        "error": "₹4,000 crore",
+        "correction": "₹4,844 crore",
+        "error_type": "Numerical/Magnitude error — incorrect monetary amount deposited in escrow (wrong figure/order of magnitude)"
+    }
+]

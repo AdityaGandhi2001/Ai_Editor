@@ -1,0 +1,53 @@
+## Karisma-Sunjay's children approach court for share in father's ₹3,000cr estate
+### Synopsis
+The legal battle over the estate of late Sunjay Kapur, reportedly worth over ₹30,000 crore, has taken a new turn, with his children approaching the court to demand their share in his wealth. Kapur's two kids with Bollywood actor Karisma Kapoor — Taimur and Inaaya — filed a suit in the Delhi High Court on Tuesday, while Kapur, Sona Comstar's founder, passed away at 53 due to a heart attack.
+
+## Refusal to share documents
+### Allegations
+The suit alleges that after their father's death, Sachdeva refused to share any documents or information regarding his assets. The children claim she took steps to dispose of them to their detriment. They are seeking a direction for Sachdeva to disclose on oath the status of Kapur's estate as of his date of death and any actions taken thereafter. The suit seeks partition of the estate, rendition of accounts, and a permanent injunction.
+
+## Alleged last will of Kapur
+### Will dispute
+Another key allegation in the suit is the sudden appearance of an alleged last will of Kapur dated March 21, 2024. The children claim Sachdeva had repeatedly told them no such will existed. The will was only presented more than seven weeks after their father's death during a meeting where the executor briefly showed a document but did not provide a copy or share it in full.
+
+## Family trust holding all of Kapur's assets
+### Trust issues
+The children were reportedly told that the RK Family Trust held only his overseas assets at the time of his death. The kids were asked to sign forms related to this Trust during an Annual General Meeting (AGM) scheduled for July 25, 2025. However, they were later informed their attendance was no longer required without any explanation. They and their mother were never provided with the family trust deed or full details about its assets.
+
+## Fair share in late father's personal assets demanded
+### Demands
+The children are demanding a fair share of their late father's personal assets and effects. They argue that as legal heirs, they are entitled to transparency and an equitable partition of the estate. The court will now have to examine the legitimacy of the alleged will, the status of the family trust, and whether Sachdeva's actions harmed their rightful claim. Kapur's mother and sister, Rani and Mandhira, have also leveled allegations of being sidelined by the Sona Comstar Group.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1 (Title line), sentence 1",
+        "error": "₹3,000cr",
+        "correction": "₹30,000 crore",
+        "error_type": "Magnitude & scale error — incorrect order-of-magnitude numerical value for the estate"
+    },
+    {
+        "location": "Paragraph 3 (Synopsis), sentence 1",
+        "error": "Kapur's two kids with Bollywood actor Karisma Kapoor — Taimur and Inaaya — filed a suit ...",
+        "correction": "Kapur's two kids with Bollywood actor Karisma Kapoor, Kiaan and Samaira, filed a suit ...",
+        "error_type": "Named entity error — wrong names used for the children"
+    },
+    {
+        "location": "Paragraph 3 (Synopsis), sentence 1",
+        "error": "Kapur, Sona Comstar's founder, passed away at 53 due to a heart attack.",
+        "correction": "Kapur, Sona Comstar's ex-chairperson, passed away at 53 due to a heart attack.",
+        "error_type": "Relational/positional error — incorrect title/role attributed to Sunjay Kapur"
+    },
+    {
+        "location": "Paragraph 6 (Alleged last will), sentence 1",
+        "error": "dated March 21, 2024",
+        "correction": "dated March 21, 2025",
+        "error_type": "Temporal error — wrong year for the alleged will date"
+    },
+    {
+        "location": "Paragraph 7 (Trust issues), sentence 1",
+        "error": "the RK Family Trust held only his overseas assets",
+        "correction": "the RK Family Trust held all of Kapur's assets",
+        "error_type": "Categorical/classification error — incorrect characterization of the scope of assets held by the family trust"
+    }
+]

@@ -1,0 +1,29 @@
+## 'Hate is valid only...': 'Bengal Files' actor on controversial reception
+### Synopsis
+Anubha Arora, who plays an important role in Vivek Agnihotri's The Bengal Files, recently spoke about the negative reaction the film has received from certain people. The movie, which was released on September 5, 2024, failed to make a mark at the box office and was not released in West Bengal despite no official ban. In an exclusive interview with Zoom, Arora opened up about her character and preparation for it.
+
+## Arora's character is a 'breath of fresh air'
+### Role insight
+Arora plays Gauri, a young journalist who is "a breath of fresh air in this dark world." She described her character as "helpless yet strong and militant," adding that Gauri wants the world to be peaceful and kind. To prepare for the role, Arora created an emotional journey for Gauri and studied the mannerisms of journalists. She also borrowed a friend's camera to better understand her character's profession.
+
+## Hate is valid only if you've watched film: Arora
+### Film backlash
+When asked about the backlash The Bengal Files has received, Arora said, "I feel hate is valid and acceptable only if you've watched the film. We cannot judge the book by its cover." She also spoke about feeling intimidated by her co-stars Mithun Chakraborty, Pallavi Joshi, and Anupam Kher initially, but added that they were all very welcoming.
+
+## Overcoming challenges while playing Gauri
+### Role challenges
+Arora spoke about the challenges she faced while playing Gauri. She revealed that one of the most emotionally charged scenes was shot over two days, which was a learning experience for her. "To keep that buildup going for two days and releasing it after packing up and building it again was a great learning experience and a challenge for me," she said.
+
+## 'The Bengal Files' is a cinematic masterpiece, says Arora
+### Film recommendation
+Despite the backlash, Arora believes that The Bengal Files is a "cinematic masterpiece." She said, "You cannot feel the depth of the film that the background score, the shots, the performances and the direction bring to the film without watching it in theaters." The film also stars Darshan Kumaar and Saswata Chatterjee in key roles.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 2 (Synopsis paragraph)",
+        "error": "The movie, which was released on September 5, 2024, failed to make a mark at the box office...",
+        "correction": "The movie, which was released on September 5, 2025, failed to make a mark at the box office...",
+        "error_type": "Numerical & Temporal Error — Incorrect release date (year)"
+    }
+]

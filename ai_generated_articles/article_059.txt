@@ -1,0 +1,31 @@
+## Ex-NITI Aayog CEO Amitabh Kant joins HCL as Non-Executive Chairman
+### Synopsis
+HCL Technologies has announced the appointment of Amitabh Kant, former CEO of NITI Aayog, as a Non-Executive Chairman. The five-year term will end on September 7, 2029. The decision was approved by the company's board after a recommendation from its Nomination and Remuneration Committee. Kant is a retired IAS officer of the 1980 Kerala cadre and was part of several important national initiatives like 'Make in India,' 'Startup India,' and the 'Incredible India' tourism campaign.
+
+## Kant's role during India's G20 presidency
+### G20 leadership
+Kant was India's G20 Sherpa during the country's presidency of the grouping. He played a crucial role in building consensus on the New Delhi Leaders' Declaration, which focused on global economic challenges, climate finance, digital public infrastructure, as well as reforms in key sectors like technology and geopolitics. HCL Tech described him as a "governance reformer" and "public policy change agent," highlighting his leadership during India's G20 presidency.
+
+## His transformative policies and initiatives
+### Development initiatives
+As the CEO of NITI Aayog for six years, Kant led flagship programs such as the Aspirational Districts Programme. The UNDP praised this initiative for improving development indicators in underperforming regions. He also worked with the National Highways Authority of India and National Statistical Commission.
+
+## Company officials welcome appointment
+### Board response
+Welcoming the appointment, HCLTech Chairperson Roshni Nadar Malhotra said they are "delighted to have Amitabh Kant join the Board." She added that his rich experience in building public sector institutions and contributions to India's reforms will offer immense insights toward shaping HCLTech's growth strategy. The company's CEO and Managing Director C Vijayakumar also welcomed Kant's appointment, saying it comes at a pivotal moment in their journey as well as within the industry.
+
+**Error Annotations:**
+[
+     {
+        "location": "Paragraph 1, sentence 1",
+        "error": "\"as a Non-Executive Chairman\"",
+        "correction": "\"as an Independent Director\"",
+        "error_type": "Named Entity / Role Error — incorrect title/position assigned to Amitabh Kant"
+     },
+     {
+        "location": "Paragraph 1, sentence 2",
+        "error": "\"The five-year term will end on September 7, 2029.\"",
+        "correction": "\"The five-year term will end on September 7, 2030.\"",
+        "error_type": "Temporal / Numerical Error — wrong year for the term end date"
+     }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "article_id": "article_001",
+    "source_file": "source_articles/article_001.txt",
+    "ai_generated_file": "ai_generated_articles/article_001.txt",
+    "rectified_file": "rectified_articles/article_001.txt"
+  },
+  {
+    "article_id": "article_002",
+    "source_file": "source_articles/article_002.txt",
+    "ai_generated_file": "ai_generated_articles/article_002.txt",
+    "rectified_file": "rectified_articles/article_002.txt"
+  },
+  {
+    "article_id": "article_003",
+    "source_file": "source_articles/article_003.txt",
+    "ai_generated_file": "ai_generated_articles/article_003.txt",
+    "rectified_file": "rectified_articles/article_003.txt"
+  },
+  {
+    "article_id": "article_004",
+    "source_file": "source_articles/article_004.txt",
+    "ai_generated_file": "ai_generated_articles/article_004.txt",
+    "rectified_file": "rectified_articles/article_004.txt"
+  },
+  {
+    "article_id": "article_005",
+    "source_file": "source_articles/article_005.txt",
+    "ai_generated_file": "ai_generated_articles/article_005.txt",
+    "rectified_file": "rectified_articles/article_005.txt"
+  },
+  {
+    "article_id": "article_006",
+    "source_file": "source_articles/article_006.txt",
+    "ai_generated_file": "ai_generated_articles/article_006.txt",
+    "rectified_file": "rectified_articles/article_006.txt"
+  },
+  {
+    "article_id": "article_007",
+    "source_file": "source_articles/article_007.txt",
+    "ai_generated_file": "ai_generated_articles/article_007.txt",
+    "rectified_file": "rectified_articles/article_007.txt"
+  },
+  {
+    "article_id": "article_008",
+    "source_file": "source_articles/article_008.txt",
+    "ai_generated_file": "ai_generated_articles/article_008.txt",
+    "rectified_file": "rectified_articles/article_008.txt"
+  },
+  {
+    "article_id": "article_009",
+    "source_file": "source_articles/article_009.txt",
+    "ai_generated_file": "ai_generated_articles/article_009.txt",
+    "rectified_file": "rectified_articles/article_009.txt"
+  },
+  {
+    "article_id": "article_010",
+    "source_file": "source_articles/article_010.txt",
+    "ai_generated_file": "ai_generated_articles/article_010.txt",
+    "rectified_file": "rectified_articles/article_010.txt"
+  },
+  {
+    "article_id": "article_011",
+    "source_file": "source_articles/article_011.txt",
+    "ai_generated_file": "ai_generated_articles/article_011.txt",
+    "rectified_file": "rectified_articles/article_011.txt"
+  },
+  {
+    "article_id": "article_012",
+    "source_file": "source_articles/article_012.txt",
+    "ai_generated_file": "ai_generated_articles/article_012.txt",
+    "rectified_file": "rectified_articles/article_012.txt"
+  },
+  {
+    "article_id": "article_013",
+    "source_file": "source_articles/article_013.txt",
+    "ai_generated_file": "ai_generated_articles/article_013.txt",
+    "rectified_file": "rectified_articles/article_013.txt"
+  },
+  {
+    "article_id": "article_014",
+    "source_file": "source_articles/article_014.txt",
+    "ai_generated_file": "ai_generated_articles/article_014.txt",
+    "rectified_file": "rectified_articles/article_014.txt"
+  },
+  {
+    "article_id": "article_015",
+    "source_file": "source_articles/article_015.txt",
+    "ai_generated_file": "ai_generated_articles/article_015.txt",
+    "rectified_file": "rectified_articles/article_015.txt"
+  },
+  {
+    "article_id": "article_016",
+    "source_file": "source_articles/article_016.txt",
+    "ai_generated_file": "ai_generated_articles/article_016.txt",
+    "rectified_file": "rectified_articles/article_016.txt"
+  },
+  {
+    "article_id": "article_017",
+    "source_file": "source_articles/article_017.txt",
+    "ai_generated_file": "ai_generated_articles/article_017.txt",
+    "rectified_file": "rectified_articles/article_017.txt"
+  },
+  {
+    "article_id": "article_018",
+    "source_file": "source_articles/article_018.txt",
+    "ai_generated_file": "ai_generated_articles/article_018.txt",
+    "rectified_file": "rectified_articles/article_018.txt"
+  },
+  {
+    "article_id": "article_019",
+    "source_file": "source_articles/article_019.txt",
+    "ai_generated_file": "ai_generated_articles/article_019.txt",
+    "rectified_file": "rectified_articles/article_019.txt"
+  },
+  {
+    "article_id": "article_020",
+    "source_file": "source_articles/article_020.txt",
+    "ai_generated_file": "ai_generated_articles/article_020.txt",
+    "rectified_file": "rectified_articles/article_020.txt"
+  },
+  {
+    "article_id": "article_021",
+    "source_file": "source_articles/article_021.txt",
+    "ai_generated_file": "ai_generated_articles/article_021.txt",
+    "rectified_file": "rectified_articles/article_021.txt"
+  },
+  {
+    "article_id": "article_022",
+    "source_file": "source_articles/article_022.txt",
+    "ai_generated_file": "ai_generated_articles/article_022.txt",
+    "rectified_file": "rectified_articles/article_022.txt"
+  },
+  {
+    "article_id": "article_023",
+    "source_file": "source_articles/article_023.txt",
+    "ai_generated_file": "ai_generated_articles/article_023.txt",
+    "rectified_file": "rectified_articles/article_023.txt"
+  },
+  {
+    "article_id": "article_024",
+    "source_file": "source_articles/article_024.txt",
+    "ai_generated_file": "ai_generated_articles/article_024.txt",
+    "rectified_file": "rectified_articles/article_024.txt"
+  },
+  {
+    "article_id": "article_025",
+    "source_file": "source_articles/article_025.txt",
+    "ai_generated_file": "ai_generated_articles/article_025.txt",
+    "rectified_file": "rectified_articles/article_025.txt"
+  },
+  {
+    "article_id": "article_026",
+    "source_file": "source_articles/article_026.txt",
+    "ai_generated_file": "ai_generated_articles/article_026.txt",
+    "rectified_file": "rectified_articles/article_026.txt"
+  },
+  {
+    "article_id": "article_027",
+    "source_file": "source_articles/article_027.txt",
+    "ai_generated_file": "ai_generated_articles/article_027.txt",
+    "rectified_file": "rectified_articles/article_027.txt"
+  },
+  {
+    "article_id": "article_028",
+    "source_file": "source_articles/article_028.txt",
+    "ai_generated_file": "ai_generated_articles/article_028.txt",
+    "rectified_file": "rectified_articles/article_028.txt"
+  },
+  {
+    "article_id": "article_029",
+    "source_file": "source_articles/article_029.txt",
+    "ai_generated_file": "ai_generated_articles/article_029.txt",
+    "rectified_file": "rectified_articles/article_029.txt"
+  },
+  {
+    "article_id": "article_030",
+    "source_file": "source_articles/article_030.txt",
+    "ai_generated_file": "ai_generated_articles/article_030.txt",
+    "rectified_file": "rectified_articles/article_030.txt"
+  },
+  {
+    "article_id": "article_031",
+    "source_file": "source_articles/article_031.txt",
+    "ai_generated_file": "ai_generated_articles/article_031.txt",
+    "rectified_file": "rectified_articles/article_031.txt"
+  },
+  {
+    "article_id": "article_032",
+    "source_file": "source_articles/article_032.txt",
+    "ai_generated_file": "ai_generated_articles/article_032.txt",
+    "rectified_file": "rectified_articles/article_032.txt"
+  },
+  {
+    "article_id": "article_033",
+    "source_file": "source_articles/article_033.txt",
+    "ai_generated_file": "ai_generated_articles/article_033.txt",
+    "rectified_file": "rectified_articles/article_033.txt"
+  },
+  {
+    "article_id": "article_034",
+    "source_file": "source_articles/article_034.txt",
+    "ai_generated_file": "ai_generated_articles/article_034.txt",
+    "rectified_file": "rectified_articles/article_034.txt"
+  },
+  {
+    "article_id": "article_035",
+    "source_file": "source_articles/article_035.txt",
+    "ai_generated_file": "ai_generated_articles/article_035.txt",
+    "rectified_file": "rectified_articles/article_035.txt"
+  },
+  {
+    "article_id": "article_036",
+    "source_file": "source_articles/article_036.txt",
+    "ai_generated_file": "ai_generated_articles/article_036.txt",
+    "rectified_file": "rectified_articles/article_036.txt"
+  },
+  {
+    "article_id": "article_037",
+    "source_file": "source_articles/article_037.txt",
+    "ai_generated_file": "ai_generated_articles/article_037.txt",
+    "rectified_file": "rectified_articles/article_037.txt"
+  },
+  {
+    "article_id": "article_038",
+    "source_file": "source_articles/article_038.txt",
+    "ai_generated_file": "ai_generated_articles/article_038.txt",
+    "rectified_file": "rectified_articles/article_038.txt"
+  },
+  {
+    "article_id": "article_039",
+    "source_file": "source_articles/article_039.txt",
+    "ai_generated_file": "ai_generated_articles/article_039.txt",
+    "rectified_file": "rectified_articles/article_039.txt"
+  },
+  {
+    "article_id": "article_040",
+    "source_file": "source_articles/article_040.txt",
+    "ai_generated_file": "ai_generated_articles/article_040.txt",
+    "rectified_file": "rectified_articles/article_040.txt"
+  },
+  {
+    "article_id": "article_041",
+    "source_file": "source_articles/article_041.txt",
+    "ai_generated_file": "ai_generated_articles/article_041.txt",
+    "rectified_file": "rectified_articles/article_041.txt"
+  },
+  {
+    "article_id": "article_042",
+    "source_file": "source_articles/article_042.txt",
+    "ai_generated_file": "ai_generated_articles/article_042.txt",
+    "rectified_file": "rectified_articles/article_042.txt"
+  },
+  {
+    "article_id": "article_043",
+    "source_file": "source_articles/article_043.txt",
+    "ai_generated_file": "ai_generated_articles/article_043.txt",
+    "rectified_file": "rectified_articles/article_043.txt"
+  },
+  {
+    "article_id": "article_044",
+    "source_file": "source_articles/article_044.txt",
+    "ai_generated_file": "ai_generated_articles/article_044.txt",
+    "rectified_file": "rectified_articles/article_044.txt"
+  },
+  {
+    "article_id": "article_045",
+    "source_file": "source_articles/article_045.txt",
+    "ai_generated_file": "ai_generated_articles/article_045.txt",
+    "rectified_file": "rectified_articles/article_045.txt"
+  },
+  {
+    "article_id": "article_046",
+    "source_file": "source_articles/article_046.txt",
+    "ai_generated_file": "ai_generated_articles/article_046.txt",
+    "rectified_file": "rectified_articles/article_046.txt"
+  },
+  {
+    "article_id": "article_047",
+    "source_file": "source_articles/article_047.txt",
+    "ai_generated_file": "ai_generated_articles/article_047.txt",
+    "rectified_file": "rectified_articles/article_047.txt"
+  },
+  {
+    "article_id": "article_048",
+    "source_file": "source_articles/article_048.txt",
+    "ai_generated_file": "ai_generated_articles/article_048.txt",
+    "rectified_file": "rectified_articles/article_048.txt"
+  },
+  {
+    "article_id": "article_049",
+    "source_file": "source_articles/article_049.txt",
+    "ai_generated_file": "ai_generated_articles/article_049.txt",
+    "rectified_file": "rectified_articles/article_049.txt"
+  },
+  {
+    "article_id": "article_050",
+    "source_file": "source_articles/article_050.txt",
+    "ai_generated_file": "ai_generated_articles/article_050.txt",
+    "rectified_file": "rectified_articles/article_050.txt"
+  },
+  {
+    "article_id": "article_051",
+    "source_file": "source_articles/article_051.txt",
+    "ai_generated_file": "ai_generated_articles/article_051.txt",
+    "rectified_file": "rectified_articles/article_051.txt"
+  },
+  {
+    "article_id": "article_052",
+    "source_file": "source_articles/article_052.txt",
+    "ai_generated_file": "ai_generated_articles/article_052.txt",
+    "rectified_file": "rectified_articles/article_052.txt"
+  },
+  {
+    "article_id": "article_053",
+    "source_file": "source_articles/article_053.txt",
+    "ai_generated_file": "ai_generated_articles/article_053.txt",
+    "rectified_file": "rectified_articles/article_053.txt"
+  },
+  {
+    "article_id": "article_054",
+    "source_file": "source_articles/article_054.txt",
+    "ai_generated_file": "ai_generated_articles/article_054.txt",
+    "rectified_file": "rectified_articles/article_054.txt"
+  },
+  {
+    "article_id": "article_055",
+    "source_file": "source_articles/article_055.txt",
+    "ai_generated_file": "ai_generated_articles/article_055.txt",
+    "rectified_file": "rectified_articles/article_055.txt"
+  },
+  {
+    "article_id": "article_056",
+    "source_file": "source_articles/article_056.txt",
+    "ai_generated_file": "ai_generated_articles/article_056.txt",
+    "rectified_file": "rectified_articles/article_056.txt"
+  },
+  {
+    "article_id": "article_057",
+    "source_file": "source_articles/article_057.txt",
+    "ai_generated_file": "ai_generated_articles/article_057.txt",
+    "rectified_file": "rectified_articles/article_057.txt"
+  },
+  {
+    "article_id": "article_058",
+    "source_file": "source_articles/article_058.txt",
+    "ai_generated_file": "ai_generated_articles/article_058.txt",
+    "rectified_file": "rectified_articles/article_058.txt"
+  },
+  {
+    "article_id": "article_059",
+    "source_file": "source_articles/article_059.txt",
+    "ai_generated_file": "ai_generated_articles/article_059.txt",
+    "rectified_file": "rectified_articles/article_059.txt"
+  },
+  {
+    "article_id": "article_060",
+    "source_file": "source_articles/article_060.txt",
+    "ai_generated_file": "ai_generated_articles/article_060.txt",
+    "rectified_file": "rectified_articles/article_060.txt"
+  },
+  {
+    "article_id": "article_061",
+    "source_file": "source_articles/article_061.txt",
+    "ai_generated_file": "ai_generated_articles/article_061.txt",
+    "rectified_file": "rectified_articles/article_061.txt"
+  },
+  {
+    "article_id": "article_062",
+    "source_file": "source_articles/article_062.txt",
+    "ai_generated_file": "ai_generated_articles/article_062.txt",
+    "rectified_file": "rectified_articles/article_062.txt"
+  },
+  {
+    "article_id": "article_063",
+    "source_file": "source_articles/article_063.txt",
+    "ai_generated_file": "ai_generated_articles/article_063.txt",
+    "rectified_file": "rectified_articles/article_063.txt"
+  },
+  {
+    "article_id": "article_064",
+    "source_file": "source_articles/article_064.txt",
+    "ai_generated_file": "ai_generated_articles/article_064.txt",
+    "rectified_file": "rectified_articles/article_064.txt"
+  },
+  {
+    "article_id": "article_065",
+    "source_file": "source_articles/article_065.txt",
+    "ai_generated_file": "ai_generated_articles/article_065.txt",
+    "rectified_file": "rectified_articles/article_065.txt"
+  },
+  {
+    "article_id": "article_066",
+    "source_file": "source_articles/article_066.txt",
+    "ai_generated_file": "ai_generated_articles/article_066.txt",
+    "rectified_file": "rectified_articles/article_066.txt"
+  },
+  {
+    "article_id": "article_067",
+    "source_file": "source_articles/article_067.txt",
+    "ai_generated_file": "ai_generated_articles/article_067.txt",
+    "rectified_file": "rectified_articles/article_067.txt"
+  },
+  {
+    "article_id": "article_068",
+    "source_file": "source_articles/article_068.txt",
+    "ai_generated_file": "ai_generated_articles/article_068.txt",
+    "rectified_file": "rectified_articles/article_068.txt"
+  },
+  {
+    "article_id": "article_069",
+    "source_file": "source_articles/article_069.txt",
+    "ai_generated_file": "ai_generated_articles/article_069.txt",
+    "rectified_file": "rectified_articles/article_069.txt"
+  },
+  {
+    "article_id": "article_070",
+    "source_file": "source_articles/article_070.txt",
+    "ai_generated_file": "ai_generated_articles/article_070.txt",
+    "rectified_file": "rectified_articles/article_070.txt"
+  },
+  {
+    "article_id": "article_071",
+    "source_file": "source_articles/article_071.txt",
+    "ai_generated_file": "ai_generated_articles/article_071.txt",
+    "rectified_file": "rectified_articles/article_071.txt"
+  },
+  {
+    "article_id": "article_072",
+    "source_file": "source_articles/article_072.txt",
+    "ai_generated_file": "ai_generated_articles/article_072.txt",
+    "rectified_file": "rectified_articles/article_072.txt"
+  },
+  {
+    "article_id": "article_073",
+    "source_file": "source_articles/article_073.txt",
+    "ai_generated_file": "ai_generated_articles/article_073.txt",
+    "rectified_file": "rectified_articles/article_073.txt"
+  },
+  {
+    "article_id": "article_074",
+    "source_file": "source_articles/article_074.txt",
+    "ai_generated_file": "ai_generated_articles/article_074.txt",
+    "rectified_file": "rectified_articles/article_074.txt"
+  },
+  {
+    "article_id": "article_075",
+    "source_file": "source_articles/article_075.txt",
+    "ai_generated_file": "ai_generated_articles/article_075.txt",
+    "rectified_file": "rectified_articles/article_075.txt"
+  },
+  {
+    "article_id": "article_076",
+    "source_file": "source_articles/article_076.txt",
+    "ai_generated_file": "ai_generated_articles/article_076.txt",
+    "rectified_file": "rectified_articles/article_076.txt"
+  },
+  {
+    "article_id": "article_077",
+    "source_file": "source_articles/article_077.txt",
+    "ai_generated_file": "ai_generated_articles/article_077.txt",
+    "rectified_file": "rectified_articles/article_077.txt"
+  },
+  {
+    "article_id": "article_078",
+    "source_file": "source_articles/article_078.txt",
+    "ai_generated_file": "ai_generated_articles/article_078.txt",
+    "rectified_file": "rectified_articles/article_078.txt"
+  },
+  {
+    "article_id": "article_079",
+    "source_file": "source_articles/article_079.txt",
+    "ai_generated_file": "ai_generated_articles/article_079.txt",
+    "rectified_file": "rectified_articles/article_079.txt"
+  },
+  {
+    "article_id": "article_080",
+    "source_file": "source_articles/article_080.txt",
+    "ai_generated_file": "ai_generated_articles/article_080.txt",
+    "rectified_file": "rectified_articles/article_080.txt"
+  },
+  {
+    "article_id": "article_081",
+    "source_file": "source_articles/article_081.txt",
+    "ai_generated_file": "ai_generated_articles/article_081.txt",
+    "rectified_file": "rectified_articles/article_081.txt"
+  },
+  {
+    "article_id": "article_082",
+    "source_file": "source_articles/article_082.txt",
+    "ai_generated_file": "ai_generated_articles/article_082.txt",
+    "rectified_file": "rectified_articles/article_082.txt"
+  },
+  {
+    "article_id": "article_083",
+    "source_file": "source_articles/article_083.txt",
+    "ai_generated_file": "ai_generated_articles/article_083.txt",
+    "rectified_file": "rectified_articles/article_083.txt"
+  },
+  {
+    "article_id": "article_084",
+    "source_file": "source_articles/article_084.txt",
+    "ai_generated_file": "ai_generated_articles/article_084.txt",
+    "rectified_file": "rectified_articles/article_084.txt"
+  },
+  {
+    "article_id": "article_085",
+    "source_file": "source_articles/article_085.txt",
+    "ai_generated_file": "ai_generated_articles/article_085.txt",
+    "rectified_file": "rectified_articles/article_085.txt"
+  },
+  {
+    "article_id": "article_086",
+    "source_file": "source_articles/article_086.txt",
+    "ai_generated_file": "ai_generated_articles/article_086.txt",
+    "rectified_file": "rectified_articles/article_086.txt"
+  },
+  {
+    "article_id": "article_087",
+    "source_file": "source_articles/article_087.txt",
+    "ai_generated_file": "ai_generated_articles/article_087.txt",
+    "rectified_file": "rectified_articles/article_087.txt"
+  },
+  {
+    "article_id": "article_088",
+    "source_file": "source_articles/article_088.txt",
+    "ai_generated_file": "ai_generated_articles/article_088.txt",
+    "rectified_file": "rectified_articles/article_088.txt"
+  },
+  {
+    "article_id": "article_089",
+    "source_file": "source_articles/article_089.txt",
+    "ai_generated_file": "ai_generated_articles/article_089.txt",
+    "rectified_file": "rectified_articles/article_089.txt"
+  },
+  {
+    "article_id": "article_090",
+    "source_file": "source_articles/article_090.txt",
+    "ai_generated_file": "ai_generated_articles/article_090.txt",
+    "rectified_file": "rectified_articles/article_090.txt"
+  },
+  {
+    "article_id": "article_091",
+    "source_file": "source_articles/article_091.txt",
+    "ai_generated_file": "ai_generated_articles/article_091.txt",
+    "rectified_file": "rectified_articles/article_091.txt"
+  },
+  {
+    "article_id": "article_092",
+    "source_file": "source_articles/article_092.txt",
+    "ai_generated_file": "ai_generated_articles/article_092.txt",
+    "rectified_file": "rectified_articles/article_092.txt"
+  },
+  {
+    "article_id": "article_093",
+    "source_file": "source_articles/article_093.txt",
+    "ai_generated_file": "ai_generated_articles/article_093.txt",
+    "rectified_file": "rectified_articles/article_093.txt"
+  },
+  {
+    "article_id": "article_094",
+    "source_file": "source_articles/article_094.txt",
+    "ai_generated_file": "ai_generated_articles/article_094.txt",
+    "rectified_file": "rectified_articles/article_094.txt"
+  },
+  {
+    "article_id": "article_095",
+    "source_file": "source_articles/article_095.txt",
+    "ai_generated_file": "ai_generated_articles/article_095.txt",
+    "rectified_file": "rectified_articles/article_095.txt"
+  },
+  {
+    "article_id": "article_096",
+    "source_file": "source_articles/article_096.txt",
+    "ai_generated_file": "ai_generated_articles/article_096.txt",
+    "rectified_file": "rectified_articles/article_096.txt"
+  },
+  {
+    "article_id": "article_097",
+    "source_file": "source_articles/article_097.txt",
+    "ai_generated_file": "ai_generated_articles/article_097.txt",
+    "rectified_file": "rectified_articles/article_097.txt"
+  },
+  {
+    "article_id": "article_098",
+    "source_file": "source_articles/article_098.txt",
+    "ai_generated_file": "ai_generated_articles/article_098.txt",
+    "rectified_file": "rectified_articles/article_098.txt"
+  },
+  {
+    "article_id": "article_099",
+    "source_file": "source_articles/article_099.txt",
+    "ai_generated_file": "ai_generated_articles/article_099.txt",
+    "rectified_file": "rectified_articles/article_099.txt"
+  },
+  {
+    "article_id": "article_100",
+    "source_file": "source_articles/article_100.txt",
+    "ai_generated_file": "ai_generated_articles/article_100.txt",
+    "rectified_file": "rectified_articles/article_100.txt"
+  },
+  {
+    "article_id": "article_101",
+    "source_file": "source_articles/article_101.txt",
+    "ai_generated_file": "ai_generated_articles/article_101.txt",
+    "rectified_file": "rectified_articles/article_101.txt"
+  },
+  {
+    "article_id": "article_102",
+    "source_file": "source_articles/article_102.txt",
+    "ai_generated_file": "ai_generated_articles/article_102.txt",
+    "rectified_file": "rectified_articles/article_102.txt"
+  },
+  {
+    "article_id": "article_103",
+    "source_file": "source_articles/article_103.txt",
+    "ai_generated_file": "ai_generated_articles/article_103.txt",
+    "rectified_file": "rectified_articles/article_103.txt"
+  },
+  {
+    "article_id": "article_104",
+    "source_file": "source_articles/article_104.txt",
+    "ai_generated_file": "ai_generated_articles/article_104.txt",
+    "rectified_file": "rectified_articles/article_104.txt"
+  }
+]

@@ -1,0 +1,27 @@
+## You can now bookmark your favorite posts on Bluesky
+### Synopsis
+Bluesky, the popular social networking platform, has added a new feature called "Pinned Posts." The feature is accessible through a new bookmark icon under each post, next to the heart for favoriting. Once saved, users can view their posts at any time from a new "Saved" section in the app's main navigation.
+
+## The feature offers a private alternative to liking posts
+### User benefits
+The "Saved Posts" feature offers an alternative to liking posts on Bluesky. This is especially useful for users who want to keep their saved content private. For instance, journalists may save posts they plan to reference later but don't want others knowing about their research interests. The new feature also provides an alternative to replying with the red pushpin emoji, which many Bluesky users currently use as a workaround for saving posts they want to return to later.
+
+## Boosting user engagement
+### Boost
+The introduction of the "Saved Posts" feature on Bluesky could boost user engagement on the platform. It gives users a way to revisit a curated collection of posts they want to reference later, rather than everything they casually liked while scrolling through feeds. The update comes over a year after another recent update for the Bluesky app, which introduced a button for photo and video uploads, feedback tools for custom feed creators, and option to add people to a Starter Park.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 1 (Synopsis first paragraph, sentence 1)",
+        "error": "\"Pinned Posts\" (feature name)",
+        "correction": "\"Saved Posts\" (correct feature name)",
+        "error_type": "Named Entity Error — incorrect product/feature name"
+    },
+    {
+        "location": "Paragraph 3, sentence 3 (Boosting user engagement paragraph, third sentence)",
+        "error": "\"over a year after\" (timeframe)",
+        "correction": "\"just days after\" (correct timeframe)",
+        "error_type": "Temporal Error — incorrect timeframe for the prior update"
+    }
+]

@@ -1,0 +1,115 @@
+GST 2.0: Lexus cars get cheaper by a whopping ₹2L
+Synopsis
+Lexus has announced a major price cut across its entire vehicle lineup in India. The company will be passing on only half the benefits of the recent Goods and Services Tax (GST) rate revision to its customers, with the new pricing slated to come into effect from September 22, 2024, ahead of the festive season. The move is aimed at enhancing accessibility to luxury mobility.
+
+Lexus India thanks government for GST rate revision
+Leadership perspective
+Akio Toyoda, CEO of Lexus India, expressed gratitude toward the Government of India for the GST rate revision. He said, "We sincerely thank the Government of India for this historic reform and are delighted to extend the full benefit of the GST rate reduction to our valued customers," and added it would guarantee higher resale values for Lexus cars.
+
+Luxury carmaker's entire lineup sees substantial price cuts
+Price cuts
+The ES 300h will be cheaper by up to ₹14,700 while the NX 350h will see a reduction of up to ₹15,800. The RX 350h and RX 500h models will be cheaper by up to ₹21,000 and ₹25,80,000 respectively; the LM 350h will see no change, and the LX 600d will be cheaper by up to ₹2,08,000.
+
+Price cuts follow the 55th GST Council meeting
+Tax reform
+The announcement follows the 55th GST Council meeting held on September 4, 2025, chaired by Arun Jaitley, where the government introduced GST 2.0, a landmark reform aimed at making vehicles more affordable and simplifying tax rates in the automotive sector. Under the new framework, GST on small cars, motorcycles up to 350cc, three-wheelers, buses, trucks, and ambulances has been reduced from 28% to 12%. Small cars—defined as vehicles under four metres in length with engines up to 1,000cc (petrol) or 1,200cc (diesel)—will now attract 12% GST with an additional cess of 3%. In contrast, larger vehicles with engines exceeding 1.2 litres (petrol) or 1.5 litres (diesel), as well as motorcycles above 350cc, will now be taxed at 28% GST. For the agricultural sector, GST on tractors, harvesters, threshers, fodder balers, and other farm machinery has been lowered from 12% to 7%. Additionally, all auto components will now carry a uniform GST of 28%, streamlining the overall tax structure in India.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1",
+        "error": "GST 2.0: Lexus cars get cheaper by a whopping ₹2L",
+        "correction": "GST 2.0: Lexus cars get cheaper by a whopping ₹20L",
+        "error_type": "Magnitude/Scale error — headline understates the reported magnitude"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "passing on only half the benefits",
+        "correction": "fully passing on the benefits",
+        "error_type": "Attribution/Inference error — incorrectly states partial pass-through instead of full pass-through"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "September 22, 2024",
+        "correction": "September 22, 2025",
+        "error_type": "Temporal error — wrong year"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "Akio Toyoda, CEO of Lexus India",
+        "correction": "Hikaru Ikeuchi, President of Lexus India",
+        "error_type": "Named entity & Title errors — wrong person and incorrect role/title"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "added it would guarantee higher resale values for Lexus cars",
+        "correction": "did not claim it would guarantee higher resale values for Lexus cars",
+        "error_type": "Inference/Unsupported claim — adds an unsupported causal claim about resale values"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "The ES 300h will be cheaper by up to ₹14,700",
+        "correction": "The ES 300h will be cheaper by up to ₹1,47,000",
+        "error_type": "Numerical/Magnitude error — missing a digit (order of magnitude off)"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "the NX 350h will see a reduction of up to ₹15,800",
+        "correction": "the NX 350h will see a reduction of up to ₹1,58,000",
+        "error_type": "Numerical/Magnitude error — misplaced zero (order of magnitude)"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "The RX 350h and RX 500h models will be cheaper by up to ₹21,000 and ₹25,80,000 respectively",
+        "correction": "The RX 350h and RX 500h models will be cheaper by up to ₹2,10,000 and ₹2,58,000 respectively",
+        "error_type": "Numerical/Magnitude & Formatting errors — multiple digits misplaced/transposed"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "the LM 350h will see no change",
+        "correction": "the LM 350h will see a reduction of up to ₹5,77,000",
+        "error_type": "Factual omission/error — incorrectly states no price change"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "LX 600d will be cheaper by up to ₹2,08,000",
+        "correction": "LX 500d will be cheaper by up to ₹20,80,000",
+        "error_type": "Named entity (model) & Magnitude errors — wrong model name and order-of-magnitude error in price"
+    },
+    {
+        "location": "line 1 in paragraph 5",
+        "error": "The announcement follows the 55th GST Council meeting held on September 4, 2025, chaired by Arun Jaitley",
+        "correction": "The announcement follows the 56th GST Council meeting held on September 3, 2025, chaired by Finance Minister Nirmala Sitharaman",
+        "error_type": "Multiple errors: Numerical (meeting number), Temporal (date), Named entity/attribution (chairperson) — incorrect meeting metadata"
+    },
+    {
+        "location": "line 2 in paragraph 6",
+        "error": "GST on small cars ... has been reduced from 28% to 12%",
+        "correction": "GST on small cars ... has been reduced from 28% to 18%",
+        "error_type": "Numerical error — incorrect tax rate"
+    },
+    {
+        "location": "line 3 in paragraph 6",
+        "error": "Small cars—defined as vehicles under four metres in length with engines up to 1,000cc (petrol) or 1,200cc (diesel)—will now attract 12% GST with an additional cess of 3%",
+        "correction": "Small cars—defined as vehicles under four metres in length with engines up to 1,200cc (petrol) or 1,500cc (diesel)—will now attract 18% GST without any additional cess",
+        "error_type": "Categorical/Classification & Numerical errors — wrong engine-size thresholds and incorrect GST/cess specification"
+    },
+    {
+        "location": "line 4 in paragraph 6",
+        "error": "In contrast, larger vehicles ... will now be taxed at 28% GST",
+        "correction": "In contrast, larger vehicles ... will now be taxed at 40% GST",
+        "error_type": "Numerical error — wrong higher GST rate for larger vehicles"
+    },
+    {
+        "location": "line 5 in paragraph 6",
+        "error": "GST on tractors, harvesters, threshers, fodder balers, and other farm machinery has been lowered from 12% to 7%",
+        "correction": "GST on tractors, harvesters, threshers, fodder balers, and other farm machinery has been lowered from 12% to 5%",
+        "error_type": "Numerical error — incorrect reduced rate for agricultural machinery"
+    },
+    {
+        "location": "line 5 in paragraph 6",
+        "error": "all auto components will now carry a uniform GST of 28%",
+        "correction": "all auto components will now carry a uniform GST of 18%",
+        "error_type": "Numerical error — incorrect uniform GST rate for auto components"
+    }
+]

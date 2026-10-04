@@ -1,0 +1,57 @@
+## 'BB18' controversy with Salman was exaggerated, claims Ashneer Grover
+### Synopsis
+Ashneer Grover, the former Shark Tank India judge, recently opened up about his controversial appearance on Bigg Boss 18 with Salman Khan. The episode sparked a lot of media buzz and trolling on social media. However, in an interview with Zoom, Grover said that the situation was blown out of proportion and used to create controversy.
+
+## 'Merko toh kuch tha bhi nahi...'
+### Clarification
+When asked if he would work with Khan again, Grover said that the situation was exaggerated. He said in Hindi, "Merko toh kuch tha bhi nahi, maine toh us bande ki tareef ki thi (There was nothing from my side. In fact, I appreciated him)." "If you look at the video, you can tell me. Did I say anything wrong about him? Maine toh tareef ki thi (I was actually complimenting him)." "They brought me on the show and turned it into a controversy."
+
+## No love lost between Grover, Khan
+### Future prospects
+Reflecting on his previous work with Khan, Grover said he had no issues at all. He said, "I liked the guy then, which is why I worked with him. As far as I'm concerned, there's no love lost." When asked if he would work with Khan again in the future, Grover said he was open to it and believed in the "never say never" philosophy.
+
+## What had happened during 'BB18'?
+### Incident
+During a Weekend Ka Vaar episode of Bigg Boss 17 in March 2025, the entrepreneur had appeared on Khan's show. Grover had formerly spoken about Khan and his team's "attitude" during a work meeting; addressing his comments, Amitabh Bachchan had lambasted the businessman on the show. "Obviously when you are on TV you tend to exaggerate, you try to be a hero and try to re-establish yourself...that's good but don't get personal," the superstar had told Grover.
+
+## When 'Bigg Boss' approached Grover
+### Reality show speculation
+Grover also addressed rumors about him joining Bigg Boss as a contestant. He revealed that while he had been approached for the reality show, he not only accepted the offer and joined as a contestant but was reportedly paid more than Khan. With his trademark humor, he added that he would only consider participation if the producers offered a deal higher than Khan's remuneration.
+
+## Grover's new reality show 'Rise & Fall'
+### New show
+Meanwhile, Grover has now entered the reality TV space with his new show Rise & Fall. The format is inspired by Bigg Boss 7 (2013) and features a similar division between two groups: Rulers and Workers. However, unlike Bigg Boss 7, which focused on comfort versus discomfort, this new format emphasizes power versus survival. The Rulers live in a luxurious penthouse while the Workers live under harsh conditions without any money or power.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 9, sentence 1",
+        "error": "Bigg Boss 17",
+        "correction": "Bigg Boss 18",
+        "error_type": "Named-entity / Event error (incorrect season referenced)"
+    },
+    {
+        "location": "paragraph 9, sentence 1",
+        "error": "March 2025",
+        "correction": "November 2024",
+        "error_type": "Temporal error (incorrect date/month and year)"
+    },
+    {
+        "location": "paragraph 9, sentence 2",
+        "error": "Amitabh Bachchan had lambasted the businessman on the show",
+        "correction": "Salman Khan had lambasted the businessman on the show",
+        "error_type": "Named-entity / Attribution error (wrong person attributed with the confrontation)"
+    },
+    {
+        "location": "paragraph 11, sentence 1",
+        "error": "he not only accepted the offer and joined as a contestant",
+        "correction": "he declined the offer and did not join as a contestant",
+        "error_type": "Relational / Contextual error (incorrect claim about participation)"
+    },
+    {
+        "location": "paragraph 11, sentence 1",
+        "error": "was reportedly paid more than Khan",
+        "correction": "there is no report that he was paid more than Khan; he was not paid more than Khan",
+        "error_type": "Magnitude / Attribution error (incorrect claim about remuneration)"
+    }
+]

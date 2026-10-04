@@ -1,0 +1,47 @@
+## Disha Patani locked opposite Emraan Hashmi for 'Awarapan 2': Report
+### Synopsis
+Actor Disha Patani has reportedly been confirmed as the female lead in the upcoming film Awarapan 2, alongside Emraan Hashmi. The sequel to the 2010 cult classic Awarapan will be directed by Mohit Suri and is scheduled to begin shooting in January. The original film, directed by Mohit Suri, was a major commercial hit domestically and internationally and has since gained a dedicated following for its music and tragic love story.
+
+## Patani was 'bowled over' by script
+### Casting details
+A source told Pinkvilla that Patani was "bowled over" by the emotional arc in the script and immediately agreed to join the project. The film will be an intense love story set against a gangster backdrop, similar to its predecessor. While Hashmi will play a new character, Rohit Malhotra, details about Patani's character remain undisclosed.
+
+## Team focusing on creating 'wholesome music album'
+### Music focus
+The source also revealed that the team behind Awarapan 2 is currently working on the film's music, aiming to create a "wholesome music album" for the sequel. The original Awarapan was known for its memorable soundtrack, and fans can expect similar musical quality in the upcoming film. The production team hopes to wrap up shooting by January 2026 and plans to release the movie in summer 2026.
+
+
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 2",
+        "error": "The sequel to the 2010 cult classic Awarapan",
+        "correction": "The sequel to the 2007 cult classic Awarapan",
+        "error_type": "Numerical/Temporal error; incorrect year (chronology)"
+    },
+    {
+        "location": "Paragraph 1, sentence 2",
+        "error": "will be directed by Mohit Suri",
+        "correction": "will be directed by Nitin Kakkar",
+        "error_type": "Named entity error; misattributed director (attribution error)"
+    },
+    {
+        "location": "Paragraph 1, sentence 2",
+        "error": "and is scheduled to begin shooting in January",
+        "correction": "and is expected to go on floors later this month or early October",
+        "error_type": "Temporal error; incorrect shooting schedule (timing/inferral mistake)"
+    },
+    {
+        "location": "Paragraph 1, sentence 3",
+        "error": "was a major commercial hit domestically and internationally",
+        "correction": "was a box office failure but has since gained a dedicated following",
+        "error_type": "Magnitude/Scale error; incorrect characterization of box office performance (wrong inference)"
+    },
+    {
+        "location": "Paragraph 2, sentence 3",
+        "error": "While Hashmi will play a new character, Rohit Malhotra,",
+        "correction": "While Hashmi will reprise his role as Shivam Pandit,",
+        "error_type": "Named entity / Relational error; wrong character name and role attribution"
+    }
+]

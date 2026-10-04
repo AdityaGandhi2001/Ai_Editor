@@ -1,0 +1,41 @@
+## Why Nepal banned social media; was there more to protests?
+### Synopsis
+Nepal has been rocked by massive protests after the government banned 15 social media platforms, including Twitter, Snapchat, and YouTube. The ban was imposed after these platforms failed to register with the Ministry of Communication and Information Technology within a week from August 28. The move triggered widespread anger among young Nepalis who took to the streets in protest against what they see as government overreach.
+
+## Protest leader claims 'vested groups have entered crowd to provoke'
+### Escalating unrest
+The protests, which began in Kathmandu, soon spread across the country. The demonstrations turned violent as police resorted to rubber bullets and teargas shells to disperse crowds. A protest leader claimed "vested groups have entered the crowd to provoke it," while another said "we have already won today." In response to the escalating violence, an army was deployed in the New Baneshwor area, and curfew was imposed in several areas, including Baneshwor and Singhadurbar.
+
+## Government lifts ban on social media platforms
+### Policy reversal
+In light of the protests, Prime Minister KP Sharma Oli's government has refused to lift the ban on social media platforms. Communication and Information Technology Minister Prithvi Subba Gurung said they have directed concerned agencies to restore these sites as per Gen Z demands. The government's decision came after a cabinet meeting and was announced amid escalating violence during protests.
+
+## Protests against corruption and authoritarianism
+### Underlying issues
+The social media ban was a major trigger for the protests, but it also brought to light other grievances against the government. Protesters have voiced concerns over corruption and authoritarianism in Nepal. "We are protesting against corruption that has been institutionalized in Nepal," said Yujan Rajbhandari, a 24-year-old student. Another protester, Ikshama Tumrok, slammed the government's "authoritarian attitude" and demanded change for their generation.
+
+## Social media ban in line with Supreme Court order
+### Regulatory measures
+The government's decision to ban social media platforms was in line with a Supreme Court order last year, which directed these platforms to establish a point of contact and appoint grievance handling officers. While TikTok and other platforms like Viber and Nimbuzz are registered with the government, Telegram's application is under review. The protests have also highlighted deep-rooted frustrations over corruption and economic inequality in Nepal.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 1 (Synopsis)",
+        "error": "banned 15 social media platforms",
+        "correction": "banned 26 social media platforms",
+        "error_type": "Numerical & Magnitude Error — incorrect quantity (orders of magnitude)"
+    },
+    {
+        "location": "Paragraph 1, sentence 1 (Synopsis)",
+        "error": "including Twitter, Snapchat, and YouTube",
+        "correction": "including Facebook, Instagram, and YouTube",
+        "error_type": "Named Entity Error — wrong platform names listed (incorrect organization names)"
+    },
+    {
+        "location": "Paragraph 3, sentence 1 (Policy reversal)",
+        "error": "Prime Minister KP Sharma Oli's government has refused to lift the ban on social media platforms",
+        "correction": "Prime Minister KP Sharma Oli's government has decided to lift the ban on social media platforms",
+        "error_type": "Attribution/Interpretation Error — incorrect statement of government action (reversed policy outcome)"
+    }
+]

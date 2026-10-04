@@ -1,0 +1,1 @@
+{"content": "{\n  \"edits\": [\n    {\n      \"hint\": 1,\n      \"original\": \"every Friday\",\n      \"corrected\": \"every Monday\"\n    },\n    {\n      \"hint\": 1,\n      \"original\": \"Every Friday, it uses AI\",\n      \"corrected\": \"Every Monday, it uses AI\"\n    }\n  ]\n}"}

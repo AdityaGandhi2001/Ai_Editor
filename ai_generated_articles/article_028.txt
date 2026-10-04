@@ -1,0 +1,39 @@
+## Akasa Air now lets you freeze fares before booking flights
+### Synopsis
+Akasa Air has unveiled a new feature called "Lock Your Fare," allowing passengers to freeze ticket prices for a certain period before booking. The service, which is available via the airline's website, app and select third-party travel agencies such as MakeMyTrip and Cleartrip, is being offered free of charge. It aims to give travelers more flexibility in planning their trips and avoiding sudden fare increases.
+
+## Domestic and international routes
+### Feature details
+For domestic flights, the fare-lock option can be used up to seven days before departure, with a maximum hold period of 30 days. On international routes, passengers can use this feature until 15 days prior to departure and hold the fare for up to a week. This way, Akasa Air is giving customers more time to finalize their travel plans without worrying about price hikes.
+
+## Customer-centric solutions
+### Company statement
+Akasa Air has emphasized that the launch of "Lock Your Fare" reflects its dedication to providing meaningful, customer-centric solutions. The company claims that "Lock Your Fare" guarantees customers the lowest market fares and will prevent any charges above the locked price. The new facility is especially useful for those planning holidays, business trips, or group travel that require coordination. By giving passengers more time before booking, Akasa is making air travel decisions less urgent and more flexible.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1 (Synopsis), sentence 2",
+        "error": "The service, which is available via the airline's website, app and select third-party travel agencies such as MakeMyTrip and Cleartrip",
+        "correction": "The service is available only on the airline's website and mobile app",
+        "error_type": "Named Entity / Relational error — incorrectly claims availability through third-party OTAs and removes stated exclusivity"
+    },
+    {
+        "location": "Paragraph 1 (Synopsis), sentence 2",
+        "error": "is being offered free of charge",
+        "correction": "comes at a nominal fee",
+        "error_type": "Pricing / Attribution error — wrongly states the feature is free when the company said it carries a small fee"
+    },
+    {
+        "location": "Paragraph 3 (Feature details), sentence 1",
+        "error": "with a maximum hold period of 30 days",
+        "correction": "with a maximum hold period of 15 days",
+        "error_type": "Numerical / Temporal error — incorrect duration (wrong maximum hold period for domestic fares)"
+    },
+    {
+        "location": "Paragraph 4 (Company statement), sentence 2",
+        "error": "The company claims that \"Lock Your Fare\" guarantees customers the lowest market fares and will prevent any charges above the locked price.",
+        "correction": "The company said the launch reflects its dedication to providing meaningful, customer-centric solutions and that the feature helps protect customers from sudden fare hikes; it did not guarantee the lowest market fares.",
+        "error_type": "Inference / Overclaim — misrepresents the company's statement by attributing an absolute guarantee that was not made"
+    }
+]

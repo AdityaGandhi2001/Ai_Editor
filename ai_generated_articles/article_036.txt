@@ -1,0 +1,31 @@
+## Rashid Khan becomes joint second-highest wicket-taker in T20 Asia Cup
+### Synopsis
+Star wrist-spinner Rashid Khan led Afghanistan from the front against Hong Kong in the 2025 T20 Asia Cup opener at Sheikh Zayed Stadium, Abu Dhabi. Rashid took a wicket, helping Afghanistan restrict Hong Kong, who were chasing 189, to 94/9. With this, the leg-spinner became the joint second-highest wicket-taker in the 20-over format Asia Cup. Here are the key stats.
+
+## Solitary wicket for Rashid
+### Spell
+Rashid, who introduced himself in the seventh over, bowled a tight first over. Hong Kong had lost four wickets by then. He was miser in the next two overs but could not produce a breakthrough. Rashid's final over, the innings's 17th, finally gave him his only wicket. He dismissed Aizaz Khan as Mohammad Nabi took a terrific catch in the outfield. Rashid returned 4-0-24-1.
+
+## Rashid joins Amjad Javed
+### Record
+As mentioned, Rashid became the joint second-highest wicket-taker in T20 Asia Cup history, joining UAE's Amjad Javed (15). In nine games, the Afghan spinner has raced to 12 wickets at an average of 18.83. His economy rate reads 6.45. Rashid and Javed are only behind India's Bhuvneshwar Kumar, who tops the T20 Asia Cup wicket tally (13).
+
+## Most wickets in T20 cricket
+### Career
+Rashid is coming off a successful UAE T20I Tri-Series. Although Afghanistan lost the final to Pakistan, Rashid finished as the second-highest wicket-taker. Rashid recently surpassed Sri Lanka's Lasith Malinga to become the highest wicket-taker in ODI cricket. Bowling 385.2 overs, the star spinner has taken 171 wickets at an incredible average of 13.80. He is also the highest wicket-taker in T20 cricket overall (669).
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 9, sentence 1",
+        "error": "joining UAE's Amjad Javed (15)",
+        "correction": "joining UAE's Amjad Javed (12)",
+        "error_type": "Numerical error — incorrect statistic (wrong wicket tally for Amjad Javed)"
+    },
+    {
+        "location": "paragraph 12, sentence 1",
+        "error": "Rashid recently surpassed Sri Lanka's Lasith Malinga to become the highest wicket-taker in ODI cricket.",
+        "correction": "Rashid recently surpassed New Zealand's Tim Southee to become the highest wicket-taker in T20I cricket.",
+        "error_type": "Named entity and categorical error — wrong player attribution and wrong format (ODI vs T20I)"
+    }
+]

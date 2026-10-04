@@ -1,0 +1,61 @@
+Source Article(s):
+
+# Rimac unveils new solid state battery and EV powertrains
+
+Published Date: Monday September 08, 2025
+
+Rimac Technology used IAA Mobility in Munich to launch new products, including a new battery pack platform based on solid-state battery cells.
+
+The company, better known for its electric supercars, is trying to position itself as a tier 1 automotive industry supplier with a new product lineup.
+
+Rimac made its name with electric supercars like the Nevara, but the company has also long been developing as an EV supplier with prestigious clients, such as Koenigsegg and Aston Martin.
+
+In 2021, following an investment by Porsche and a merger with Bugatti, Rimac became a more significant supplier and development partner for OEMs seeking high-performance electric powertrains.
+
+At IAA in Munich this week, the Croatian company has unveil its latest products.
+
+## Rimac’s latest EV products:
+
+* **Solid-state battery platform** : integrates ProLogium cells and Mitsubishi Chemical Group materials; pitched as lighter, safer, and more energy-dense than today’s packs.
+* **E-axle power density** : **> 8 kW/kg** and **> 90 Nm/kg** on new “SINTEG 300 & 550” single-motor integrated axles; rotor speeds up to 25,000 rpm. Output envelopes from 150–360 kW and 2,500–6,250 Nm target everything from hot hatches to SUVs.
+* **High-torque XXL axle** : dual-motor EDU 550 enters series production in 2026 for a global OEM; validated >95% peak efficiency and >11,000 Nm axle torque.
+* **Electronics** : domain/zonal ECUs built on NXP S32E2 real-time processors for torque vectoring, HV battery control, body and power distribution, and OTA.
+* **Scale** : two Croatian sites totaling ~95,000 m² anchored by a €200M campus; Rimac says it is building capacity for tens of thousands of units per month. Prior 12-month collaboration list includes BMW Group, CEER Motors, and Porsche.
+
+## Rimac goes solid state
+
+Solid-state batteries have been touted as the next-generation battery technology for a while now, and it appears they are finally becoming a reality.
+
+There are bout half a dozen electric automakers who plan to bring the techonology, which could allow for more extended range, faster charging, and longer lasting EVs, into production electric vehicles before the end of the decade.
+
+Rimac wants to help more get on board with its “Next-Gen” pack, which combines ProLogium’s solid-state cells with Mitsubishi Chemical Group materials and innovative housing approaches to enhance energy density and safety while reducing mass.
+
+Alongside that, an “Evo” line based on 46XX Gen2 NMC cells and a thermoplastic composite housing co-developed with Kautex Textron aims at near-term programs, and a “Hybrid” line (high-energy 46XX cell format or power-dense 2170, both cell-to-pack) targets modularity across segments.
+
+Details like exact Wh/kg or C-rates aren’t published yet, but the segmentation signals which tech is ready now versus what’s on the horizon.
+
+## Rimac’s new drive units
+
+On top of the new batteries, Rimac also brought a new range of drive units to IAA.
+
+The SINTEG 300 & 550 e-axles are compact, fully integrated units with a patented ultra-light rotor and a novel magnet layout. Rimac’s headline metrics—>8 kW/kg power density, >90 Nm/kg torque density, and up to 25,000 rpm—are the kind of numbers that translate to smaller, lighter drivetrains without giving up punch.
+
+Configurable coaxial or offset variants cover 150–360 kW power range and 2,500–6,250 Nm to fit everything from performance hatchbacks to sedans and SUVs.
+
+For heavier hitters, the dual-motor XXL axle is validated above 11,000 Nm axle torque and >95% peak efficiency, with series production slated for 2026.
+
+## Electrek’s Take
+
+## Top comment by European Bob
+
+Liked by 9 people
+
+Press releases suggest 380wh/kg at the cell level, which is around 50% more than the Tesla cell at 240wh/kg. Of course we know how long Tesla cells last, how they charge and the rough price, it will be interesting to see how the Rimac cells perform when they eventually leave a production line.
+
+View all comments
+
+It’s interesting to see Rimac throw its hat in the solid state battery ring, but without public energy-density/charge-rate numbers or a customer SOP date, it’s still just roadmap item.
+
+However, I’m growing increasingly confident that we are going to start seeing solid -state batteries in production EV soon and if that’s the case, it makes sense to start with more expensive, performance vehicle.
+
+Rimac operates in this segment. It makes sense for them to help automakers adopt the technology.

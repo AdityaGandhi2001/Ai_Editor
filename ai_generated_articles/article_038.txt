@@ -1,0 +1,37 @@
+## Nepal PM Oli resigns amid violent anti-corruption protests
+### Synopsis
+Nepal's Prime Minister KP Sharma Oli has resigned amid violent anti-corruption protests, which have left at least 29 people dead. The unrest was sparked by a social media ban and demands to end corruption and misgovernance. The protests, led by the country's Gen Z youth, continued for two days despite curfews imposed in several districts of the Kathmandu Valley.
+
+## Protests escalate, airport partially shut down
+### Escalating unrest
+The protests intensified on Tuesday as demonstrators vandalized the private residence of President Bidhya Devi Bhandari in Thamel, Kathmandu. The protesters also attempted to storm the homes of former Prime Ministers Sher Bahadur Deuba and Pushpa Kamal Dahal. In response to the escalating violence, Tribhuvan International Airport was partially shut down, and a curfew was imposed in Itahari Sub-Metropolitan City after protesters set fire to the Mayor's office.
+
+## Social media ban lifted
+### Global reaction
+The Nepali government lifted the social media ban on Monday evening after protests intensified. Prime Minister Oli had earlier defended the ban, saying it was imposed due to the non-registration of platforms under Nepal's law. The United Nations and several foreign missions in Nepal have expressed concern over the violence and called for a transparent investigation into the deaths during protests.
+
+## Political fallout from protests
+### Political impact
+The protests have also led to political fallout, with Home Minister Ramesh Lekhak resigning on Monday, citing "moral grounds" after the deaths. At an internal meeting on September 8, 2025, the Nepali Congress considered withdrawing from the government, but has not made a formal decision. Public sentiment remains tense as demonstrators demand accountability for the violence and an end to corruption.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 1 in paragraph 3 (Synopsis paragraph)",
+        "error": "at least 29 people dead",
+        "correction": "at least 19 people dead",
+        "error_type": "Numerical/magnitude error — incorrect casualty figure"
+    },
+    {
+        "location": "sentence 1 in paragraph 6 (Escalating unrest paragraph)",
+        "error": "President Bidhya Devi Bhandari",
+        "correction": "President Ramchandra Paudel",
+        "error_type": "Named entity error — wrong person/title attributed"
+    },
+    {
+        "location": "sentence 1 in paragraph 6 (Escalating unrest paragraph)",
+        "error": "Thamel, Kathmandu",
+        "correction": "Bohratar, Kathmandu",
+        "error_type": "Geographic/location error — incorrect neighborhood/place"
+    }
+]

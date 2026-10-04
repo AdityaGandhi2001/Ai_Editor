@@ -1,0 +1,1 @@
+{"content": "{\n  \"edits\": [\n    {\n      \"hint\": 1,\n      \"original\": \"he not only accepted the offer and joined as a contestant\",\n      \"corrected\": \"he declined the offer and did not join as a contestant\"\n    },\n    {\n      \"hint\": 2,\n      \"original\": \" but was reportedly paid more than Khan\",\n      \"corrected\": \"\"\n    }\n  ]\n}"}

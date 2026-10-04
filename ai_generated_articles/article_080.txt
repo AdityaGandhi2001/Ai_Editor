@@ -1,0 +1,49 @@
+## Asia Cup: Sediqullah Atal continues sublime run with third half-century
+### Synopsis
+Afghanistan posted a competitive total of 188/6 against Hong Kong in the 2024 T20 Asia Cup opener at Dubai International Stadium, Dubai. An impressive half-century from Sediqullah Atal and Azmatullah Omarzai's blazing knock bolstered Afghanistan after they elected to bat. Atal remained unbeaten on 75 off 50 balls, while Omarzai scored a quickfire 53 off just 21 deliveries. The former now has three half-centuries in his last four T20Is.
+
+## Atal, Omarzai's counter-attacking knocks prop up Afghanistan
+### Match dynamics
+Afghanistan's innings started on a shaky note, with the top order struggling against Hong Kong's pacers. They were down to 26/2 in the Powerplay. However, Atal adapted well to the pitch, playing cautiously at first before unleashing his aggressive strokes. Atal took Afghanistan past 70 with Mohammad Nabi, but HK choked Afghanistan with two quick wickets. Atal and Omarzai rescued the Afghans from 95/4 and accelerated at the death. The former slammed 6 fours and 3 sixes.
+
+## Late surge from batters lifts Afghanistan
+### Final push
+The last few overs saw a late surge from Afghanistan, with Atal and Omarzai going after the Hong Kong seamers. Both the 17th and 19th overs produced 24-plus runs. The Afghan duo stitched an 82-run stand for the fifth wicket, taking Afghanistan to a strong 188/6. As per Cricbuzz, Omarzai and Atal now have the highest stand for the fifth wicket or lower in the Men's T20 Asia Cup.
+
+## Four T20I half-centuries for Atal
+### Stats
+As mentioned, all four of Atal's T20I half-centuries have come in his last five games. He previously scored 54 against UAE and 64 against Pakistan during the T20I Tri-Series. In 14 T20Is, Atal has raced to 323 runs at an average of 24.84. His strike rate of 114.94 requires massive improvement. Overall, the Afghan batter got past 3,150 T20 runs.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "2024 T20 Asia Cup opener",
+        "correction": "2025 T20 Asia Cup opener",
+        "error_type": "Temporal error — wrong year"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "Dubai International Stadium, Dubai",
+        "correction": "Sheikh Zayed Stadium, Abu Dhabi",
+        "error_type": "Named entity / location error — wrong venue"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 3",
+        "error": "Atal remained unbeaten on 75 off 50 balls",
+        "correction": "Atal remained unbeaten on 73 not out off 52 balls",
+        "error_type": "Numerical/statistical error — incorrect individual score and balls faced"
+    },
+    {
+        "location": "Fourth section header and first sentence (\"Four T20I half-centuries for Atal\", \"As mentioned, all four of Atal's T20I half-centuries have come in his last five games.\")",
+        "error": "all four of Atal's T20I half-centuries have come in his last five games",
+        "correction": "all three of Atal's T20I half-centuries have come in his last four T20Is",
+        "error_type": "Numerical & temporal inference error — wrong count and timeframe of half-centuries"
+    },
+    {
+        "location": "Fourth section, final sentence of stats paragraph",
+        "error": "Overall, the Afghan batter got past 3,150 T20 runs.",
+        "correction": "Overall, the Afghan batter got past 2,150 T20 runs.",
+        "error_type": "Magnitude/scale error — inflated career runs total"
+    }
+]

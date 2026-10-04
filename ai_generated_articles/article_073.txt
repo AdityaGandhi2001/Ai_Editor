@@ -1,0 +1,31 @@
+## Amazon Music now creates personalized playlists for you every Friday
+### Synopsis
+Amazon Music has launched a new feature, "Weekly Vibe," to enhance user experience. The innovative tool is being rolled out today for all UK customers, regardless of their subscription tier. It will be available on both iOS and Android devices. The move comes as part of Amazon Music's strategy to take on Spotify's successful AI DJ feature with its own AI-driven capabilities like playlist generation and search assistance.
+
+## AI-generated playlists based on recent listening habits
+### User benefit
+The "Weekly Vibe" feature is aimed at solving a common problem faced by frequent music streamers - getting bored with the same songs after long hours of listening. Every Friday, it uses AI to create personalized playlists for users based on their recent listening habits. The playlists take into account the user's changing "musical moods" and interests, Amazon Music said in a statement.
+
+## How to access your personalized 'Weekly Vibe' playlist
+### User guide
+To access the "Weekly Vibe" playlist, users need to go to the "Library" at the bottom of their screen and select "Made for You." This will take them to this week's playlist, which comes with a unique title, description, and curated songs. Each week's playlist is based on a particular theme or genre like hip-hop tracks or pop hits.
+
+## Extension of 'Maestro' playlist generator
+### Feature evolution
+The "Weekly Vibe" feature is an extension of Amazon Music's "Maestro" playlist generator, which was launched in beta last year. With Maestro, users could input prompts such as their mood or random emojis and the AI would generate personalized playlists accordingly. The new feature takes this a step further by automatically curating weekly playlists based on listening habits.
+
+**Error Annotations:**
+[
+    {
+        "location": "Title (top line) and 'AI-generated playlists' section, paragraph 2 sentence 1",
+        "error": "\"every Friday\" / \"Every Friday, it uses AI\"",
+        "correction": "\"every Monday\" / \"Every Monday, it uses AI\"",
+        "error_type": "Temporal error — incorrect day of week (changes timing of the weekly playlist generation)"
+    },
+    {
+        "location": "Synopsis, paragraph 1 sentence 2",
+        "error": "\"being rolled out today for all UK customers\"",
+        "correction": "\"being rolled out today for all U.S. customers\"",
+        "error_type": "Named entity / geographic error — incorrect country for the rollout (UK vs U.S.)"
+    }
+]

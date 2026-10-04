@@ -1,0 +1,25 @@
+## Asia Cup 2025: Key details of the prize money
+### Synopsis
+The Asia Cup 2025, a key tournament in the cricketing calendar, is set to start on September 9. The inaugural match will be between Afghanistan and Hong Kong at Abu Dhabi. Defending champions India will begin their campaign on September 10 against hosts United Arab Emirates (UAE) at Dubai International Cricket Stadium. The tournament will conclude on September 28 with the final match. Here we look at the prize money for the illustrious competition.
+
+## Tournament format and groups
+### Tournament structure
+Asia Cup 2025 will be played in the T20 format, serving as a precursor to the ICC Men's T20 World Cup next year in India and Sri Lanka. The tournament will feature eight teams divided into two groups. India, Pakistan, UAE, and Oman form one group while Sri Lanka, Afghanistan, Bangladesh, and Hong Kong make up the other.
+
+## Prize money for Asia Cup 2025
+### Financial rewards
+The prize pool for Asia Cup 2025 has been increased from the previous edition. Reports suggest that the winners will get $3,000,000 (approximately ₹26 crore), while the runners-up will receive $150,000. However, an official confirmation from the Asian Cricket Council (ACC) is still awaited on these figures.
+
+## Team India to play under Suryakumar Yadav
+### Team lineup
+Under the captaincy of Suryakumar Yadav, India will look to defend their title in Asia Cup 2025. The team is without stalwarts Virat Kohli and Rohit Sharma but still remains a strong contender. After their opening match against UAE on September 10, India will take on arch-rivals Pakistan on September 14 in Dubai. Their final group stage match will be against Oman on September 19 in Abu Dhabi.
+
+**Error Annotations:**
+[
+    {
+        "location": "First sentence of the 'Prize money for Asia Cup 2025' paragraph",
+        "error": "Reports suggest that the winners will get $3,000,000 (approximately ₹26 crore)",
+        "correction": "Reports suggest that the winners will get $300,000 (approximately ₹2.6 crore)",
+        "error_type": "Magnitude & Scale Error — incorrect prize amount and incorrect INR conversion (order-of-magnitude inflation)"
+    }
+]

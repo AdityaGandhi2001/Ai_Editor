@@ -1,0 +1,21 @@
+## Video: Congress MP carried on villager's back during flood inspection
+### Synopsis
+A video of villagers carrying Katihar MP Tariq Mahmood on a villager's back during a flood inspection in Bihar has gone viral. The incident took place during Anwar's two-day visit to his constituency, where he inspected waterlogged areas in the Shivnagar-Sonakhal region of Dhuryahi panchayat. Local officials said Anwar was unwell and couldn't walk through the flooded areas, leading villagers to carry him.
+
+## Anwar was unwell during inspection, says Congress leader
+### Health concerns
+"During the inspection, our truck got stuck in the mud... It was extremely hot and Mr. Anwar was feeling unwell; his head was spinning," Katihar District Congress President Sunil Yadav said. Villagers carried him out of love and concern for their leader, Yadav added. After the inspection, Anwar shared pictures and videos from the visit on social media platform X and appealed to the government for prompt relief and concrete solutions.
+
+## Anwar appeals for prompt relief, concrete solutions
+### Relief plea
+However, he has turned off the comment section after the video went viral. Reacting to the video, BJP leader Shehzad Poonawalla asked if Anwar needed a "VVIP protocol" even in flood-affected areas "Sense of entitlement of Congress. Even in flood-affected areas, do they want VVIP protocol? Kharge ji insults farmers. Congress MP Tariq Anwar mocks flood relief - sits on the shoulders of people while 'touring' flood-affected areas. Only PM Modi is in work mode," he wrote on X.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1 (Synopsis)",
+        "error": "Katihar MP Tariq Mahmood",
+        "correction": "Katihar MP Tariq Anwar",
+        "error_type": "Named Entity Error — Incorrect personal name (wrong last name for the MP)"
+    }
+]

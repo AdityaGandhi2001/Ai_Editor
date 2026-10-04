@@ -1,0 +1,25 @@
+## Decoding Jasprit Bumrah's stellar T20I stats in Asia
+### Synopsis
+Team India will kick-start its campaign in the Asia Cup with a clash against hosts UAE at Dubai International Cricket Stadium on September 10. This tournament is being played in the T20 format this year, owing to its proximity to the T20 World Cup 2026. Meanwhile, Jasprit Bumrah will lead India's pace attack in the tourney. Here we decode his stellar T20I stats in Asia.
+
+## 52 T20I wickets in Asia
+### Stats
+As per ESPNcricinfo, Bumrah has returned with 52 wickets across 40 T20Is in Asia. His average of 20.80 is the fifth-best among full-member team pacers with at least 40 wickets in the continent. While Bumrah's T20I economy rate in Asia is 6.41, his compatriot Bhuvneshwar Kumar is the only other pacer to take 40-plus scalps in Asia at a sub-seven economy (6.98).
+
+## 34 wickets in victories
+### More feats
+34 of Bumrah's 42 T20I wickets in Asia have come in won games. The pacer's average further reduces down to 18.73 in this regard. Only four times across 39 innings has Bumrah conceded 33 or more runs in a T20I in Asia. Bumrah owns 28 T20I wickets in India as his average in this regard is 23.10. In UAE, he owns seven scalps from five games at 13.57. His economy in the country is 5.08.
+
+## 89 wickets in T20Is for Bumrah
+### Overall stats
+Bumrah, who made his T20I debut in 2016, owns 89 wickets from 70 T20Is for India at an incredible average of 17.74. He owns an economy rate of 6.27. In 2024, Bumrah helped India win the ICC T20 World Cup. He was adjudged the Player of the Tournament. The star pacer has not played a white-ball game for India since that event.
+
+**Error Annotations:**
+[
+    {
+        "location": "Heading '## 52 T20I wickets in Asia' and the first sentence of the 'Stats' paragraph immediately under it",
+        "error": "Text states '52 wickets across 40 T20Is in Asia' (and heading '52 T20I wickets in Asia')",
+        "correction": "Should read '42 wickets across 40 T20Is in Asia' and heading '42 T20I wickets in Asia'",
+        "error_type": "Numerical error — incorrect statistic (wrong wicket count)"
+    }
+]

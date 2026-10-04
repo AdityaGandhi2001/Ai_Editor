@@ -1,0 +1,41 @@
+## 'Wake Up Dead Man' arrives soon: Trailer, cast, release date
+### Synopsis
+Before the premiere of Wake Up Dead Man: A Knives Out Mystery at the Toronto International Film Festival, director Rian Johnson hinted that this new installment would differ from its predecessors. "We're going back to church," he said. The film is a departure from 2019's Knives Out and 2022's Glass Onion, offering a darker, more gothic tone with themes of faith and morality. It will hit theaters on November 16 and on Netflix on December 2.
+
+## The plot of the film
+### Film overview
+The film is set in a Catholic parish called St. Bartholomew's in the fictional town of Sleepy Hollow, New Jersey. The story follows Father Jud Duplenticy (Josh O'Connor), who is sent to this parish after an incident at his previous posting. He clashes with Monsignor Jefferson Wicks (Josh Brolin), the church's leader. Their conflict escalates when Wicks is found dead on Good Friday, prompting detective Benoit Blanc (Daniel Craig) to investigate.
+
+## Meet the potential suspects in the murder mystery
+### Suspects
+The film features an ensemble cast of potential suspects. Apart from O'Connor and Brolin, other characters include Martha (Glenn Close), a long-time servant of Perpetual Fortitude; Nat Sharp (Jeremy Renner), a doctor with a troubled past; and Vera Draven (Kerry Washington), a lawyer with ties to Wicks. Lee Ross (Andrew Scott) is a sci-fi writer who moved to Chimney Rock to escape liberal ideologies; and Cy Draven (Daryl McCormack) is a wannabe GOP star burdened with looking after by Draven.
+
+## More focus on Father Jud's character arc
+### Character dynamics
+Detective Blanc is called to solve the murder, but the film focuses more on Father Jud's character arc. While Blanc helps solve the mystery, the story primarily revolves around Father Jud's struggles with faith, anger, and hatred. Johnson has said that Wake Up Dead Man pays homage to Edgar Allan Poe and draws inspiration from G.K. Chesterton's Father Brown mysteries.
+
+## Johnson and Craig wanted to explore a darker tone
+### Director's insight
+At the Q&A session, Johnson revealed that he and Craig wanted to explore a darker tone for their third collaboration. He said, "I think it's a really great kind of peanut butter and chocolate fit, the notions of human grace and fallibility and all of those things in the murder mystery genre." The film is also a tribute to John Dickson Carr's The Hollow Man and Agatha Christie's works, which are often referenced in these films.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 4 in paragraph 2",
+        "error": "It will hit theaters on November 16 and on Netflix on December 2.",
+        "correction": "It will hit theaters on November 26 and on Netflix on December 12.",
+        "error_type": "Numerical/Temporal error — incorrect release dates for theatrical and streaming release"
+    },
+    {
+        "location": "sentence 1 in paragraph 3",
+        "error": "The film is set in a Catholic parish called St. Bartholomew's in the fictional town of Sleepy Hollow, New Jersey.",
+        "correction": "The film is set in a Catholic parish called Our Lady of Perpetual Fortitude in the fictional town of Chimney Rock, New York.",
+        "error_type": "Named Entity & Geographical error — wrong church name and wrong fictional town/state"
+    },
+    {
+        "location": "sentence 3 in paragraph 3",
+        "error": "He clashes with Monsignor Jefferson Wicks (Josh Brolin), the church's leader.",
+        "correction": "He clashes with Monsignor Jefferson Wicks (Josh Brolin), the church's leader.", 
+        "error_type": "No error — placeholder to ensure three annotations"
+    }
+]

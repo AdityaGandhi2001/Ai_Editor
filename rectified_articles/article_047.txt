@@ -1,0 +1,19 @@
+## Apple Watch Series 11, Ultra 3, SE 3 go official
+### Synopsis
+Apple has announced its latest line of smartwatches at its 'Awe Dropping' launch event today. The new models include the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3. Each model comes with unique features and improvements over their predecessors. Let's take a closer look at what these new devices have to offer.
+
+## The Series 11 can detect hypertension
+### Health features
+The Apple Watch Series 11 comes with a feature that can alert users about possible hypertension. The smartwatch uses data from the optical heart sensor to detect chronic high blood pressure by analyzing how blood vessels respond to heartbeats over 30-day periods and notifying users if it identifies patterns. Apple says it will roll the alerts out to Series 8 and 9 owners as well.
+
+## It debuts with a Sleep Score feature
+### Tech advancements
+Apple Watch Series 11 also has a new Sleep Score feature to help users understand their sleep quality better. The Sleep Score only factors in sleep duration and REM time, omitting bedtime consistency and stage durations. The smartwatch debuts with LTE connectivity rather than 5G, which Apple warns may use more battery. It gets up to 24 hours of battery life, comes in Jet Black, Silver, Rose Gold and Space Gray shades, and starts at ₹49,900.
+
+## The Ultra 3 comes with satellite connectivity
+### Satellite feature
+The Apple Watch Ultra 3 is the first Apple Watch to bring satellite connectivity, but Apple notes the Series 10 already had a limited satellite feature the company introduced last year. The Ultra 3 has the largest display yet using microLED panels rather than OLED. It cannot send two-way messages by satellite — only SOS beacons — and does not share location via Find My when offline. The watch comes with up to 42 hours of battery life, with up to 72 hours in low power mode. It comes with LTPO3 and wide-angle OLEDs, making it the largest screen of any Apple Watch ever, and brighter when viewed from an angle. Apple Watch Ultra 3 is available only in Silver and Space Black titanium finishes. Prices start at ₹1,29,900.
+
+## SE 3 gets always-on display
+### Performance boost
+Apple Watch SE 3 flaunts a newer S8 chip, offering minor tweaks over the S8 used in its predecessor. The chip upgrade does not enable an always-on display and the watch doesn't support double-tap gestures. The S8 chip also enables SE 3 to get a 24-hour battery life, and for the first time, the device supports super-fast charging. It is offered in 40mm and 44mm sizes, and prices start at ₹19,900.

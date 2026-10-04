@@ -1,0 +1,1 @@
+{"content": "{\n  \"edits\": [\n    {\n      \"hint\": 1,\n      \"original\": \"upcoming trade mission to Canada\",\n      \"corrected\": \"upcoming state visit to the UK\"\n    },\n    {\n      \"hint\": 2,\n      \"original\": \"second-largest\",\n      \"corrected\": \"leading\"\n    }\n  ]\n}"}

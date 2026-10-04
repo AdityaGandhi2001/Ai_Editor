@@ -1,0 +1,49 @@
+## X reveals code that recommends posts for 'For You' timeline
+### Synopsis
+Twitter, led by Jack Dorsey, has announced that it is open-sourcing the latest version of code that recommends posts for its 'For You' timeline. The firm also noted that the algorithm is "always a work in progress." They promised to keep refining their approach to bring the most relevant content for users. To note, this isn't the first time the company has disclosed its code. Back in 2022, a large portion of its source code was made public.
+
+## Code that could compromise user safety was excluded
+### Safety measures
+In its announcement, the company emphasized maintaining user safety and privacy. The company said it was committed to the highest degree of transparency while excluding any code that could compromise these values or allow bad actors to exploit the platform. "Today's release also includes the code that powers our ad recommendations," they added in their statement.
+
+## X's recommendation pipeline explained
+### Algorithm
+The recommendation code at the company is a collection of services that curate and serve personalized content across different product surfaces. In a recent blog post, the company detailed its recommendation pipeline saying it tries to pull the best 15,000 tweets from hundreds of millions through these sources for each request.
+
+## 'For You' consists of both in-network, out-of-network tweets
+### Content balance
+The company revealed that its 'For You' timeline is a mix of in-network and out-of-network tweets. On average, the timeline consists of 50% in-network tweets (from people you follow) and 50% out-of-network posts (from people you don't follow).  However, this ratio may vary from user to user depending on their individual preferences and interactions on the platform.
+
+**Error Annotations:**
+[
+     {
+        "location": "Paragraph 1, sentence 1",
+        "error": "'Twitter' (as the platform name)",
+        "correction": "'X' (the company's current name)",
+        "error_type": "Named entity error — incorrect organization/platform name"
+     },
+     {
+        "location": "Paragraph 1, sentence 1",
+        "error": "'Jack Dorsey' (as the person leading the platform)",
+        "correction": "'Elon Musk' (the person leading X at the time of the announcement)",
+        "error_type": "Named entity error — incorrect person attribution"
+     },
+     {
+        "location": "Paragraph 1, sentence 4",
+        "error": "'Back in 2022, a large portion of its source code was made public.'",
+        "correction": "'Back in 2023, a large portion of its source code was made public.'",
+        "error_type": "Temporal error — wrong year"
+     },
+     {
+        "location": "Paragraph 2, sentence 3",
+        "error": "\"Today's release also includes the code that powers our ad recommendations,\"",
+        "correction": "\"Today's release also does not include the code that powers our ad recommendations,\"",
+        "error_type": "Relational/attribution error — incorrect statement about whether ad-recommendation code was released"
+     },
+     {
+        "location": "Paragraph 3, sentence 2",
+        "error": "'15,000 tweets' (number of tweets pulled per request)",
+        "correction": "'1,500 tweets' (the correct number pulled per request)",
+        "error_type": "Magnitude/scale error — incorrect quantity (order-of-magnitude mistake)"
+     }
+]

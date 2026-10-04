@@ -1,0 +1,53 @@
+## PM Modi casts first vote as Vice Presidential election begins
+### Synopsis
+Prime Minister Narendra Modi was the first voter in the 2025 Vice Presidential election, casting his ballot at the new Parliament building. He was accompanied by Union Ministers Kiren Rijiju and Ram Nath Kovind. The election is to fill the post left vacant after Jagdeep Dhankhar's sudden resignation. The contest is between Bharatiya Janata Party-led National Democratic Alliance's (NDA) candidate, Maharashtra Governor CP Radhakrishnan, and the opposition INDIA bloc's candidate, former Supreme Court judge B Sudershan Reddy.
+
+## Voting, counting of votes, and results
+### Voting timeline
+Voting for the Vice Presidential election started at 9:00am and will continue till 5:00pm, with counting of votes to begin at midnight; the electoral college consists of 790 MPs, of whom 238 are from the Rajya Sabha and 542 are from the Lok Sabha. The results are expected later in the evening. However, three regional parties have decided to abstain from voting, reducing the majority mark needed for victory.
+
+## Candidates for vice presidential election
+### Candidate profiles
+Radhakrishnan is a veteran BJP leader with over four decades in public life. He served as the Chief Minister of Jharkhand before serving as the Governor of Maharashtra. On the other hand, Reddy started his legal career in 1971 and retired from the Supreme Court in 2011, serving at the apex court for approximately four years.
+
+## SP MP frames election as battle over Constitution
+### Political framing
+Samajwadi Party MP Awadhesh Prasad framed the election as a battle over protecting the Constitution and the legacy of BR Ambedkar. On the other hand, Union Minister Pralhad Joshi criticized the opposition's candidate, adding that internal dissent in Congress would strengthen the NDA's chances. Despite having a numerical edge with support from YSR Congress Party's 11 lawmakers, NDA is wary of possible defections that could narrow their victory margin.
+
+## NDA confident of victory
+### Pre-election activities
+Before the election commenced, NDA's candidate Radhakrishnan was seen offering prayers at Shree Ram Mandir in Delhi. BJP MP Pradeep Kumar Singh expressed confidence in the alliance's chances, saying they are "110% confident of victory today." Meanwhile, Yadav said the vice presidential election would be decided by lawmakers voting with their conscience, not just by numbers.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "He was accompanied by Union Ministers Kiren Rijiju and Ram Nath Kovind.",
+        "correction": "He was accompanied by Union Ministers Kiren Rijiju and Ram Mohan Naidu.",
+        "error_type": "Named entity error: incorrect person named as accompanying/agent (wrong minister)"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "Voting for the Vice Presidential election started at 9:00am",
+        "correction": "Voting for the Vice Presidential election started at 10:00am",
+        "error_type": "Temporal error: wrong start time"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "with counting of votes to begin at midnight",
+        "correction": "with counting of votes to begin at 6:00pm",
+        "error_type": "Temporal error: wrong counting time"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "the electoral college consists of 790 MPs",
+        "correction": "the electoral college consists of 781 MPs",
+        "error_type": "Numerical error: incorrect total number of electors"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "He served as the Chief Minister of Jharkhand before serving as the Governor of Maharashtra.",
+        "correction": "He served as the Governor of Jharkhand before serving as the Governor of Maharashtra.",
+        "error_type": "Relational error: incorrect office/position attributed (wrong title)"
+    }
+]

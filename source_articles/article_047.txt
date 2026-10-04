@@ -1,0 +1,63 @@
+Source Article(s):
+
+# Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3
+
+Published Date: Tuesday September 09, 2025
+
+Apple on Tuesday unveiled three new Apple Watch configurations at its annual hardware event: the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3.
+
+## Apple Watch Series 11
+
+The Apple Watch Series 11 can alert you to possible hypertension. It uses data from the optical heart sensor and looks for chronic high blood pressure by analyzing how your blood vessels respond to the heart’s beats. The algorithm works in the background, reviewing data over 30-day periods and will notify you if it identifies patterns of hypertension.
+
+Apple says it plans to notify over 1 million people with undiagnosed hypertension in the first year alone. In addition to the Series 11, hypertension alerts will also be available on the Series 9 and 10.
+
+The Apple Watch Series 11 can also help you understand the quality of your sleep and how to make it more restorative. The new Sleep Score feature factors in such things as sleep duration, bed time, consistency, how often you wake up, and the time spent in each sleep stage.
+
+It also debuts with 5G connectivity, bringing an improvement over the existing LTE connectivity options. It uses less battery and provides even more coverage.
+
+Apple Watch Series 11 now gets up to 24 hours of battery life and comes in Jet Black, Silver, Rose Gold, and a new Space Gray. It starts at $399.
+
+## Apple Watch Ultra 3
+
+The Apple Watch Ultra 3 is launching with a larger screen and satellite connectivity. As with the Series 11, it’s also getting 5G connectivity and hypertension notifications.
+
+The Apple Watch Ultra 3 is the first Apple Watch with satellite connectivity, allowing you to tap into Apple’s satellite feature for emergency communications in remote areas. You can also send messages and share your location with Find My to enable satellite connectivity.
+
+Satellite connectivity can be used when a cellular signal or Wi-Fi is not available; it lets people do things like contact emergency services and send a text by satellite.
+
+The watch comes with up to 42 hours of battery life, with up to 72 hours in low power mode.
+
+It comes with LTPO3 and wide-angle OLEDs, making it the largest screen of any Apple Watch ever, and brighter when viewed from an angle. TPO3 is a high-performance, low-power display technology that enables the display borders to be 24% thinner, Apple notes.
+
+Apple Watch Ultra 3 is available in Black and Natural Titanium. Prices start at $799.
+
+## Apple Watch SE 3
+
+The Apple Watch SE 3 is launching with a newer display and a faster chip, the S10, which allows for a huge improvement over the S8 chip used in the Apple Watch SE 2.
+
+The chip upgrade allows for always-on display for the first time. It also supports gestures like double-tap and wrist flick.
+
+The S10 chip also enables SE 3 to get all-day 18-hour battery life, and for the first time, the SE supports fast charging. The SE 3 comes with wrist temperature sensing, which enables retrospective ovulation estimates and gives you richer insights in the vitals app.
+
+Apple Watch SE starts at $249. It is available in 40 mm and 44 mm sizes and comes in Midnight and Starlight aluminum cases.
+
+# Apple Watch Ultra 3, SE 3, and Series 11 launch with sleep score, and hypertension alerts: Price, specs
+
+Published Date: Tuesday September 09, 2025
+
+Apple has launched the Apple Watch Ultra 3, Apple Watch SE 3, and Apple Watch Series 11 at its “Awe Dropping” Event on Wednesday. The new lineup focuses on upgrades in health, fitness, safety, and connectivity, with availability beginning September 19 in more than 50 regions worldwide, including the US, India, the UK, Japan, the EU and the UAE.
+
+The Apple Watch Ultra 3 features the largest display on any Apple Watch to date, using LTPO3 and wide-angle OLED technology. It offers up to 42 hours of battery life, extendable to 72 hours in Low Power Mode. The watch includes 5G connectivity and two-way satellite communication for messaging, SOS, and location sharing when out of network coverage.
+
+New health features include hypertension notifications and a Sleep Score system, while Workout Buddy, powered by Apple Intelligence, delivers personalised training support. The watch also supports advanced tracking for running, cycling, swimming, diving, golf, and hiking. Available in natural and black titanium, it is priced at $799 (US).
+
+The Apple Watch SE 3 introduces the S10 chip with improvements in performance and efficiency. It adds an Always-On display, fast charging, and 5G support. The updated Ion-X glass is designed to be four times more resistant to cracks. Health features include sleep tracking with Sleep Score, wrist temperature sensing, retrospective ovulation estimates, and sleep apnea notifications. Workout Buddy and enhanced Fitness and Workout apps are also included, while gesture controls such as double-tap and wrist flick provide additional input options. The SE 3 is available in 40mm and 44mm aluminium cases in midnight and starlight, with pricing starting at $249 (US).
+
+The Apple Watch Series 11 has a slimmer design and offers up to 24 hours of battery life. Aluminium models include Ion-X glass, while titanium models use sapphire crystal. The watch introduces 5G with a redesigned antenna for improved reception. Like the Ultra 3, it includes hypertension notifications, Sleep Score, and support for ECG, blood oxygen, and cycle tracking. Workout Buddy and an upgraded Workout app are also part of the package.
+
+Series 11 runs on watchOS 26, which features a Liquid Glass user interface, new watch faces called Flow and Exactograph, and expanded gesture support. The watch will be sold in aluminium finishes of space grey, jet black, rose gold, and silver, along with titanium options in natural, gold, and slate. Pricing for Apple Watch Series 11 starts at $399 (U.S.), with variations depending on material and size.
+
+All three models launch with watchOS 26, which brings updates such as a redesigned interface, Live Translation, Smart Stack improvements, and an updated watch face gallery. Apple Intelligence is integrated into features including Workout Buddy, Smart Stack, and Messages. From a materials standpoint, all models use 100 per cent recycled cobalt in their batteries, are manufactured with renewable energy, and come in fibre-based recyclable packaging.
+
+The Apple Watch Ultra 3, Apple Watch SE 3, and Apple Watch Series 11 are available to pre-order now. Customers in Australia, Canada, France, Germany, India, Japan, the UAE, the UK, the US, and more than 50 other countries and regions will find them in stores beginning Friday, September 19.

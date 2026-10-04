@@ -1,0 +1,1 @@
+{"content": "{\n  \"edits\": [\n    {\n      \"hint\": 1,\n      \"original\": \"in 1998\",\n      \"corrected\": \"in 2003\"\n    },\n    {\n      \"hint\": 2,\n      \"original\": \"his death remains officially undetermined and is under continuing investigation\",\n      \"corrected\": \"his death was ruled a suicide by the FBI and the Justice Department\"\n    }\n  ]\n}"}

@@ -1,0 +1,29 @@
+## WhatsApp now lets you share Live Photos in original format
+### Synopsis
+WhatsApp has started rolling out a new feature that allows users to share Live Photos in their original format. The update, which is available for testers using the latest version of WhatsApp beta for iOS from the TestFlight app, will be expanded to more users in the coming weeks. The feature is compatible with WhatsApp beta for iOS 25.24.10.70 and some users of the stable release on App Store can also try it out.
+
+## iOS users can now share Live Photos natively
+### Feature details
+The new update from WhatsApp brings full support for Live Photos, a special format that combines a still image with a short video clip, captured before and after the shutter is pressed.  Previously, when users shared a Live Photo on WhatsApp, it was sent as a simple static photo without any motion or audio. Now, with this update, iOS users can share their Live Photos exactly as intended.
+
+## How to view Live Photos on WhatsApp
+### User experience
+With the latest update, a small Live Photo icon appears directly on the thumbnail of the image. This indicates that it contains motion.  Users can view it in live mode via a dedicated button that plays back both movement and audio.  If they save a Live Photo to their gallery, it will remain one in the iOS Photos app, ensuring cross-app preservation of dynamic memories.
+
+## Android users can also view Live Photos
+### Platform integration
+Notably, WhatsApp is also making sure that Android users can view Live Photos too. When an Android user gets a Live Photo, it will show up as a motion photo on their device. Similarly, when the iOS users receive a motion photo from an Android user, it will show up as a Live Photo on iOS. This seamless integration between platforms eliminates fragmentation and ensures dynamic memories are displayed correctly across devices.
+
+## Users can still send still images
+### User control
+The new feature also gives users full control over how they want to share their Live Photos. If they want, they can remove the motion and send the photo just like a regular still image.  A new option in the gallery sheet, placed next to the HD send toggle, lets users disable the motion with a single tap.
+
+**Error Annotations:**
+[
+     {
+        "location": "line 3 in paragraph 1",
+        "error": "WhatsApp beta for iOS 25.24.10.70",
+        "correction": "WhatsApp beta for iOS 25.24.10.72",
+        "error_type": "Numerical/Version error — incorrect beta version number"
+     }
+]

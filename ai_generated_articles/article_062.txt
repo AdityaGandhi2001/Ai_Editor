@@ -1,0 +1,31 @@
+## Signal now lets you back up your chats for free
+### Synopsis
+Signal, the privacy-centric messaging app, has announced a new feature that allows users to back up their text conversations for free. The company also launched its first-ever paid feature: full media backups with up to 100GB of storage. This comes as a major upgrade from the previous lack of any backup option on the platform, which often created problems in case of phone loss or damage.
+
+## Free and paid backup options
+### Backup details
+The free tier of Signal's backup plan offers 100GB of storage for text messages and media from the last 45 days. The company claims this should be enough for "even heavy" users as messages are stored after compression. For those needing more than 45 days of media storage, a paid plan at $1.99 per month is available with up to 100GB of storage.
+
+## How to enable secure backups
+### Security measures
+The new backup feature, called Secure Backups, can be enabled from the app's settings. It backs up content daily in an end-to-end encrypted "privacy-preserving form." Signal uses zero-knowledge technology to secure its backups, meaning they aren't associated with a specific user or payment method. A 64-character recovery key generated on the device is provided to unlock these backups.
+
+## Future plans for cross-platform backups
+### Expansion strategy
+Currently, the backup feature is available only on the beta version of Signal's iOS app. However, cross-platform availability is coming soon. The company also plans to allow users to save a backup archive wherever they want, and transfer their message history between platforms in the future. This would make Signal a more versatile option for secure messaging across different devices.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 2, sentence 1 (Backup details)",
+        "error": "The free tier of Signal's backup plan offers 100GB of storage for text messages and media from the last 45 days.",
+        "correction": "The free tier offers 100MiB of storage for the last 45 days (often described as about 100MB).",
+        "error_type": "Magnitude & Scale error — incorrect unit/scale for free storage (overstated by several orders of magnitude)"
+    },
+    {
+        "location": "Paragraph 4, sentence 1 (Expansion strategy)",
+        "error": "Currently, the backup feature is available only on the beta version of Signal's iOS app.",
+        "correction": "Currently, the backup feature is available only on the beta version of Signal's Android app.",
+        "error_type": "Named entity / Platform error — incorrect platform named for beta availability"
+    }
+]

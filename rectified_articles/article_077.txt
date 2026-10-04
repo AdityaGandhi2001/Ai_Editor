@@ -1,0 +1,15 @@
+## X reveals code that recommends posts for 'For You' timeline
+### Synopsis
+X, led by Elon Musk, has announced that it is open-sourcing the latest version of code that recommends posts for its 'For You' timeline. The firm also noted that the algorithm is "always a work in progress." They promised to keep refining their approach to bring the most relevant content for users. To note, this isn't the first time the company has disclosed its code. Back in 2023, a large portion of its source code was made public.
+
+## Code that could compromise user safety was excluded
+### Safety measures
+In its announcement, the company emphasized maintaining user safety and privacy. The company said it was committed to the highest degree of transparency while excluding any code that could compromise these values or allow bad actors to exploit the platform. "Today's release also does not include the code that powers our ad recommendations," they added in their statement.
+
+## X's recommendation pipeline explained
+### Algorithm
+The recommendation code at the company is a collection of services that curate and serve personalized content across different product surfaces. In a recent blog post, the company detailed its recommendation pipeline saying it tries to pull the best 1,500 tweets from hundreds of millions through these sources for each request.
+
+## 'For You' consists of both in-network, out-of-network tweets
+### Content balance
+The company revealed that its 'For You' timeline is a mix of in-network and out-of-network tweets. On average, the timeline consists of 50% in-network tweets (from people you follow) and 50% out-of-network posts (from people you don't follow).  However, this ratio may vary from user to user depending on their individual preferences and interactions on the platform.

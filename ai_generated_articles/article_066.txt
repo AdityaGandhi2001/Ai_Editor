@@ -1,0 +1,31 @@
+## Ex-Nepal PM Jhalanath Khanal's wife killed amid protest arson
+### Synopsis
+The wife of former Nepal Prime Minister Jhalanath Khanal, Rabi Laxmi Chitrakar, has died after suffering severe burn injuries. Her home was reportedly set on fire by anti-government protesters in Pokhara, and she was rushed to Bir Hospital but later succumbed to her injuries.
+
+## Protests against political leaders
+### Unrest escalation
+The incident comes amid widespread protests across Nepal, with mobs attacking government buildings and the residences of politicians. The Singh Durbar in Kathmandu, the seat of the Nepali government, and Sheetal Niwas, the presidential residence, have been set ablaze. Private homes of President Ram Chandra Paudel and Prime Ministers KP Sharma Oli, Pushpa Kamal Dahal 'Prachanda,' Sher Bahadur Deuba have also been targeted.
+
+## Protests continue for 2nd day
+### Ongoing demonstrations
+The protests have continued for the second day, even after the government lifted its ban on social media platforms, such as Facebook and Instagram. Demonstrators are demanding Oli's ouster and the government's resignation, with two more deaths reported on Tuesday, taking the toll to 22. Over 300 people have been injured in these clashes.
+
+## Attack on former PM Deuba
+### Political violence
+The residence of former Prime Minister Deuba was also attacked, and both he and his wife, Foreign Minister Arzu Rana Deuba, were reportedly assaulted. Offices of political parties have also been targeted in the escalating unrest. The protests are fueled by anger over severe wealth disparity in Nepal and alleged corruption in the government.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 1, sentence 2",
+        "error": "set on fire by anti-government protesters in Pokhara",
+        "correction": "set on fire by anti-government protesters in Dallu",
+        "error_type": "Named entity/location error — incorrect place name"
+    },
+    {
+        "location": "paragraph 1, sentence 2",
+        "error": "rushed to Bir Hospital",
+        "correction": "rushed to the Kirtipur Burn Hospital",
+        "error_type": "Named entity/institution error — incorrect hospital name"
+    }
+]

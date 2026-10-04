@@ -1,0 +1,43 @@
+## Sam Konstas takes break from social media ahead of Ashes
+### Synopsis
+Sam Konstas, the 21-year-old Australian cricketer, is preparing for his upcoming matches with a unique strategy, having been placed on a temporary social media ban by Cricket Australia to avoid external criticism. The young player will play two four-day games in India for Australia A before heading back home to play four Sheffield Shield games for New South Wales (NSW). His goal is to regain his red-ball form after a challenging West Indies tour.
+
+## Test debut and subsequent struggles
+### Career ups and downs
+Konstas made a stunning Test debut against England on Boxing Day last year, scoring an impressive 60 off just 65 balls. However, he has struggled to score runs since then, failing to pass 25 in his next nine Test innings. Despite the criticism over his aggressive batting style, Konstas remains unapologetic about his approach during that match against Jasprit Bumrah and others. "I wouldn't change it," he told AAP.
+
+## Social media break for Konstas
+### Digital detox
+Konstas, who shot to fame overnight with 2.8 million followers on Instagram, has now decided to take a break from the platform. "I never had social media until I was 18. I had it for a year and now I have taken a break from it to be more present and try and get back in the Ashes squad," he said. The young cricketer is focusing on his game rather than getting distracted by social media comments.
+
+## Focus on the present moment
+### Learning curve
+Konstas is heading to India with confidence and lessons learned from his past experiences. "I've had a few experiences in the subcontinent," he said, referring to his time at the MRF Academy last year and touring Sri Lanka with Australian players. He hopes to score runs in these conditions ahead of the Ashes series. "It's about trying to be in the present moment with any game I play whether it be my club team, NSW or Australia A ahead of the Ashes."
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 1 in paragraph 1 (Synopsis)",
+        "error": "21-year-old",
+        "correction": "19-year-old",
+        "error_type": "Numerical/Temporal error — incorrect age"
+    },
+    {
+        "location": "sentence 1 in paragraph 1 (Synopsis)",
+        "error": "having been placed on a temporary social media ban by Cricket Australia",
+        "correction": "having put himself on a self-imposed social media ban",
+        "error_type": "Attribution/Relational error — incorrect source of social media ban"
+    },
+    {
+        "location": "sentence 1 in paragraph 2 (Career ups and downs)",
+        "error": "against England",
+        "correction": "against India",
+        "error_type": "Named Entity error — wrong opposing team on Test debut"
+    },
+    {
+        "location": "sentence 1 in paragraph 3 (Digital detox)",
+        "error": "2.8 million followers",
+        "correction": "281,000 followers",
+        "error_type": "Magnitude/Scale numerical error — incorrect follower count"
+    }
+]

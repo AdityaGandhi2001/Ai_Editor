@@ -1,0 +1,39 @@
+## Asia Cup: Will India go with spin-heavy attack against UAE?
+### Synopsis
+Ahead of their T20 Asia Cup opener against the UAE, India's bowling coach Morne Morkel has hinted at possible selection strategies. The nine-time champions have been preparing for the tournament in Dubai's hot and humid conditions. Morkel revealed that the team is yet to finalize its playing XI for the highly-anticipated match on September 10.
+
+## India may change their approach
+### Strategy shift
+During their last visit to Dubai for the ICC World Cup in 2019, India employed a four-pronged pace attack. However, Morkel believes that conditions may require a different approach this time around. "We need to go and look at the wicket," he said, adding that there is quite a bit of grass covering on the square.
+
+## Who will play?
+### Lineup possibilities
+If India decides to go with an extra pacer, left-armer Arshdeep Singh could partner pace spearhead Jasprit Bumrah with the new ball. Fellow seamer Harshit Rana and experienced all-rounder Hardik Pandya are also options. For spin, Varun Chakaravarthy, Axar Patel, and Kuldeep Yadav are all in contention for a spot against UAE if selectors decide to strengthen their slow bowling department.
+
+## Morkel backs Kuldeep
+### Player readiness
+Morkel expressed confidence in Kuldeep's readiness to perform well if selected. "I think he is a very professional athlete," Morkel said, praising Kuldeep's attitude since England where he got little game time. He added that despite not playing much recently, Kuldeep has still been putting in the work during training sessions to stay prepared for T20s and white-ball cricket.
+
+**India squad:** Rohit Sharma (c), Shubman Gill, Abhishek Sharma, Tilak Varma, Hardik Pandya, Shivam Dube, Jitesh Sharma, Axar Patel, Jasprit Bumrah, Varun Chakaravarthy, Arshdeep Singh, Kuldeep Yadav, Sanju Samson, Harshit Rana, Rinku Singh.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 2",
+        "error": "The nine-time champions",
+        "correction": "The eight-time champions",
+        "error_type": "Numerical error / Quantitative inaccuracy — incorrect count of India's Asia Cup titles"
+    },
+    {
+        "location": "Strategy shift paragraph, sentence 1",
+        "error": "During their last visit to Dubai for the ICC World Cup in 2019, India employed a four-pronged pace attack.",
+        "correction": "During their last visit to Dubai for the ICC Champions Trophy earlier this year, India employed a four-pronged spin attack.",
+        "error_type": "Composite error: Named-entity error (wrong tournament), Temporal error (wrong year), Categorical/classification error (spin vs pace attack)"
+    },
+    {
+        "location": "India squad line (first entry)",
+        "error": "Rohit Sharma (c)",
+        "correction": "Suryakumar Yadav (c)",
+        "error_type": "Named-entity / Role attribution error — incorrect captain listed"
+    }
+]

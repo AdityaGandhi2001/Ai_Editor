@@ -1,0 +1,109 @@
+## Apple launches AirPods Pro 3 with heart-rate monitoring, live translation
+### Synopsis
+Apple has introduced the AirPods Pro 3 at its "Wonder" event.  
+The new model comes with a host of upgrades, including a heart-rate sensing capability, audio quality improvements, and a redesigned charging case.  
+The device is powered by Apple's new H4 chip that enhances audio quality and boosts voice-calling performance.  
+It also triples the active noise cancellation compared to its predecessor, the AirPods Pro 2, removing up to 300% more external sound.  
+It’s been two years since Apple refreshed the AirPods Pro line, releasing the Pro 2 model in 2021.  
+The new AirPods Pro are available for preorder today at a cost of $299, and will arrive in stores on September 26.
+
+## A look at the features
+### Features
+The AirPods Pro 3's heart-rate sensing capability is a first for the AirPods line.  
+Unlike the Powerbeats Pro 2, Apple implemented the feature using an infrared camera embedded in the case rather than LED photoplethysmography sensors.  
+Apple says these sensors can also estimate blood pressure and perform ECG readings, syncing automatically to iCloud instead of the Fitness app.  
+Another major feature is a live translation capability, enabled by Apple's iOS 27 software update and powered by Google Translate.
+
+## Best-fitting AirPods yet
+### Design upgrades
+The AirPods Pro 3 comes with a sleeker design and smaller, more comfortable earbuds.  
+Apple now offers silicone ear tips in three sizes, making it "the best-fitting AirPods."  
+The company has also redesigned the charging case into a bulkier profile with an integrated speaker for alarms.  
+The new AirPods Pro will be available for purchase at a starting price of ₹19,999. They will be up for grabs starting September 26, with pre-orders opening next month.
+
+## Rumors
+Considerable speculation has circulated about a high-end variant of the AirPods Pro 3.  
+That rumored model is expected to cost $599 and include an infrared camera for hand-gesture detection that only works with the Vision Pro headset.  
+Sources now predict the second version of the Pro 3 model will launch later this year, in November 2025.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 1, line 1",
+        "error": "\"Wonder\" event",
+        "correction": "\"Awe-dropping\" event",
+        "error_type": "Named entity error — wrong event name"
+    },
+    {
+        "location": "paragraph 1, line 3",
+        "error": "Apple's new H4 chip",
+        "correction": "Apple's H3 chip",
+        "error_type": "Technical specification / named entity error — incorrect chip name"
+    },
+    {
+        "location": "paragraph 1, line 4",
+        "error": "It also triples the active noise cancellation ... removing up to 300% more external sound",
+        "correction": "It doubles active noise cancellation compared to the AirPods Pro 2 (removes twice the noise)",
+        "error_type": "Numerical & magnitude error — exaggerated ANC claim"
+    },
+    {
+        "location": "paragraph 1, line 5",
+        "error": "It’s been two years since Apple refreshed the AirPods Pro line, releasing the Pro 2 model in 2021",
+        "correction": "It’s been three years since Apple refreshed the AirPods Pro line, releasing the Pro 2 model in 2022",
+        "error_type": "Temporal / chronological error — incorrect elapsed time and year"
+    },
+    {
+        "location": "paragraph 1, line 6",
+        "error": "available for preorder today at a cost of $299, and will arrive in stores on September 26",
+        "correction": "available for preorder today at a cost of $249, and will arrive in stores on September 19",
+        "error_type": "Numerical & temporal error — incorrect price and release date"
+    },
+    {
+        "location": "paragraph 2, line 2",
+        "error": "Unlike the Powerbeats Pro 2, Apple implemented the feature using an infrared camera embedded in the case rather than LED photoplethysmography sensors",
+        "correction": "It works like the Powerbeats Pro 2, using LED photoplethysmography sensors (LED sensors) in the earbuds to measure heart rate",
+        "error_type": "Categorical & named-entity/comparison error — wrong device comparison, wrong sensor type and placement"
+    },
+    {
+        "location": "paragraph 2, line 3",
+        "error": \"Apple says these sensors can also estimate blood pressure and perform ECG readings, syncing automatically to iCloud instead of the Fitness app.\",
+        "correction": \"Apple describes heart-rate sensing only (not blood-pressure or ECG capabilities), and the data syncs with Apple's Fitness app.\",
+        "error_type": "Inference & relational error — unsupported health claims and incorrect sync destination"
+    },
+    {
+        "location": "paragraph 2, line 4",
+        "error": \"enabled by Apple's iOS 27 software update and powered by Google Translate\",
+        "correction": \"enabled by Apple's iOS 26 software update and powered by Apple Intelligence (Apple's own translation features)\",
+        "error_type": "Named entity / attribution & temporal error — wrong OS version and incorrect third-party attribution"
+    },
+    {
+        "location": "paragraph 3, line 2",
+        "error": \"Apple now offers silicone ear tips in three sizes\",
+        "correction": \"Apple offers foam ear tips in five different sizes\",
+        "error_type": "Categorical & numerical error — wrong material and wrong number of sizes"
+    },
+    {
+        "location": "paragraph 3, line 3",
+        "error": \"redesigned the charging case into a bulkier profile with an integrated speaker for alarms\",
+        "correction": \"redesigned the charging case into a slimmer profile for better portability\",
+        "error_type": "Design / interpretation error — incorrect description of charging-case redesign"
+    },
+    {
+        "location": "paragraph 3, line 4",
+        "error": \"starting price of ₹19,999. They will be up for grabs starting September 26, with pre-orders opening next month\",
+        "correction": \"starting price of ₹25,900. They will be available starting September 19, with pre-orders opening today\",
+        "error_type": "Numerical & temporal error — incorrect local price, availability date, and preorder timing"
+    },
+    {
+        "location": "paragraph 4, line 2",
+        "error": \"expected to cost $599 and include an infrared camera for hand-gesture detection that only works with the Vision Pro headset\",
+        "correction": \"reported as a higher-end variant that may include an infrared camera for hand-gesture detection to improve spatial audio when used with Vision Pro; no firm price or exclusivity was confirmed\",
+        "error_type": "Inference & attribution error — speculative price and incorrect exclusivity claim"
+    },
+    {
+        "location": "paragraph 4, line 3",
+        "error": \"will launch later this year, in November 2025\",
+        "correction": \"is predicted to launch in 2026\",
+        "error_type": "Temporal error — incorrect predicted launch year"
+    }
+]

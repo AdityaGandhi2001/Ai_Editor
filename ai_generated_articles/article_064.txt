@@ -1,0 +1,39 @@
+## Asia Cup: UAE captain Muhammad Waseem confident of creating upsets
+### Synopsis
+Ahead of the UAE's 2025 T20 Asia Cup campaign, skipper Muhammad Waseem has expressed confidence in his team's ability to pull off an upset against cricketing giants India and Pakistan. The 31-year-old batsman has been a key player for the hosts since his international debut in 2021. He is also the team's leading run-scorer in T20Is with a remarkable strike rate. Notably, UAE will face India in their Asia Cup opener on Sepetmber 10.
+
+## 'Goal to make UAE a Full Member'
+### Career trajectory
+Waseem, UAE's leading run-scorer in T20Is, has produced stellar domestic performances of late. He had led his domestic side to multiple tournament victories before being offered a national contract. "My goal as captain is to make UAE a Full Member," Waseem said in a conversation with ESPNcricinfo, adding that regular matches against Test nations would improve their rankings and performance.
+
+## Waseem's batting philosophy and team strategy
+### Game plan
+Waseem revealed his strategy of attacking during the Powerplay while the other opener plays more cautiously. He said this approach helps teams score over 170 runs in modern cricket. The UAE captain also spoke about his team's batting order, which has been designed to ensure one player can attack while another rotates the strike. "The combination we have now is the best combination," he added.
+
+## Training hard to upset cricketing giants
+### Tournament outlook
+Waseem said his team has been training hard for the past few months and is capable of beating anyone in T20 cricket. He is hopeful that they can upset either India or Pakistan in the tournament. "We could beat Oman, and we'll target one of these two and eye a run to the Super Four," he said, emphasizing their determination to perform well at the Asia Cup.
+
+## Stellar form in T20Is
+### Numbers
+Waseem led UAE from the front in the recently concluded home T20 Tri-Series, which involved Afghanistan and Pakistan. Although UAE couldn't reach the final, Waseem scored 263 runs in the series at a strike rate of 175.50, including an unbeaten 120. In a losing cause against Afghanistan, he scored an explosive 67 runs off just 37 balls. As per ESPNcricinfo, he went past Rohit Sharma's record of 105 sixes as captain in T20Is.
+
+## Waseem closing in on 3,000 T20I runs
+### Information
+Having played 112 T20Is since his debut in 2018, Waseem has raced to 4,922 runs at a strike rate of 135.20. His average reads 37.94. His tally includes three tons and 23 half-centuries. No other UAE batter has even 1,300 T20I runs.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 14, sentence 2 (Numbers paragraph)",
+        "error": "Although UAE couldn't reach the final, Waseem scored 263 runs in the series at a strike rate of 175.50, including an unbeaten 120.",
+        "correction": "Although UAE couldn't reach the final, Waseem scored 163 runs at a strike rate of 158.25.",
+        "error_type": "Numerical & Temporal Errors (incorrect series runs and strike rate), Fabrication (invented unbeaten 120 which did not occur), Magnitude & Scale Error (inflated performance figures)"
+    },
+    {
+        "location": "Paragraph 17, sentence 1 (Information paragraph)",
+        "error": "Having played 112 T20Is since his debut in 2018, Waseem has raced to 4,922 runs at a strike rate of 135.20.",
+        "correction": "Having played 82 T20Is since his debut in 2021, Waseem has raced to 2,922 runs at a strike rate of 155.67.",
+        "error_type": "Numerical & Temporal Errors (wrong matches played, wrong debut year, incorrect runs and strike rate), Relational & Contextual Error (incorrect career timeline), Magnitude & Scale Error (order-of-magnitude inflation)"
+    }
+]

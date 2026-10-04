@@ -1,0 +1,33 @@
+## Supertramp co-founder Rick Davies (81) dies: Revisiting his life, career
+### Synopsis
+Rick Davies, the co-founder of the legendary rock band Supertramp, has passed away at 81. The English singer-songwriter and keyboardist died on Friday, September 5, after a long battle with leukaemia, a form of blood cancer. The news was confirmed by his bandmates in a statement. They described Davies as "the voice and pianist behind Supertramp's most iconic songs."
+
+## Know more about multiple myeloma
+### Cancer
+Per Mayo Clinic, "In multiple myeloma, cancerous plasma cells build up in bone marrow." "The bone marrow is the soft matter inside bones where blood cells are made." "In the bone marrow, the cancer cells crowd out healthy blood cells. Rather than make helpful antibodies, the cancer cells make proteins that don't work right. This leads to complications of multiple myeloma." "Most people are diagnosed in their late 60s. Men are more likely to develop the disease than are women."
+
+## Early life and formation of Supertramp
+### Career beginnings
+Born in Swindon, Wiltshire, in 1944, Davies had a humble start to his music career. He was part of several bands, including one called The Joint. Although they didn't achieve significant success, they caught the attention of Dutch millionaire Stanley August Miesegaes, who offered to finance Davies if he formed a new band. This led to the creation of Supertramp in 1969 with Miesegaes's financial backing for their initial years.
+
+## Commercial success of Supertramp
+### Success story
+Davies shared writing duties with Roger Hodgson, the other founding member of Supertramp. The band achieved commercial success with their third album, Crime of the Century, in 1974. Their fame skyrocketed in the US five years later with Breakfast In America, which featured hit singles like The Logical Song and Goodbye Stranger. This LP sold over 30 million copies globally and earned two Grammy nominations in 1980, including Album of the Year.
+
+## Personal life and health struggles
+### Personal challenges
+Beyond his musical career, Davies was known for his "warmth, resilience, and devotion to his wife Sue," said the band. The couple had been married for over five decades. After facing serious health challenges that prevented him from touring with Supertramp, he enjoyed performing with his hometown friends as Ricky and the Rockets. In 2015, Supertramp announced a reunion tour, but it was canceled when Davies was diagnosed with cancer.
+
+## Legacy and recent legal battles
+### Lasting impact
+Davies's songwriting skills were instrumental in establishing Supertramp as a major force in the 1970s and early 1980s. The band also produced other songs during this era, such as The Logical Song and Take the Long... In 2021, the band's former members sued Hodgson and Davies over unpaid royalties, but Davies settled out of court in 2023. Last month, a US appeals court ruled Hodgson must share royalties with his ex-bandmates, reported BBC. May Davies rest in peace.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 2",
+        "error": "after a long battle with leukaemia, a form of blood cancer",
+        "correction": "after a long battle with multiple myeloma, a form of blood cancer",
+        "error_type": "Categorical & Classification Error — medical misclassification (wrong disease named)"
+    }
+]

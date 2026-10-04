@@ -1,0 +1,37 @@
+## Rohit Sharma's hospital visit raises concerns among fans: Details
+### Synopsis
+Team India's incumbent ODI captain Rohit Sharma was spotted at Kokilaben Hospital in Mumbai late last night, raising health concerns among fans. The reason for his visit remains unclear, but it has left many wondering about his well-being and future participation in upcoming matches. This comes after a successful fitness test at the BCCI's Centre of Excellence in Bengaluru.
+
+## Rohit's absence from international cricket
+### Career hiatus
+Rohit has been missing from the international cricket scene since India won the ICC Champions Trophy in mid-2025. He had retired from ODI cricket in May, ending a glorious career of 67 matches, 4,301 runs at an average of 40.58 with 12 centuries and a highest score of 212. Now, he is preparing for his return to ODI cricket after a long break.
+
+## Return to ODI fold
+### Comeback
+Rohit, along with fellow cricketing icon Virat Kohli, is set to make a comeback in the ODI series against Australia. The first match of the series will be played on October 9 at the Melbourne Cricket Ground in Melbourne. Their return has been highly anticipated by Indian cricket fans since their last appearance in the 2025 ICC Champions Trophy final in Dubai.
+
+## Will Rohit, Kohli play for India A?
+### List A games
+Like Rohit, Virat Kohli has also become an ODI specialist after retiring from Tests and T20Is. The dup is likely to play for India A in the List A series against Australia A at home before heading off to Australia for a three-match ODI series, as per Hindustan Times. The legendary cricketers are likely to make their comeback during a three-match List A series against Australia 'A' at the Green Park Stadium in Kanpur, starting September 30.
+
+**Error Annotations:**
+[
+    {
+        "location": "paragraph 3, sentence 2",
+        "error": "The first match of the series will be played on October 9 at the Melbourne Cricket Ground in Melbourne.",
+        "correction": "The first match of the series will be played on October 19 at Optus Stadium in Perth.",
+        "error_type": "Numerical & Temporal Error; Named Entity/Geographic Error — wrong date and wrong venue/city"
+    },
+    {
+        "location": "paragraph 3, sentence 2",
+        "error": "The first match of the series will be played at the Melbourne Cricket Ground in Melbourne.",
+        "correction": "The first match of the series will be played at Optus Stadium in Perth.",
+        "error_type": "Named Entity/Geographic Error — incorrect stadium and city"
+    },
+    {
+        "location": "paragraph 2, sentence 2",
+        "error": "He had retired from ODI cricket in May, ending a glorious career of 67 matches...",
+        "correction": "He had retired from Test cricket in May, ending a glorious career of 67 matches...",
+        "error_type": "Named Entity/Interpretation Error — incorrect format of retirement (Test vs ODI)"
+    }
+]

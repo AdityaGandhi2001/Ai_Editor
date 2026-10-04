@@ -1,0 +1,57 @@
+Source Article(s):
+
+# “It was all over in less than 20 minutes…” Oracle employee reveals how he was laid off on Zoom call
+
+Published Date: Tuesday September 09, 2025
+
+The layoffs are mainly happening in Oracle’s cloud unit, which includes engineering, data center operations, and AI teams, both in India and the US.
+
+For Oracle employees in India, even a simple “project update” email now brings stress. Many say these meetings often end with unexpected layoff news instead of routine work updates. According to a report by Economic Times, recent job cuts at Oracle have left thousands of workers worried about their future.
+
+One employee from the database team described how fast it all happened. “It was all over in less than 20 minutes — a Zoom invite, my manager on the call, and then the HR person telling me I was being let go. They said it wasn’t about my performance but purely business reasons. My system access was cut immediately. I was also due to get stock benefits in February, but now I’ve lost them,” he told ET. Telling his parents, who depend on his income, was the hardest part.
+
+Another employee said he joined a meeting thinking it was a business update, only to realise it was a layoff call. “The HR person only explained the severance package. It felt very cold and mechanical,” he said.
+
+The layoffs are mainly happening in Oracle’s cloud unit, which includes engineering, data center operations, and AI teams, both in India and the US. Some reports suggest that almost 10% of Oracle’s staff in India may have been affected, though the company has not confirmed the exact number.
+
+Globally, the trend is similar. Tech news site CRN reported that over 300 employees in California and Washington were recently let go. At the same time, Oracle is investing heavily in artificial intelligence. The company has signed a major deal with OpenAI to build massive new data center capacity in the US.
+
+For Indian employees, this feels like a big shift. Only a few years ago, Oracle had announced huge investments in Bengaluru and training programs for Indian students. Now, workers are being shown the exit with little warning.
+
+As one employee summed it up, “You don’t even get time to process it. One minute you’re working, the next minute you’re out.”
+
+# ‘Laid off in a 20-minute Zoom call,’ Oracle lays off employees in cloud division; some claim over 3,000 affected
+
+## Layoffs: Oracle has laid off several employees, up to 3,000, according to staff, during a Zoom call that was intended to communicate a “business update”.
+
+Written by Arfa Javaid
+
+After weeks of speculations online, particularly on LinkedIn and Reddit, about incoming layoffs at Oracle, the Texas-based tech company, the “pink slips” were finally “handed” to the employees. _TOI_ reported the news after speaking to the affected employees who were laid off over a Zoom call.
+
+The outlet reported that the layoff announcements were under the guise of “project updates”, and as a result, the employees have been becoming growingly anxious each time they receive an email with this subject line. The company has a strength of 30,000 people who have been working in constant fear that they could be the next.
+
+“Jobs as we know them just don’t exist anymore,” said an affected employee working in the database team.
+
+The employee added, “It was all over in less than 20 minutes – a Zoom invite, the manager on the call, and the HR representative telling me it wasn’t about my performance but purely business reasons,” the affected employee further said, before adding, “My access was revoked very quickly. My RSUs were due to vest in Feb, but now I’ll lose them.”
+
+Another laid-off employee said that his parents are dependent on him. “My parents depend on me, and telling them was the hardest part,” he said.
+
+A third person, who was also laid off on a call that was in place to discuss a “business update”, said he is still in shock.
+
+“I’ve signed up for outplacement services. But it will take some time. The HR only outlined the severance we would receive. The entire process felt cold and came as a complete shock,” he revealed.
+
+The report by _TOI_ stated that Oracle is laying off employees in its cloud unit, which will impact teams both in India and the US, according to a report by Data Centre Dynamics. The Oracle Cloud Infrastructure (OCI) division, where the layoffs are happening, includes engineering, data centre operations, and AI/ML functions.
+
+There have been reports that nearly 10% of Oracle’s workforce in India has been affected as part of these layoffs. Some employees claim that over 3,000 people have been affected. The company hired as many as 40,000 people in India in 2017.
+
+Last month, Oracle reportedly laid off some 10% of its Indian workforce, citing “restructuring” as the official reason. As part of the decision, the software development, cloud services and technical support verticals are the hardest hit, per reports.
+
+Under the “Oracle layoffs – Aug/Sep 2025” Reddit thread, as many as 22 people admitted that the recent layoffs have impacted them.
+
+Software development roles are the most impacted, followed by consultants and technical architecture roles, per the thread.
+
+Most of the laid-off employees received severance packages, with variations depending on seniority, location, and legal requirements.
+
+The severance packages range from 1 month to 12 months of pay, reflecting both service length and role level.
+
+Several locations are affected, including Austin, Kansas City, India, the Philippines, Australia, Mexico, remote setups, and more, indicating a global reduction effort.

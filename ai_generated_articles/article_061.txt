@@ -1,0 +1,45 @@
+## How China's STEM visa gives it an edge over US
+### Synopsis
+China has announced a new visa category, the "young talent" K visa, aimed at attracting global professionals in science, technology, engineering and mathematics (STEM). The initiative is part of China's strategy to enhance innovation and competitiveness in its high-tech sectors, and the move comes as other countries, notably Canada, have adopted much more liberal immigration policies, which Beijing hopes to emulate.
+
+## A look at the visa
+### Visa details
+The K visa will go live on October 15 and will require a local sponsoring university or company rather than allowing applicants to arrive without a domestic inviter. It has specific requirements pertaining to age, educational background, and work experience, and does not need a domestic employer/inviting entity. The visa not only targets overseas Chinese communities, but also young people from developed and developing countries, especially the United States, the United Kingdom and Germany.
+
+## Analysts skeptical about effectiveness
+### Visa skepticism
+China's strengths include its vast market, rapidly advancing universities, an extensive talent network, as well as thousands of industrial tech parks; the "young talent" K visa is expected to leverage these factors, but analysts remain skeptical about its effectiveness. They have called for stringent policy support to ensure the success of this initiative.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 2 in paragraph 1",
+        "error": "notably Canada",
+        "correction": "notably the United States",
+        "error_type": "Named entity error (wrong country referenced)"
+    },
+    {
+        "location": "line 2 in paragraph 1",
+        "error": "have adopted much more liberal immigration policies, which Beijing hopes to emulate",
+        "correction": "have adopted more restrictive immigration policies, creating opportunities China hopes to exploit",
+        "error_type": "Inference/interpretation error (wrong characterization of others' policies and mistaken motive)"
+    },
+    {
+        "location": "line 1 in paragraph 2",
+        "error": "will go live on October 15",
+        "correction": "will go live on October 1",
+        "error_type": "Numerical & temporal error (incorrect start date)"
+    },
+    {
+        "location": "line 1 in paragraph 2",
+        "error": "will require a local sponsoring university or company rather than allowing applicants to arrive without a domestic inviter",
+        "correction": "does not require a domestic employer/inviting entity",
+        "error_type": "Relational & contextual error (wrong statement about employer/sponsor requirement)"
+    },
+    {
+        "location": "line 3 in paragraph 2",
+        "error": "especially the United States, the United Kingdom and Germany",
+        "correction": "especially Japan, India, and South Korea",
+        "error_type": "Named entity / classification error (incorrect list of target countries)"
+    }
+]

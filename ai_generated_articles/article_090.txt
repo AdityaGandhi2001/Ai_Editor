@@ -1,0 +1,39 @@
+## Luxury cars by EU brands might become cheaper in India
+### Synopsis
+The Indian government is likely to offer some concessions on import duties for high-end cars to the European Union (EU). The move is part of a free trade agreement (FTA) being negotiated between the two parties, government officials told Moneycontrol. At present, India's import duty on completely built-up (CBU) passenger vehicles is 100% for cars costing over €50,000, and 60% for those up to €50,000.
+
+## India working on duty reduction framework for EU
+### Duty reduction
+The EU has raised concerns over the high import duty on its cars. The issue was also raised by Germany, home to global brands like BMW, Mercedes-Benz, and Audi. In response, India is working on a nuanced duty reduction framework for the EU's automotive sector. This framework will be similar to what was offered to the United Kingdom (UK). However, the final outcome will depend on further negotiations between both sides.
+
+## India-EU FTA talks ongoing
+### Negotiation progress
+The 13th round of trade talks between India and the EU began today and will continue throughout the week. The next round of negotiations will take place in Geneva next month. Both parties are hopeful to finalize the FTA by December this year.
+
+## What does India-UK trade deal say about luxury cars?
+### Tariff reduction
+Under its FTA with the UK, signed on May 6, India will gradually reduce import duties on automobiles. The reduction will be based on engine capacity and vehicle price. For example, for electric vehicles (EV) CBUs with a duty of 110%, the India-UK trade agreement has lowered import tariffs to 30% from the first year. These levies will further decrease to 10% from the fifth year.
+
+The luxury car segment, which accounts for less than 2% of the total passenger vehicle (PV) volumes in India, is dominated by German brands such as Mercedes-Benz and BMW, with the former clocking sales of 18,928 units in FY25 and the latter following at 15,266 units.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 3 in paragraph 1",
+        "error": "At present, India's import duty on completely built-up (CBU) passenger vehicles is 100% for cars costing over €50,000, and 60% for those up to €50,000.",
+        "correction": "At present, India's import duty on completely built-up (CBU) passenger vehicles is 110% for cars costing over $40,000, and 70% for cars costing up to $40,000.",
+        "error_type": "Numerical & Unit Error — incorrect percentages and wrong currency/price threshold (wrong magnitude and unit)"
+    },
+    {
+        "location": "line 2 in paragraph 3",
+        "error": "The next round of negotiations will take place in Geneva next month.",
+        "correction": "The next round of negotiations will take place in Brussels next month.",
+        "error_type": "Named Entity Error — incorrect location/place name"
+    },
+    {
+        "location": "line 3 in paragraph 4",
+        "error": "For example, for electric vehicles (EV) CBUs with a duty of 110%, the India-UK trade agreement has lowered import tariffs to 30% from the first year.",
+        "correction": "For example, for internal combustion engine (ICE) powered CBUs with a duty of 110%, the India-UK trade agreement has lowered import tariffs to 30% from the first year.",
+        "error_type": "Categorical & Classification Error — wrong vehicle type (misclassifying ICE provisions as applying to EVs)"
+    }
+]

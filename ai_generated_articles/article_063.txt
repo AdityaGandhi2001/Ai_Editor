@@ -1,0 +1,39 @@
+## Volvo slashes ICE car prices by ₹7L in India
+### Synopsis
+Volvo has announced a major price cut on its petrol and diesel models in India, effective from September 28. The reduction comes as a result of the recent Goods and Services Tax (GST) rationalization approved by the GST Council. The latest tax structure replaces multiple higher tax slabs with a simpler system, allowing firms like Volvo to pass on direct benefits to customers.
+
+## Price cuts on XC60 and XC90 models
+### Price cuts
+The price cuts announced by Volvo Car India are quite significant. The refreshed XC60, for instance, now costs ₹68.1 lakh after a price cut of nearly ₹3.8 lakh. Meanwhile, the Volvo XC90 has seen an even bigger reduction in its price, down by ₹6.9 lakh to ₹96.97 lakh. It is worth noting that electric Volvos won't be getting any price cuts.
+
+## 'Double Festive Delight' scheme launched
+### New scheme
+Along with the revised prices, Volvo has also launched a new scheme called 'Double Festive Delight.' The initiative combines GST benefits with additional festive discounts. Jyoti Malhotra, Country CEO of Volvo Car India, said that the step is aimed at making luxury mobility more accessible and also reinforcing confidence in the growth of this segment in India.
+
+**Error Annotations:**
+[
+    {
+        "location": "sentence 1 in paragraph 3 (Synopsis paragraph)",
+        "error": "effective from September 28",
+        "correction": "effective from September 22",
+        "error_type": "Temporal error — incorrect effective date"
+    },
+    {
+        "location": "sentence 2 in paragraph 6 (Price cuts paragraph)",
+        "error": "now costs ₹68.1 lakh",
+        "correction": "now costs ₹67.1 lakh",
+        "error_type": "Numerical error — incorrect post-cut price for XC60"
+    },
+    {
+        "location": "sentence 2 in paragraph 6 (Price cuts paragraph)",
+        "error": "after a price cut of nearly ₹3.8 lakh",
+        "correction": "after a price cut of nearly ₹4.8 lakh",
+        "error_type": "Numerical error — incorrect magnitude of price reduction for XC60 (multi-error sentence)"
+    },
+    {
+        "location": "sentence 3 in paragraph 9 (New scheme paragraph)",
+        "error": "Jyoti Malhotra, Country CEO of Volvo Car India",
+        "correction": "Jyoti Malhotra, Managing Director of Volvo Car India",
+        "error_type": "Named entity / role error — incorrect title/position attribution"
+    }
+]

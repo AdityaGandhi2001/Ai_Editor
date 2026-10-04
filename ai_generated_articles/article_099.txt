@@ -1,0 +1,25 @@
+## Dewald Brevis becomes most expensive player in SA20: Key details
+### Synopsis
+South African batter Dewald Brevis has become the most expensive player in SA20 history. He scripted history after being acquired by Pretoria Capitals for Rand 16.5 million (approximately ₹8.31 crore). Brevis, who was previously with MI Cape Town, sparked a bidding war between Johannesburg Super Kings, Paarl Royals, and his former team. Pretoria Capitals won the race after placing a bid that crossed Rand 10 million.
+
+## Brevis's stellar IPL and international records
+### Career highlights
+Brevis was a replacement player for Chennai Super Kings during the 2025 Indian Premier League, where he impressed everyone with his pinch-hitting. He hammered 225 runs from just five games at a strike rate of 180.00. He also made headlines last month by scoring the second-fastest T20I century (off just 40 balls) by a South African batter, against Australia.
+
+## Pretoria Capitals go all out for Brevis
+### Record signing
+Pretoria Capitals, coached by Sourav Ganguly, had the biggest purse going into the SA20 auction and didn't hesitate to spend it on Brevis. They signed him for a staggering ₹8.31 crore. This is ₹6.1 crore more than what CSK paid him in IPL (₹2.2 crore). Brevis featured for MI Cape Town in the first three seasons but wasn't retained. He helped the side win their maiden title with 291 runs at a strike rate of 184.18.
+
+## Previous record holders in SA20
+### Market impact
+Earlier, Tristan Stubbs was the most expensive player in SA20. He was paid R9.2 by Sunrisers Eastern Cape in 2023. At the 2026 auction, South African T20I captain Aiden Markram was the first to cross R10 million after being acquired by Durban Super Giants for R14 million (approximately ₹7.05 crore). However, Brevis broke both these records within minutes of each other at this year's auction.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "\"He hammered 225 runs from just five games\"",
+        "correction": "\"He hammered 225 runs from just six games\"",
+        "error_type": "Numerical error — incorrect number of games played (quantity mismatch)"
+    }
+]

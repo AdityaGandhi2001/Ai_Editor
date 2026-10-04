@@ -1,0 +1,37 @@
+## Voting for new Vice President begins, results later tonight
+### Synopsis
+Voting for the next Vice President of India begins on Wednesday, September 10, at 10:00am; the ruling Bharatiya Janata Party (BJP)-led National Democratic Alliance has fielded former Tamil Nadu Chief Minister CP Radhakrishnan as its candidate. The election will be held in a secret ballot, with all MPs eligible to vote. The counting of votes will start after 6:00pm, and the results are expected by nightfall. 
+
+## BJP wary of cross-voting
+### Election strategy
+The NDA has 512 votes in both Houses, but is wary of cross-voting. In 2022, several opposition MPs voted for the BJP's Jagdeep Dhankhar. To avoid a setback, however, the BJP has divided its MPs into groups to minimize disruptions. Parliamentary Affairs Minister Pralhad Joshi will lead southern state MPs, while Commerce Minister Piyush Goyal will look after those from Uttar Pradesh.
+
+## INDIA bloc has 315 votes
+### Opposition's choice
+The opposition Indian National Developmental Inclusive Alliance has fielded retired Supreme Court judge Justice B Sudershan Reddy as its candidate. The INDIA bloc has 315 votes, excluding 12 Aam Aadmi Party MPs who may support Justice Reddy. However, there could be dissent within the AAP ranks with Rajya Sabha MP Swati Maliwal possibly not voting along party lines due to past conflicts with Arvind Kejriwal.
+
+## Reddy's selection criticized by Amit Shah
+### Election outlook
+In theory, the INDIA bloc doesn't expect to win this election but hopes to highlight its strength compared to the last vice-presidential election. The move is seen as a way to build momentum for upcoming elections in Bihar, Bengal, and Tamil Nadu. Meanwhile, Justice Reddy's selection has been criticized by Home Minister Amit Shah over his 2011 judgment in the 'Salwa Judum' case against state-sponsored militia in Chhattisgarh.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "Voting for the next Vice President of India begins on Wednesday, September 10",
+        "correction": "Voting for the next Vice President of India begins on Tuesday, September 9",
+        "error_type": "Temporal error — incorrect day and date"
+    },
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "the ruling Bharatiya Janata Party (BJP)-led National Democratic Alliance has fielded former Tamil Nadu Chief Minister CP Radhakrishnan as its candidate",
+        "correction": "the ruling Bharatiya Janata Party (BJP)-led National Democratic Alliance has fielded Maharashtra Governor CP Radhakrishnan as its candidate",
+        "error_type": "Named entity / role error — wrong state and official position attributed to the candidate"
+    },
+    {
+        "location": "BJP wary of cross-voting paragraph, sentence 1",
+        "error": "The NDA has 512 votes in both Houses",
+        "correction": "The NDA has 427 votes in both Houses",
+        "error_type": "Numerical / magnitude error — incorrect vote count"
+    }
+]

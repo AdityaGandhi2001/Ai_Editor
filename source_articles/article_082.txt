@@ -1,0 +1,23 @@
+Source Article(s):
+
+# Bluesky adds private bookmarks
+
+Published Date: Tuesday September 09, 2025
+
+Social networking startup Bluesky is rolling out one of users’ most in-demand features — no, not an edit button! — bookmarks.
+
+The company on Monday announced the new addition, which it calls Saved Posts. The feature is accessible through a new bookmark icon underneath each post, next to the heart for favoriting.
+
+Your saved posts can then be viewed at any time from the new “Saved” section in the app’s main navigation.
+
+While it may seem redundant to have both likes and bookmarks on a social app since both offer a way to mark a post to be referenced later, bookmarks offer a private alternative to the “like.” On Bluesky, your account and its associated data are public, which means your likes are also public. That doesn’t work for everyone, as some things you save are personal, or simply aren’t the types of things you want to publicly advertise.
+
+Journalists, for example, may save posts they aim to reference later, but don’t necessarily want to broadcast that they’ve just started looking into something, which could invite unwanted attention. Others may simply want to bookmark their favorite adult content.
+
+On X, Elon Musk realized that the public nature of likes could actually decrease engagement, which prompted the company last year to hide users’ likes. According to X employees at the time, public likes could incentivize the wrong behavior, as people could feel discouraged from liking content that may be “edgy,” or to protect their public image, they said.
+
+The AT Protocol, which powers Bluesky and other smaller social apps, doesn’t yet support private data, however, so there isn’t a way to hide users’ likes. Instead, the company built a way to save a user’s bookmarks off-protocol for the time being, which allows them to be private, similar to Bluesky’s DMs (private messages). If and when the protocol evolves to support private data, things could change.
+
+In the meantime, the addition of saved posts on Bluesky could encourage users to engage more with content on the platform, while also offering a way to look back at a curated collection of only posts you want to reference later, rather than everything you casually liked as you scrolled your feeds. It will also offer an alternative to replying to posts with that red pushpin emoji, as many Bluesky users do now as a workaround for saving posts they want to return to. (There’s even a nice little migration tool for those who used this method.)
+
+The addition follows another recent update for the Bluesky app, which rolled out only days ago, offering a button that now offers both photo and video uploads, tools to provide feedback to custom feed creators, and a way to add people to a Starter Park (a pack of recommended people to follow, which anyone can create).

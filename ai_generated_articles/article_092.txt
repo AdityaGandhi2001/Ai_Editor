@@ -1,0 +1,43 @@
+Ride-hailing service InDrive will now deliver your groceries
+Synopsis
+InDrive, the popular ride-hailing service with a unique bidding system, is expanding its horizons. The company is now looking to become a "super app" in emerging markets. This strategic shift comes after over 360 thousand app downloads and 6.5 billion transactions globally since 2018. Andries Smit, InDrive's Chief Growth and Business Officer, said that when customers use your services more frequently, they tend to stay longer and become more loyal overall. InDrive is now venturing into grocery delivery.
+
+Grocery delivery in Kazakhstan
+Service diversification
+InDrive will do grocery delivery, starting in Kazakhstan. The company has already completed over 4.1 million orders worldwide in 2024, making this one of its fastest-growing segments. The new service offers over 5,000 products with a promise of delivery within 15 minutes. Early tests in Kazakhstan have shown high customer satisfaction with a net promoter score of 83%, and an average of five grocery orders per user per month.
+
+Dark store model
+Strategic approach
+InDrive is using a dark store model for its grocery deliveries in Kazakhstan, focusing mostly on ready-to-eat meals. Smit said the company has added 30% more dark stores in the country since August. The company plans to expand this strategy to other regions over the next 12 months, including Spain, Canada, and Japan.
+
+Other services in the pipeline
+Tech innovation
+InDrive's super-app strategy will include new services tailored to the local market needs. Smit said these could include financial services, like small loans for drivers through the ride-hailing app. The company is also looking at a service that enables micro-mobility, connecting the consumers with local businesses and public transport services. He added that by leveraging this expertise and utilizing AI capabilities, InDrive plans to make its super-app strategy successful.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, sentence 3",
+        "error": "over 360 thousand app downloads",
+        "correction": "over 360 million app downloads",
+        "error_type": "Numerical / Magnitude error — order of magnitude decreased from millions to thousands"
+    },
+    {
+        "location": "Paragraph 1, sentence 3",
+        "error": "since 2018",
+        "correction": "since 2022",
+        "error_type": "Temporal error — incorrect start year/timeframe"
+    },
+    {
+        "location": "Paragraph 3, sentence 2",
+        "error": "The company has already completed over 4.1 million orders worldwide in 2024",
+        "correction": "The company has already completed over 41 million orders worldwide in 2024",
+        "error_type": "Magnitude / Numerical error — misplaced decimal / incorrect order of magnitude"
+    },
+    {
+        "location": "Paragraph 4, sentence 3",
+        "error": "including Spain, Canada, and Japan",
+        "correction": "including Brazil, Colombia, Egypt, Pakistan, Peru, and Mexico",
+        "error_type": "Named entity / Geographic error — wrong markets listed"
+    }
+]

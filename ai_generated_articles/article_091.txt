@@ -1,0 +1,29 @@
+## Asia Cup: Key stats of Dubai International Cricket Stadium
+### Synopsis
+The Asia Cup 2025, which will be played in the T20I format, is set to start on September 19. One of the two venues for the continental competition is the Dubai International Cricket Stadium. The venue has a reputation for being neutral, offering equal opportunities for both batters and bowlers. However, as the match transitions from evening to night, dew becomes a major factor that can influence the outcome of the game. Here are the key details of the venue.
+
+## Dew to play a significant role
+### Impact analysis
+Fast bowlers usually get assistance in the initial overs as the new ball swings, making it tough for batsmen to score runs during power plays. This is why teams prefer being cautious to avoid losing early wickets. During day matches, spinners are effective in the middle overs as the pitch slows down a bit. Meanwhile, teams often prefer to chase in evening matches owing to the dew factor.
+
+## Teams batting second have been successful lately
+### Statistical evidence
+As mentioned, teams winning the toss and opting to bowl have often been successful. In the 2025 ILT20, for instance, 11 out of 15 matches in Dubai were won by the team batting second, as per ESPNcricinfo. The average run rate of teams batting first in Dubai this year is 7.90. It goes up to 8.40 in the second innings. This trend highlights dew's impact on match outcomes and could be replicated in Asia Cup 2025 as well.
+
+## T20I stats at this venue
+### Stats
+The Dubai International Stadium has hosted a total number of 93 Men's T20 Internationals to date. Notably, 45 of them have been won by the teams batting first. The average run rates of teams batting first and second innings here are 7.35 and 7.28, respectively. While the highest score chased successfully by a team is 184 for Sri Lanka vs Bangladesh in 2022, the lowest score defended is 144 for Pakistan vs England in 2012 (matches involving two full-member teams).
+
+## Pakistan own a solid record here (T20Is)
+### Teams
+As UAE has hosted several bilateral fixtures of Pakistan, the Men in Green own a solid experience of playing in Dubai. They own the record of most wins (18) and most matches T20Is (32) at the venue (including Super-Over fixtures). India (5 wins in 9 games), Bangladesh (2 wins in 4 games), SL (5 wins in 8 games), and Afghanistan (7 wins in 11 games) have also done well here.
+
+**Error Annotations:**
+[
+    {
+        "location": "Synopsis paragraph, sentence 1",
+        "error": "The Asia Cup 2025 ... is set to start on September 19.",
+        "correction": "The Asia Cup 2025 ... is set to start on September 9.",
+        "error_type": "Numerical & Temporal Error — incorrect start date"
+    }
+]

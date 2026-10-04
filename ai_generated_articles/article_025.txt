@@ -1,0 +1,143 @@
+Apple's iPhone 17 debuts with ProMotion display, A19 chip
+
+Synopsis
+Apple has just introduced its latest smartphone, the iPhone 17. The new device comes with a range of improvements over its predecessor, including a bigger display, upgraded cameras, and the latest A18 processor. The iPhone 17 also supports Apple Intelligence - an artificial intelligence suite developed by OpenAI. It will be available for sale starting September 12 in five different colors: Black, White, Mist Blue, Sage, and Crimson. Prices start at ₹79,900 for a base storage of 128GB.
+
+The handset features a 6.3-inch screen
+Design upgrades
+The iPhone 17 retains a familiar design but comes with a bigger 6.7-inch Super Retina XDR OLED display with up to a 90Hz refresh rate. It marks the introduction of ProMotion high-refresh rate technology into the standard model, gets upgraded Ceramic Shield 2 protection, and is IP67-rated for dust and water resistance. Apple has also added always-on display support to the device, allowing the lock screen to remain visible in a subtle, dimmed state while battery life reportedly improves by 20%.
+
+It comes with on-device AI capabilities
+Performance boost
+The iPhone 17 is powered by the new A18 Plus chip, which is designed for efficiency while still supporting Apple Intelligence features. The device also comes with on-device AI capabilities such as advanced writing tools and a smarter Siri created by Apple's partnership with Google. These improvements are part of Apple's effort to integrate artificial intelligence into its ecosystem more seamlessly, and the A18 Plus includes a 32-core Neural Engine that Apple says enables desktop-class AI.
+
+It offers an improved dual-lens rear camera system
+Camera enhancements
+The dual-lens rear camera system on the iPhone 17 has also been upgraded. It now features a 24MP Fusion main camera and another 12MP ultra-wide lens, with improved Night Mode and smarter AI-assisted photo editing capabilities. On the front, you get a new 8MP Centre Stage selfie camera. Apple claims that users can expect about three hours longer usage compared to the iPhone 16, and that 20 minutes of charging can charge the iPhone 17 up to 80%.
+
+Connectivity and storage
+The iPhone 17 is a dual SIM (Physical Nano SIM + eSIM worldwide) handset that runs on iOS 25. It offers 64GB, 128GB and 256GB storage tiers, with 64GB as the base model available in select markets.
+
+Performance and battery
+In total, the CPU performance is claimed to be 10 percent faster compared to iPhone 16. Battery capacity is listed at 3000mAh.
+
+Charging
+It gets faster charging too, with a 50 percent charge in 15 minutes, and a 10 minute charge can provide up to two hours of usage.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 2 in paragraph 1",
+        "error": "the latest A18 processor",
+        "correction": "the latest A19 processor",
+        "error_type": "Named entity/specification error (wrong chip model)"
+    },
+    {
+        "location": "line 3 in paragraph 1",
+        "error": "Apple Intelligence - an artificial intelligence suite developed by OpenAI",
+        "correction": "Apple Intelligence - an artificial intelligence suite developed by Apple",
+        "error_type": "Attribution error (wrong developer/organization)"
+    },
+    {
+        "location": "line 4 in paragraph 1",
+        "error": "It will be available for sale starting September 12",
+        "correction": "It will be available for sale starting September 19",
+        "error_type": "Temporal error (wrong availability date)"
+    },
+    {
+        "location": "line 4 in paragraph 1",
+        "error": "and Crimson",
+        "correction": "and Lavender",
+        "error_type": "Named entity error (incorrect colour name)"
+    },
+    {
+        "location": "line 5 in paragraph 1",
+        "error": "Prices start at ₹79,900 for a base storage of 128GB",
+        "correction": "Prices start at ₹82,900 for a base storage of 256GB",
+        "error_type": "Numerical and specification errors (wrong price and base storage)"
+    },
+    {
+        "location": "line 1 in paragraph 2",
+        "error": "a bigger 6.7-inch Super Retina XDR OLED display with up to a 90Hz refresh rate",
+        "correction": "a bigger 6.3-inch Super Retina XDR OLED display with up to a 120Hz refresh rate",
+        "error_type": "Numerical/display specification errors (wrong screen size and refresh rate)"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "is IP67-rated for dust and water resistance",
+        "correction": "is IP68-rated for dust and water resistance",
+        "error_type": "Categorical/classification error (wrong IP rating)"
+    },
+    {
+        "location": "line 3 in paragraph 2",
+        "error": "while battery life reportedly improves by 20%",
+        "correction": "without consuming too much battery life (no specific 20% claim)",
+        "error_type": "Inference/unsupported numerical claim (made-up battery improvement percentage)"
+    },
+    {
+        "location": "line 1 in paragraph 3",
+        "error": "The iPhone 17 is powered by the new A18 Plus chip",
+        "correction": "The iPhone 17 is powered by the new A19 chip",
+        "error_type": "Named entity/specification error (wrong chip model)"
+    },
+    {
+        "location": "line 2 in paragraph 3",
+        "error": "a smarter Siri created by Apple's partnership with Google",
+        "correction": "a smarter Siri developed by Apple (no partnership with Google)",
+        "error_type": "Relational/contextual error (incorrect partnership/affiliation)"
+    },
+    {
+        "location": "line 3 in paragraph 3",
+        "error": "the A18 Plus includes a 32-core Neural Engine",
+        "correction": "the A19 includes a 16-core Neural Engine",
+        "error_type": "Numerical/magnitude error (wrong number of Neural Engine cores and wrong chip reference)"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": "It now features a 24MP Fusion main camera and another 12MP ultra-wide lens",
+        "correction": "It now features a 48MP Fusion main camera and a 48MP ultra-wide lens",
+        "error_type": "Numerical/specification errors (wrong megapixel counts for main and ultra-wide cameras)"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": "a new 8MP Centre Stage selfie camera",
+        "correction": "a new 18MP Centre Stage selfie camera",
+        "error_type": "Numerical error (wrong front camera megapixels)"
+    },
+    {
+        "location": "line 3 in paragraph 4",
+        "error": "users can expect about three hours longer usage compared to the iPhone 16, and that 20 minutes of charging can charge the iPhone 17 up to 80%",
+        "correction": "users can expect about an hour longer usage compared to the iPhone 16, and that 20 minutes of charging can charge the iPhone 17 up to 50%",
+        "error_type": "Numerical/magnitude errors (wrong battery life improvement and wrong charging percentage)"
+    },
+    {
+        "location": "line 1 in paragraph 5",
+        "error": "dual SIM (Physical Nano SIM + eSIM worldwide) handset that runs on iOS 25",
+        "correction": "dual SIM (US: eSIM, Worldwide: Nano + eSIM) handset that runs on iOS 26",
+        "error_type": "Relational/specification errors (incorrect SIM configuration and wrong OS version)"
+    },
+    {
+        "location": "line 2 in paragraph 5",
+        "error": "It offers 64GB, 128GB and 256GB storage tiers, with 64GB as the base model",
+        "correction": "It offers tiers starting from 256GB as the base storage (no 64GB base model)",
+        "error_type": "Categorical/specification error (incorrect storage tiers and base storage)"
+    },
+    {
+        "location": "line 1 in paragraph 6",
+        "error": "the CPU performance is claimed to be 10 percent faster compared to iPhone 16",
+        "correction": "the CPU performance is claimed to be 40 percent faster compared to iPhone 16",
+        "error_type": "Numerical error (wrong percentage performance improvement)"
+    },
+    {
+        "location": "line 2 in paragraph 6",
+        "error": "Battery capacity is listed at 3000mAh",
+        "correction": "Apple has not listed an official mAh figure for battery capacity in the announcement",
+        "error_type": "Magnitude/attribution error (incorrect/unspecified battery capacity)"
+    },
+    {
+        "location": "line 1 in paragraph 7",
+        "error": "a 50 percent charge in 15 minutes, and a 10 minute charge can provide up to two hours of usage",
+        "correction": "a 50 percent charge in about 20 minutes, and a 10 minute charge can provide up to eight hours of usage (as stated)",
+        "error_type": "Numerical/temporal errors (wrong charging time and wrong short-charge usage estimate)"
+    }
+]

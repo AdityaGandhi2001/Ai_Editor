@@ -1,0 +1,149 @@
+## Apple Watch Series 11, Ultra 3, SE 3 go official
+### Synopsis
+Apple has announced its latest line of smartwatches at its 'WonderLaunch' launch event today. The new models include the Apple Watch Series 11, Apple Watch Ultra 3, and Apple Watch SE 3. Each model comes with unique features and improvements over their predecessors. Let's take a closer look at what these new devices have to offer.
+
+## The Series 11 can detect hypertension
+### Health features
+The Apple Watch Series 11 comes with a feature that can alert users about possible hypertension. The smartwatch uses data from the ECG to detect chronic high blood pressure by analyzing how blood vessels respond to heartbeats over 14-day windows and notifying users if it identifies patterns. Apple says it will roll the alerts out to Series 8 and 9 owners as well.
+
+## It debuts with a Sleep Score feature
+### Tech advancements
+Apple Watch Series 11 also has a new Sleep Score feature to help users understand their sleep quality better. The Sleep Score only factors in sleep duration and REM time, omitting bedtime consistency and stage durations. The smartwatch debuts with LTE connectivity rather than 5G, which Apple warns may use more battery. It gets up to 36 hours of battery life, comes in Jet Black, Silver, Rose Gold and Space Gray shades, and starts at ₹49,900.
+
+## The Ultra 3 comes with satellite connectivity
+### Satellite feature
+The Apple Watch Ultra 3 is the first Apple Watch to bring satellite connectivity, but Apple notes the Series 10 already had a limited satellite feature the company introduced last year. The Ultra 3 has the largest display yet using microLED panels rather than OLED. It cannot send two-way messages by satellite — only SOS beacons — and does not share location via Find My when offline. The watch comes with up to 60 hours of battery life, with up to 90 hours in low power mode. It comes with LTPO3 and wide-angle OLEDs, making it the largest screen of any Apple Watch ever, and brighter when viewed from an angle. Apple Watch Ultra 3 is available only in Silver and Space Black titanium finishes. Prices start at ₹1,29,900.
+
+## SE 3 gets always-on display
+### Performance boost
+Apple Watch SE 3 flaunts a newer S8 chip, offering minor tweaks over the S8 used in its predecessor. The chip upgrade does not enable an always-on display and the watch doesn't support double-tap gestures. The S8 chip also enables SE 3 to get a 36-hour battery life, and for the first time, the device supports super-fast charging. It is offered in 41mm and 45mm sizes, and prices start at ₹19,900.
+
+**Error Annotations:**
+[
+    {
+        "location": "line 1 in paragraph 1",
+        "error": "'WonderLaunch' launch event",
+        "correction": "'Awe Dropping' launch event (Apple's annual hardware event)",
+        "error_type": "Named entity error — incorrect event name"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "uses data from the ECG",
+        "correction": "uses data from the optical heart sensor",
+        "error_type": "Categorical/technical error — wrong sensor attribution"
+    },
+    {
+        "location": "line 2 in paragraph 2",
+        "error": "analyzing ... over 14-day windows",
+        "correction": "analyzing data over 30-day periods",
+        "error_type": "Numerical/temporal error — incorrect measurement period"
+    },
+    {
+        "location": "line 3 in paragraph 2",
+        "error": \"roll the alerts out to Series 8 and 9 owners as well\",
+        "correction": \"roll the alerts out to Series 9 and 10 owners as well\",
+        "error_type": "Relational/entity error — wrong device models listed"
+    },
+    {
+        "location": "line 2 in paragraph 3",
+        "error": \"The Sleep Score only factors in sleep duration and REM time, omitting bedtime consistency and stage durations.\",
+        "correction": \"The Sleep Score factors in sleep duration, bedtime, consistency, wake frequency, and time spent in each sleep stage.\",
+        "error_type": "Interpretation/classification error — incorrect description of what the Sleep Score measures"
+    },
+    {
+        "location": "line 3 in paragraph 3",
+        "error": \"debuts with LTE connectivity rather than 5G, which Apple warns may use more battery.\",
+        "correction": \"debuts with 5G connectivity; Apple notes it uses less battery compared with prior cellular implementations.\",
+        "error_type": "Technical + inference error — wrong connectivity type and incorrect battery implication"
+    },
+    {
+        "location": "line 4 in paragraph 3",
+        "error": \"It gets up to 36 hours of battery life\",
+        "correction": \"It gets up to 24 hours of battery life\",
+        "error_type": "Numerical error — incorrect battery duration"
+    },
+    {
+        "location": "line 4 in paragraph 3",
+        "error": \"starts at ₹49,900\",
+        "correction": \"starts at ₹46,900\",
+        "error_type": "Numerical/currency error — incorrect starting price"
+    },
+    {
+        "location": "line 1 in paragraph 4",
+        "error": \"is the first Apple Watch to bring satellite connectivity, but Apple notes the Series 10 already had a limited satellite feature the company introduced last year.\",
+        "correction": \"is the first Apple Watch with satellite connectivity (the Ultra 3 introduces this capability).\",
+        "error_type": "Relational/chronological error — contradictory/incorrect claim about which model first had satellite"
+    },
+    {
+        "location": "line 2 in paragraph 4",
+        "error": \"using microLED panels rather than OLED\",
+        "correction": \"using wide-angle OLED panels (LTPO)\" ,
+        "error_type": "Technical specification error — wrong display technology"
+    },
+    {
+        "location": "line 3 in paragraph 4",
+        "error": \"It cannot send two-way messages by satellite — only SOS beacons — and does not share location via Find My when offline.\",
+        "correction": \"It can be used to send messages and share location via Find My by satellite for emergency communications when cellular or Wi‑Fi aren't available.\",
+        "error_type": "Capability/functional error — incorrect description of satellite features"
+    },
+    {
+        "location": "line 4 in paragraph 4",
+        "error": \"The watch comes with up to 60 hours of battery life, with up to 90 hours in low power mode.\",
+        "correction": \"The watch comes with up to 42 hours of battery life, with up to 72 hours in low power mode.\",
+        "error_type": "Numerical error — incorrect battery durations"
+    },
+    {
+        "location": "line 5 in paragraph 4",
+        "error": \"It comes with LTPO3 and wide-angle OLEDs, making it the largest screen of any Apple Watch ever, and brighter when viewed from an angle.\",
+        "correction": \"It comes with LTPO3 and wide-angle OLEDs, making it the largest screen of any Apple Watch ever and brighter when viewed from an angle.\",
+        "error_type": "Minor inconsistency present (contradiction with earlier microLED claim) — technical inconsistency"
+    },
+    {
+        "location": "line 6 in paragraph 4",
+        "error": \"available only in Silver and Space Black titanium finishes\",
+        "correction": \"available in Black and Natural Titanium finishes\",
+        "error_type": "Named entity/product variant error — incorrect color/finish options"
+    },
+    {
+        "location": "line 6 in paragraph 4",
+        "error": \"Prices start at ₹1,29,900.\",
+        "correction": \"Prices start at ₹89,900.\",
+        "error_type": "Numerical/currency error — incorrect starting price"
+    },
+    {
+        "location": "line 1 in paragraph 5",
+        "error": \"flaunts a newer S8 chip, offering minor tweaks over the S8 used in its predecessor.\",
+        "correction": \"flaunts a newer S10 chip, offering a major upgrade over the S8 used in its predecessor.\",
+        "error_type": "Attribution + interpretation error — wrong chip identifier and misleading description of performance gain"
+    },
+    {
+        "location": "line 2 in paragraph 5",
+        "error": \"does not enable an always-on display and the watch doesn't support double-tap gestures.\",
+        "correction": \"enables an always-on display and supports gestures like double-tap and wrist flick.\",
+        "error_type": "Functional/capability error — incorrect statement about supported features"
+    },
+    {
+        "location": "line 3 in paragraph 5",
+        "error": \"SE 3 to get a 36-hour battery life\",
+        "correction": \"SE 3 to get an all-day ~18-hour battery life\",
+        "error_type": "Numerical error — incorrect battery duration"
+    },
+    {
+        "location": "line 3 in paragraph 5",
+        "error": \"the device supports super-fast charging.\",
+        "correction": \"the device supports fast charging (first time for SE).\",
+        "error_type": "Attribution/exaggeration error — overstated charging capability"
+    },
+    {
+        "location": "line 4 in paragraph 5",
+        "error": \"It is offered in 41mm and 45mm sizes\",
+        "correction": \"It is offered in 40mm and 44mm sizes\",
+        "error_type": "Numerical/measurement error — incorrect case size specifications"
+    },
+    {
+        "location": "line 4 in paragraph 5",
+        "error": \"prices start at ₹19,900.\",
+        "correction": \"prices start at ₹25,900.\",
+        "error_type": "Numerical/currency error — incorrect starting price"
+    }
+]

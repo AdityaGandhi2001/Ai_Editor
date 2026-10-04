@@ -1,0 +1,49 @@
+## Why LIC seeks rollback of retrospective GST changes
+### Synopsis
+The Life Insurance Confederation and the Life Insurance Company of India (LIC) have already filed a petition with the Supreme Court in 2024 and are seeking relief from recent Goods and Services Tax (GST) changes that have impacted the insurance sector. The main demand is for these GST changes to be made prospective instead of retrospective.
+
+## Insurers demand input tax credit on renewal premiums
+### Tax relief
+The insurers are also seeking the right to claim input tax credit (ITC) on new business premiums only. ITC is a facility that enables businesses to adjust GST paid on inputs like reinsurance and commissions against their tax liability. The benefit, which was already included in policy pricing, is now being sought by insurers as part of their demands for GST relief.
+
+## Commission expenses need GST exemption, say insurers
+### Commission exemption
+The insurers are also demanding an exemption for commission expenses from GST. Currently, both reinsurance and commissions are exempt from taxation. However, reinsurance and commissions together account for nearly 45% of total expenses.  Taxing commissions creates an inverted duty structure where tax on inputs is higher than tax on the final product, resulting in unclaimed credits and increased costs for insurers.
+
+## Industry concerns over GST changes
+### Market impact
+Industry executives have said that a lower GST rate may not necessarily boost demand for insurance. They describe insurance as a "push product" not solely driven by pricing. Analysts predict that health insurers will see higher loss ratios, life insurers will face pressure on new business margins, and aggregators like Policybazaar could be impacted by lower commissions due to these changes.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 3 (Synopsis), sentence 1",
+        "error": "The Life Insurance Confederation",
+        "correction": "The Life Insurance Council",
+        "error_type": "Named Entity Error — incorrect organization name"
+    },
+    {
+        "location": "Paragraph 3 (Synopsis), sentence 1",
+        "error": "the Life Insurance Company of India (LIC)",
+        "correction": "the Life Insurance Corporation of India (LIC)",
+        "error_type": "Named Entity Error — wrong full name/expansion of acronym"
+    },
+    {
+        "location": "Paragraph 3 (Synopsis), sentence 1",
+        "error": "have already filed a petition with the Supreme Court in 2024 and are seeking relief",
+        "correction": "are likely to write to the Ministry of Finance and the Central Board of Indirect Taxes and Customs (CBIC), seeking relief",
+        "error_type": "Temporal/Relational & Attribution Error — incorrect action and timing substituted for the reported intent to approach government/CBIC"
+    },
+    {
+        "location": "Paragraph 5 (Tax relief), sentence 1",
+        "error": "claim input tax credit (ITC) on new business premiums only",
+        "correction": "claim input tax credit (ITC) on renewal premiums",
+        "error_type": "Relational/Contextual Error — wrong scope of premiums eligible for ITC"
+    },
+    {
+        "location": "Paragraph 8 (Commission exemption), sentence 3",
+        "error": "reinsurance and commissions together account for nearly 45% of total expenses",
+        "correction": "reinsurance and commissions together account for nearly 90% of total expenses",
+        "error_type": "Magnitude/Scale Error — incorrect percentage (order-of-magnitude)"
+    }
+]

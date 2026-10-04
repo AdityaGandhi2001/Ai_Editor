@@ -1,0 +1,129 @@
+How 'nepo kids' lifestyles triggered Gen Z protests in Nepal
+Synopsis
+Before a massive crowd, mostly Gen-Z protestors, took to Kathmandu streets to protest against corruption and the government's social media ban, a social media trend, "Nepo Kid," was trending. The campaign, which spread on platforms like Instagram and Telegram, called the offspring of political leaders "Nepo Kids" and scrutinized their extravagant lifestyles. Users posted pictures and videos showing luxury cars, foreign education, and lavish vacations enjoyed by these kids, highlighting the contrast with ordinary citizens who migrate abroad for work. These migrant workers contribute to just 3.3% of Nepal's GDP via remittances.
+
+Origin of the term 'Nepo kid'
+Term origin
+The term "Nepo Kid" comes from nepotism, which refers to getting opportunities through family connections instead of merit. It was first coined in South Korea's K-pop scene and later used in Bollywood before being used in the Philippines. In Nepal, it is now being used against the families of former kings and royal relatives.
+
+Accusations of misuse of taxpayer money
+Public sentiment
+In the social media posts, Reddit users accused political families of misusing taxpayers' money. One post read, "When you see politicians' children, it feels like taxpayers' money has funded their luxury cars, foreign education and lifestyle, while ordinary youths are forced to work hard abroad." Meanwhile, videos with the hashtag #PoliticiansNepoBabyNepal on TikTok suggested these kids were the children of journalists and businessmen, not politicians.
+
+'While we struggle, they live in utter privilege'
+Posts
+"Nepo Kids show off their lifestyle on Instagram and TikTok, but never explain where the money comes from," one Kathmandu Post columnist said in a widely shared piece. "Children of elite politicians know exactly where their parents' money and luxury come from—taxpayers like you and me. While we struggle, they live in utter privilege. Start listing their social media accounts and archiving their content to hold them accountable and prevent them from erasing the evidence," Asheem Man Singh Basnyat, a local television anchor, was quoted as saying in a viral clip.
+
+Protest planned against social media ban
+Protest aftermath
+These Reddit discussions also suggested the campaign was likely to spill onto the streets, and it did, on Monday. The nepo child campaign quickly gained traction, following fury over the Oli government's recent ban on 260 social media platforms, including Facebook, Instagram, WhatsApp, YouTube, and TikTok, announced on September 14, 2024. Hundreds of thousands of Generation Z protesters, many in school uniforms, marched from Kathmandu's Durbar Square to Parliament on Monday, protesting against corruption and the social media ban.
+
+Economic disparity and censorship
+Campaign impact
+Clashes with police broke out after protestors smashed over barriers and attempted to storm the parliament building. Police used batons, tear gas, rubber bullets, and water cannons in response. According to Nepali authorities, at least 76 individuals died from serious injuries sustained during the demonstration, including bullet wounds to the head and chest. The government stated that a curfew would remain in effect in parts of the capital until 10:00pm on Monday night.
+
+TikTok was banned for 3 years in 2023
+PM
+Prior to Monday's protests, Nepal's prime minister Sher Bahadur Deuba defended the government's decision, saying, "The independence of the nation is greater than the loss of jobs of a handful of individuals." Freedom of speech is entirely unrestricted in Nepal, but critics say the Oli government's growing overreach is raising concerns. TikTok was banned for three years in 2023 because of concerns about hate speech and cybercrime but was reinstated after the company agreed to register with the government.
+
+The leaderless movement, dubbed 'The Final Revolution', is demanding transparency and accountability. With endorsements from Bollywood celebrities such as Priyanka Chopra and Salman Khan, many observers predicted the protests would topple the government within 48 hours.
+
+**Error Annotations:**
+[
+    {
+        "location": "Paragraph 1, line 2",
+        "error": "Says the campaign spread on Instagram and Telegram",
+        "correction": "The campaign spread primarily on TikTok and Reddit",
+        "error_type": "Named Entity Error — wrong platform names"
+    },
+    {
+        "location": "Paragraph 1, line 4",
+        "error": "States remittances contribute 3.3% of Nepal's GDP",
+        "correction": "Remittances contribute about 33% of Nepal's GDP",
+        "error_type": "Magnitude & Scale Error — incorrect percentage and order of magnitude"
+    },
+    {
+        "location": "Paragraph 2, line 2",
+        "error": "Claims the term was first coined in South Korea's K-pop scene",
+        "correction": "The term was first popularized in Hollywood and Bollywood before being used in the Philippines",
+        "error_type": "Categorical/Origin Error — wrong origin of term"
+    },
+    {
+        "location": "Paragraph 2, line 3",
+        "error": "Says the term is used against families of former kings and royal relatives in Nepal",
+        "correction": "In Nepal the term has been used against families of former prime ministers, ministers, lawmakers and other influential figures",
+        "error_type": "Relational Error — incorrect target group"
+    },
+    {
+        "location": "Paragraph 3, line 3",
+        "error": "Claims videos suggested the kids were children of journalists and businessmen, not politicians",
+        "correction": "The campaign targeted offspring of political leaders and influential political families",
+        "error_type": "Categorical/Classification Error — wrong classification of targeted families"
+    },
+    {
+        "location": "Paragraph 4, line 1",
+        "error": "Attributes a common TikTok user quote to a 'Kathmandu Post columnist'",
+        "correction": "The quote originated from a TikTok user or social media posts, not a Kathmandu Post columnist",
+        "error_type": "Attribution Error — misattributed speaker/source"
+    },
+    {
+        "location": "Paragraph 4, line 2",
+        "error": "Attributes a quote to Asheem Man Singh Basnyat but identifies him as 'a local television anchor'",
+        "correction": "Asheem Man Singh Basnyat is the Managing Director of ride-hailing company Pathao; his quote was reported by Republica newspaper",
+        "error_type": "Named Entity/Role Error — incorrect role and misattribution"
+    },
+    {
+        "location": "Paragraph 5, line 2",
+        "error": "States the Oli government banned 260 social media platforms announced on September 14, 2024",
+        "correction": "The government banned 26 social media platforms; the measures were announced in early September 2025 (reported around Sept. 4–5, 2025)",
+        "error_type": "Numerical & Temporal Errors — wrong quantity and wrong date/year"
+    },
+    {
+        "location": "Paragraph 5, line 3",
+        "error": "Says 'hundreds of thousands' marched and that the route was from Durbar Square to Parliament",
+        "correction": "Reports describe thousands (not hundreds of thousands) of mainly Gen Z protesters marching from Maitighar Mandala to Parliament",
+        "error_type": "Magnitude & Location Error — exaggerated crowd size and incorrect march route"
+    },
+    {
+        "location": "Paragraph 6, line 1",
+        "error": "Omits that police used live fire, stating they used only batons, tear gas, rubber bullets, and water cannons",
+        "correction": "Police response included tear gas, water cannons and reported use of live fire in some clashes (in some reports), not only non-lethal measures",
+        "error_type": "Relational/Contextual Error — omission/misrepresentation of use of force"
+    },
+    {
+        "location": "Paragraph 6, line 2",
+        "error": "Claims at least 76 people died during the demonstration",
+        "correction": "Reports cite at least 16 deaths (clean article) or at least 20 deaths in some sources; 76 is not supported by those reports",
+        "error_type": "Numerical Error — incorrect fatality count"
+    },
+    {
+        "location": "Paragraph 7, line 1",
+        "error": "Names Sher Bahadur Deuba as Nepal's prime minister defending the ban",
+        "correction": "The prime minister at the time of these events was KP Sharma Oli; he defended the decision",
+        "error_type": "Named Entity Error — wrong officeholder"
+    },
+    {
+        "location": "Paragraph 7, line 3",
+        "error": "States TikTok was banned for three years in 2023",
+        "correction": "TikTok was banned for nine months in 2023 before being reinstated after agreeing to register with authorities",
+        "error_type": "Numerical/Temporal Error — incorrect duration"
+    },
+    {
+        "location": "Paragraph 7, line 2",
+        "error": "Claims 'Freedom of speech is entirely unrestricted in Nepal'",
+        "correction": "Freedom of expression in Nepal has been largely available but there have been rising concerns about overreach and censorship; it is not 'entirely unrestricted'",
+        "error_type": "Interpretation Error — overgeneralization/misinterpretation of rights situation"
+    },
+    {
+        "location": "Paragraph 8, line 1",
+        "error": "Says the movement had endorsements from Bollywood celebrities such as Priyanka Chopra and Salman Khan",
+        "correction": "Public endorsements came from Nepalese figures, including Kathmandu Mayor Balen Shah and local celebrities like Madan Krishna Shrestha and Hari Bansha Acharya",
+        "error_type": "Named Entity/Contextual Error — wrong endorsers/celebrities"
+    },
+    {
+        "location": "Paragraph 8, line 2",
+        "error": "Claims the protests would topple the government within 48 hours",
+        "correction": "There was no verified outcome immediately toppling the government within 48 hours; such a rapid political collapse was not reported",
+        "error_type": "Inference Error — unsupported causal/consequential claim"
+    }
+]

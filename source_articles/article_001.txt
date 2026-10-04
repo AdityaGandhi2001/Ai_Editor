@@ -1,0 +1,97 @@
+Source Article(s):
+
+# iPhone 17 Pro, iPhone 17 Pro Max Are Here: Massive Camera Upgrades, and A19 Pro Chip
+
+Published Date: Wednesday September 10, 2025
+
+Apple launched the new iPhone 17 Pro and the iPhone 17 Pro Max at its “Awe Dropping” event on September 9.
+
+Apple's all-new iPhone 17 Pro and 17 Pro Max have been unveiled at the 'Awe Dropping' event on Tuesday. The Pro models will be available alongside the standard iPhone 17 and the all-new Air model in the coming days. As expected, the iPhone 17 Pro models are powered by Apple's A19 Pro chip, the top-tier silicon. Both the Pro models run iOS 26 out of the box. The company's latest flagship smartphones were announced by the company's CEO, Tim Cook, during a pre-recorded event, which was livestreamed on the Apple website and its YouTube channel.
+
+The successor to the iPhone 16 Pro models arrives with several new features and upgrades. Both of these devices will support all the artificial intelligence (AI) features in the Apple Intelligence suite.
+
+## iPhone 17 Pro and iPhone 17 Pro Max Price and Availability
+
+iPhone 17 Pro price in the US starts at $1,099 for the 256GB storage variant, while the iPhone 17 Pro Max is available starting $1,199 for the 256GB storage variant. In India, the iPhone 17 Pro starts at Rs. 1,34,900 and the 17 Pro Max starts at Rs. 1,49,900. It is available in Cosmic Orange, Deep Blue, and Silver colour options.
+
+The iPhone 17 Pro models will be available to pre-order starting September 12, and the smartphones will go on sale globally starting September 19.
+
+## iPhone 17 Pro and iPhone 17 Pro Max Features, Specifications
+
+The iPhone 17 Pro models have returned to an aluminum build, which means this year's models will not feature the titanium body seen in the iPhone 15 Pro and iPhone 16 Pro models. On the other hand, the new member of the lineup, iPhone 17 Air, gets a titanium body. Apple has moved to a unibody design with a "full-width camera plateau" on the back, completing the new design.
+
+Speaking of new, the iPhone 17 Pro is also first flagship smartphone from the tech giant to feature a vapour chamber cooling system. Apple says it is designed to offer higher sustained performance during demanding workloads. The iPhone 17 Pro features a 6.3-inch Super Retina XDR display with ProMotion up to 120Hz, while the 17 Pro Max gets a 6.9-inch display of the same specification. Ceramic Shield 2, which contains a new Apple-designed coating, is said to offer 3x better scratch resistance to the screens. Both devices have a peak outdoor brightness of 3,000nits.
+
+The iPhone 17 Pro models are equipped with the new A19 Pro chipset, paired with the company's new vapour chamber. Apple claims its "most capable" iPhone chip offers up to 40 percent better sustained performance compared to the older generations. It comes with a six-core CPU and a six-core GPU architecture, with each GPU core featuring neural accelerators.
+
+Coming to the cameras, the iPhone 17 Pro models feature a triple rear camera setup with a 48-megapixel primary shooter, a 48-megapixel ultrawide sensor, and a 48-megapixel telephoto lens. This is the first time all three cameras at the back of an iPhone has the same 48-megapixel resolution. The telephoto camera gets the biggest upgrade compared to previous generation's 12-megapixel shooter. Apple says it is 56 percent larger and offers 8x optical zoom and 40 digital zoom. On the front, it comes with an 18-megapixel camera which uses Centre Stage to dynamically frame photos.
+
+The iPhone 17 Pro and the iPhone 17 Pro Max will run on iOS 26 out of the box. The new operating system brings the Liquid Glass user interface to the smartphones as well as new Apple Intelligence features. Users will be able to use artificial intelligence (AI) features such as Live Translation in Messages, FaceTime, and Phone app; upgraded visual intelligence capabilities; as well as new screening tools for calls and messages.
+
+As per the company, the iPhone 17 Pro models get a larger battery due to the unibody design, and the A19 Pro SoC offers higher power efficiency. Apple also claimed that the iPhone 17 Pro Max has "the best battery life ever in an iPhone." The devices support high-wattage USB-C power adapters and are said to be charged up to 50 percent in just 20 minutes.
+
+### iPhone 17 Pro
+
+**KEY SPECS**
+
+Display: 6.30-inch  
+Processor: Apple A19 Pro  
+Front Camera: 18-megapixel  
+Rear Camera: 48-megapixel + 48-megapixel + 48-megapixel  
+RAM: 12GB  
+Storage: 256GB, 512GB, 1TB  
+OS: iOS 26  
+Resolution: 1206x2622 pixels  
+
+### iPhone 17 Pro Max
+
+**REVIEW**
+
+**KEY SPECS**
+
+Display: 6.90-inch  
+Processor: Apple A19 Pro  
+Front Camera: 18-megapixel  
+Rear Camera: 48-megapixel + 48-megapixel +48-megapixel  
+RAM:12GB  
+Storage:256GB ,512GB ,1TB ,2TB  
+OS:iOS26  
+Resolution:1320x2868 pixels  
+
+**Good**  
+- The boldest redesign since the iPhone X  
+- Bright and stunning display  
+- A19 Pro under the hood guarantees excellent performance  
+- Massive camera upgrade  
+- Video quality gets a much-needed bump  
+- Centre Stage camera at front changes selfie game on iPhones forever  
+- Improved charging speed  
+
+**Bad**  
+- Aluminium body picks up scratches  
+- Expensive  
+- Heavier than the16Pro Max  
+
+Get your daily dose of tech news, reviews, and insights in under80 characters on Gadgets360 Turbo.
+
+# Apple launches iPhone 17 Pro with major camera upgrades
+
+Published Date: Tuesday September 09, 2025
+
+Apple launched the iPhone 17 Pro and the iPhone 17 Pro Max on Tuesday with a new design and an upgraded camera system.
+
+The devices are powered by the new A19 Pro chipset and have a larger battery, Apple said. Plus, it noted that eSIM-only models will have a slightly larger battery as compared to Pro models with physical SIMs.
+
+The new Pro phones have an aluminium unibody instead of the titanium used in the previous year’s iPhone.
+
+The company said it designed a new vapor chamber thermal system along with the new unibody. Apple is also adding ceramic shield 2 protection on the front and previous-gen ceramic shield on the back.
+
+The company is upgrading the telephoto camera from a 12-megapixel sensor to a 48-megapixel sensor. With the sensor change, users will be able to get an 8x optical zoom. This is one of the highest optical zoom capacities on the market, with the Vivo X200 offering 8.7x optical zoom with its periscope kit.
+
+Apple is offering 40x digital zoom. This is lower than 100x offered by Google or Samsung, but it is not clear if Apple is doing digital regeneration using AI like those companies.
+
+All of this is housed by a new rectangular camera bar covering the entire width of the back of the iPhone, which Apple has chosen to call “plateau.”
+
+The selfie camera is also getting an upgrade from a 12-megapixel to an 18-megapixel sensor. Apple will now also allow for a video recording from both the front and the back camera simultaneously.
+
+The iPhone 17 Pro starts at $1,099, and the iPhone 17 Pro Max starts at $1,199. These devices are available to preorder on Friday and will be available on September 19. Both models now start at 256GB base storage, and the company is also offering a 2TB model for the 17 Pro Max.
